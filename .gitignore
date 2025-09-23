@@ -1,0 +1,78 @@
+# Project PTM_SkillCheck_7807352a-f8b1-8590-656f-95c373379dad
+# Ignore other Baldurs Gate 3 files
+bin/
+DotNetCore/
+Launcher/
+InstallScript.vdf
+DigitalDeluxe/
+# Data
+!Data/
+Data/*
+# Editor directory
+!Data/Editor/
+Data/Editor/*
+!Data/Editor/Mods/
+Data/Editor/Mods/*
+!Data/Editor/Mods/PTM_SkillCheck_7807352a-f8b1-8590-656f-95c373379dad
+# Mods directory
+!Data/Mods/
+Data/Mods/*
+!Data/Mods/PTM_SkillCheck_7807352a-f8b1-8590-656f-95c373379dad
+Data/Mods/PTM_SkillCheck_7807352a-f8b1-8590-656f-95c373379dad/Story/Dialogs/Autosave/*
+Data/Mods/PTM_SkillCheck_7807352a-f8b1-8590-656f-95c373379dad/Story/Dialogs/Recovered/*
+# Parse Projects
+!Data/Projects/
+Data/Projects/*
+!Data/Projects/PTM_SkillCheck_7807352a-f8b1-8590-656f-95c373379dad
+# Parse Public
+!Data/Public/
+Data/Public/*
+!Data/Public/PTM_SkillCheck_7807352a-f8b1-8590-656f-95c373379dad
+!Data/Public/Game/Credits/credits.txt
+# Parse Generated
+!Data/Generated/
+Data/Generated/*
+!Data/Generated/Public
+Data/Generated/Public/*
+!Data/Generated/Public/PTM_SkillCheck_7807352a-f8b1-8590-656f-95c373379dad
+# Story build files
+goals.raw
+story.div
+story.div.osi
+story_ac.dat
+story_header.div
+# AI grid generate files
+aigridmeta.data
+aigridpainted.data
+aigrid.data
+navigationPortals.lsf
+chasms.lsf
+# Minimap & World map files
+**/Minimaps/*
+**/\[PAK\]_Minimaps/*
+**/WorldMap/*
+MinimapAtlas.mmxml
+# ignore logs
+*.log
+*.ailog
+log.txt
+errors.txt
+dialoglog.txt
+personallog.txt
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.lnk
+*.html
+# Code Editor        #
+######################
+.vscode/settings.json
+# Loca Check         #
+######################
+Data/Mods/PTM_SkillCheck_7807352a-f8b1-8590-656f-95c373379dad/Localization/English/EnglishXMLMergeHelper.exe
