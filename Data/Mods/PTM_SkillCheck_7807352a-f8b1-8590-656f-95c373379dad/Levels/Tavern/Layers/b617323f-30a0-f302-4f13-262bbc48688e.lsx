@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="200"/>
+    <region id="Layers">
+        <node id="root">
+            <children>
+                <node id="Layer">
+                    <attribute id="Object" type="guid" value="587262dd-c7c2-86d3-9b82-bcc01bbcb457"/>
+                </node>
+                <node id="Layer">
+                    <attribute id="Object" type="guid" value="015d4d8d-2ccd-e8dc-4938-aa04ea51cdfa"/>
+                </node>
+            </children>
+        </node>
+    </region>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="ID" type="guid" value="b617323f-30a0-f302-4f13-262bbc48688e"/>
+            <attribute id="LayerColor" type="int32" value="0"/>
+            <attribute id="Name" type="LSString" value="Kitchen"/>
+        </node>
+    </region>
+</save>

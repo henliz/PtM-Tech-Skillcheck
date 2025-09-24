@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="200"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="ID" type="guid" value="cc2e3257-6444-8c5b-15e5-dbc30aad6d56"/>
+            <attribute id="LayerColor" type="int32" value="0"/>
+            <attribute id="Name" type="LSString" value="Room_to_eat"/>
+        </node>
+    </region>
+</save>
