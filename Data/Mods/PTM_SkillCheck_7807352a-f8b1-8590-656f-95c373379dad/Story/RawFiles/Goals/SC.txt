@@ -1,0 +1,48 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+
+KBSECTION
+IF
+FlagSet((FLAG)SC_Thief_Scared_dcf4281e-f8fe-4eeb-91cf-fab54ad60651, _Player, _)
+AND
+NOT DB_OnlyOnce("SC_PlayerGotKey")
+AND
+CreateAtObject(2302600e-96cf-416d-82a5-42638d49a3a8, _Player, 0, 0, "", 0, _Key)
+THEN
+DB_OnlyOnce("SC_PlayerGotKey");
+ToInventory(_Key, _Player, 1, 1, 1);
+
+IF
+EnteredTrigger(_Player, (TRIGGER)8ad06736-6cdb-45c1-b291-0d43b4e9da57)
+AND
+NOT DB_OnlyOnce("SC_HiddenWallDiscovered")
+AND
+GetFlag((FLAG)SC_Knows_Hidden_Wall_882af30c-eee4-4513-b1b2-3ea81804d2dc, _Player, 1)
+THEN
+SetCanInteract(a900a698-3178-42ca-a8a6-ba6bc82daa27, 1);
+//PROC_TryStartAD(GLO_PerceptionSuccess_48825dbe-a320-7c4c-fe3e-372b717d5bc9, _Player);
+DB_OnlyOnce("SC_HiddenWallDiscovered");
+
+IF
+EnteredTrigger(_Player, (TRIGGER)8ad06736-6cdb-45c1-b291-0d43b4e9da57)
+AND
+NOT DB_OnlyOnce("SC_HiddenWallDiscovered")
+AND
+NOT DB_OnlyOncePerPlayer(_Player, "SC_HiddenWallPerceptionTried")
+AND
+GetFlag((FLAG)SC_Knows_Hidden_Wall_882af30c-eee4-4513-b1b2-3ea81804d2dc, _Player, 0)
+THEN
+RequestPassiveRoll(_Player, a900a698-3178-42ca-a8a6-ba6bc82daa27, "SkillCheck", "Perception", (DIFFICULTYCLASS)8d398021-34e0-40b9-b7b2-0445f38a4c0b, 0, "SC_TavernWall_Rolled");
+DB_OnlyOncePerPlayer(_Player, "SC_HiddenWallPerceptionTried");
+
+IF
+RollResult("SC_TavernWall_Rolled", _Player, a900a698-3178-42ca-a8a6-ba6bc82daa27, 1, 0, _)
+THEN
+SetCanInteract(a900a698-3178-42ca-a8a6-ba6bc82daa27, 1);
+//PROC_TryStartAD(GLO_PerceptionSuccess_48825dbe-a320-7c4c-fe3e-372b717d5bc9, _Player);
+DB_OnlyOnce("SC_HiddenWallDiscovered");
+EXITSECTION
+
+ENDEXITSECTION
+ParentTargetEdge "__Start"
