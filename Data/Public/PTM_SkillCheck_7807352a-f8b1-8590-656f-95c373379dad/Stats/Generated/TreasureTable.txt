@@ -1,0 +1,4 @@
+treasure itemtypes "Common","Uncommon","Rare","Epic","Legendary","Divine","Unique"
+new treasuretable "SC_Chest_Tavern"
+new subtable "10000,1"
+object category "I_OBJ_GoldPile",1,0,0,0,0,0,0,0
