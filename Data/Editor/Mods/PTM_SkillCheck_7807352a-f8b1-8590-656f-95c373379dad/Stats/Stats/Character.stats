@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="a8098c1a-f86e-11da-bd1a-00112444be1e">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a08e5c7a-2a0f-427d-9130-1bb0f0c04574" />
+        <field name="Name" type="NameTableFieldDefinition" value="SC_Roth" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="0682ab31-facd-41ab-af0b-5c63cfa975b6" />
+        <field name="Intelligence" type="IntegerTableFieldDefinition" value="18" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

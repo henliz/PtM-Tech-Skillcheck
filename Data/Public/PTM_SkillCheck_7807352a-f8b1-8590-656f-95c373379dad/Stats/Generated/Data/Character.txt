@@ -1,0 +1,5 @@
+new entry "SC_Roth"
+type "Character"
+using "Deep_Rothe"
+data "Intelligence" "18"
+

@@ -21,7 +21,6 @@ AND
 GetFlag((FLAG)SC_Knows_Hidden_Wall_882af30c-eee4-4513-b1b2-3ea81804d2dc, _Player, 1)
 THEN
 SetCanInteract(a900a698-3178-42ca-a8a6-ba6bc82daa27, 1);
-//PROC_TryStartAD(GLO_PerceptionSuccess_48825dbe-a320-7c4c-fe3e-372b717d5bc9, _Player);
 DB_OnlyOnce("SC_HiddenWallDiscovered");
 
 IF
@@ -40,8 +39,47 @@ IF
 RollResult("SC_TavernWall_Rolled", _Player, a900a698-3178-42ca-a8a6-ba6bc82daa27, 1, 0, _)
 THEN
 SetCanInteract(a900a698-3178-42ca-a8a6-ba6bc82daa27, 1);
-//PROC_TryStartAD(GLO_PerceptionSuccess_48825dbe-a320-7c4c-fe3e-372b717d5bc9, _Player);
 DB_OnlyOnce("SC_HiddenWallDiscovered");
+
+IF
+EnteredTrigger(_Player, (TRIGGER)87b11eae-0acf-45b6-8977-dea7cc18e333)
+AND
+NOT DB_OnlyOnce("SC_PlayedStableDialog")
+AND
+QRY_StartDialog_Fixed((DIALOGRESOURCE)StableArgument_04e57f86-9585-ea54-4cd8-873656a53939, _Player, 1eb71f80-2243-4d59-8288-2ae3b019fc0f, cfebfe97-4846-4aec-a991-e242af254db5)
+THEN
+DB_OnlyOnce("SC_PlayedStableDialog");
+
+IF 
+DialogEnded((DIALOGRESOURCE)StableArgument_04e57f86-9585-ea54-4cd8-873656a53939, _)
+AND
+DB_Players(_Player)
+AND
+GetFlag((FLAG)SC_Fought_In_Stable_ee959878-3d5f-4f4d-bb68-172e2f9c4f24, _Player, 1)
+THEN
+SetRelationTemporaryHostile((CHARACTER)_Player, (CHARACTER)1eb71f80-2243-4d59-8288-2ae3b019fc0f);
+
+//REGION ANIMAL_SPEAKING Tag
+IF
+StatusApplied(_Char,"POTION_OF_ANIMAL_SPEAKING",_,_)
+THEN
+SetTag(_Char,(TAG)SC_ANIMAL_SPEAKING_0596d10d-bff3-4220-8d2c-3748caf856cf);
+
+IF
+StatusRemoved(_Char,"POTION_OF_ANIMAL_SPEAZKING",_,_)
+THEN
+ClearTag(_Char,(TAG)SC_ANIMAL_SPEAKING_0596d10d-bff3-4220-8d2c-3748caf856cf);
+//END_REGION
+
+//REGION Debug
+IF
+TextEvent("debugswa")
+AND
+DB_Players(_Player)
+THEN
+ShowNotification((CHARACTER)_Player,"swadebug");
+ApplyStatus(_Player,"POTION_OF_ANIMAL_SPEAKING",-1.0);
+//END_REGION
 EXITSECTION
 
 ENDEXITSECTION

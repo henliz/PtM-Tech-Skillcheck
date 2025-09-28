@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="a1fa1d2f-c335-4902-898c-4228c3c07d52">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="d3d5c3c9-6f1c-4871-9a5d-203eba89eade" />
+        <field name="Name" type="NameTableFieldDefinition" value="SC_Dagger_MurderousIntent" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="5bfcf7ef-39ba-441b-b4c7-807771d740d1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="f8f1c04a-11e7-409d-8897-378c5cefa380" />
+        <field name="Damage" type="DiceTableFieldDefinition" value="1d4" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="4cd41c74-9c86-4233-922e-4db5bc750df5" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="1" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Uncommon" enumeration_type_name="Rarity" version="1" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0.45" />
+        <field name="Slot" type="EnumerationTableFieldDefinition" value="Melee Main Weapon" enumeration_type_name="Itemslot" version="1" />
+        <field name="DefaultBoosts" type="StringTableFieldDefinition" value="WeaponEnchantment(1);WeaponProperty(Magical)" />
+        <field name="BoostsOnEquipMainHand" type="StringTableFieldDefinition" value="UnlockSpell(Target_PiercingThrust)" />
+        <field name="Weapon Properties" type="EnumerationListTableFieldDefinition" value="Finesse;Light;Thrown;Melee;Dippable;Magical" enumeration_type_name="WeaponFlags" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="Daggers;SimpleWeapons" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

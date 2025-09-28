@@ -24,4 +24,972 @@
   <content contentuid="h62a60cc0gb25fgaddeg2ff3g280a0fb20e2c" version="4">Hey, do you see that house over there? That's my target, so buzz off.</content>
   <content contentuid="h25861820g352eg24b0g2818gc8420673e86a" version="4">Okay okay. Calm down, I don't want any trouble. Here's the key.</content>
   <content contentuid="h8557197bgb4e7gaf2agcbe9g0b2595e6bc4b" version="4">And you call yourself a thief? I heard your fighting even out here!</content>
+  <content contentuid="hfec613d8g8826g34a7g6f6eg2d53b2b922ea" version="6">It seems you have stumbled into a heated arugment.</content>
+  <content contentuid="h33e9b839gaf53gea63ga199gfd1042f5787a" version="5">Ghulen</content>
+  <content contentuid="h50ab2f95gd328gd576g79dcg669cc36fdf68" version="4">Morgya</content>
+  <content contentuid="h94ea5660g3db9ge7ebg0f6eg0a2ec2feb0af" version="4">... come near me with intentions other than amorous and I'll stick you!</content>
+  <content contentuid="h34530fb4g64afgc682g4eedg5274d9b23ad1" version="3"> Amorous. What a horrible thought ...</content>
+  <content contentuid="h9c4c513fg3fbbg0cd3g0e1fg5ceacf86af79" version="2">What if I told you I was pregnant?</content>
+  <content contentuid="h04e6bb8dg9efeg8a1bge2b0ge34281609ccb" version="2">I'd kill the Roth.</content>
+  <content contentuid="heaa3ac5bg4b23g8abcg9c48gf3af6ab599fd" version="2">You ...</content>
+  <content contentuid="hec9dfe97ge817g6e47gb146gfa009ba0e3a9" version="2">Calm down, both of you!</content>
+  <content contentuid="hb7c160efgaf96g167cg34eega21bb1767720" version="2">&lt;i&gt;Leave quietly.&lt;/i&gt;</content>
+  <content contentuid="h88993dc2g940bg19c3g5d76g9efebea3ccb7" version="2">They do not seem happy with your intervention.</content>
+  <content contentuid="h9a097c4bg5a85g2cd3g25f6g462c381f2dc0" version="2">They continue arguing without taking any notive of you.</content>
+  <content contentuid="h4c69cf66ge8b4g4785g0d5fg6ca0962a24c7" version="1"> Mooh</content>
+  <content contentuid="hb4e95c91gda65g2479g7b59ga7432b5a725b" version="1">The Deep Rothé remains silent, clearly disapproving of your attempt at communication,</content>
+  <content contentuid="h6d59a1aeg7688g352cgcf95gaf2a48089c3f" version="3"> Mooh</content>
+  <content contentuid="hf56fd7efg97cfga652ge91bgef5d8cb58bbb" version="3">The Deep Rothé remains silent, clearly disapproving of your attempt at communication,</content>
+  <content contentuid="hfeb1f444g99cdg14b5g1cc8g35626e2366f5" version="4">Roth</content>
+  <content contentuid="had14370fg4b1eg560ag9b24gf326b1f0726e" version="2">VO_POSTPROCESS</content>
+  <content contentuid="hae97ab14g0aedg5381gfadbg58ca2c3c5f4f" version="2">VO_POSTPROCESS tooltip</content>
+  <content contentuid="h88f23deag88c4gde27gfcdeg7cfcc67a7df8" version="2">TORCH</content>
+  <content contentuid="h46ddf413g8553g4861g9d26gdba788585212" version="4">Wolf</content>
+  <content contentuid="h0bb7fc84g4f5ag40c1gb6abgd964f2ef3c14" version="3">WOLF tooltip</content>
+  <content contentuid="h566d24cage880g4f19gbc26g0964cf6c80d6" version="3">AI_USEITEM_A</content>
+  <content contentuid="hab86cb7bg53c0g4932ga83fgdf4800a625d9" version="4">Zariel Tiefling</content>
+  <content contentuid="h65fc904age945g4239ga89dg309f5b78884d" version="3">Tieflings from Zariel's bloodline are empowered with martial strength, and can channel searing flame to punish their enemies.</content>
+  <content contentuid="h5baf627ag9279g3a63g9be9g1132f0c6fca8" version="2">VO_DO_NOT_RECORD</content>
+  <content contentuid="h8de4f71cg4667g1983ga14dgb0ad4b228150" version="2">VO_DO_NOT_RECORD tooltip</content>
+  <content contentuid="h75b80cf4gc29fg4dc3g84a3g452bf309f401" version="3">Morningstar</content>
+  <content contentuid="hb425674cgf13ag4652ga37cgd070823c6f1e" version="4">Yondalla</content>
+  <content contentuid="h38ecfdeeg3e86g45ecg8608ge26be06acf6a" version="3">Tymora</content>
+  <content contentuid="h498dc1feg0914g4b0cg9353g1edf2814dea2" version="4">Wood Half-Elf</content>
+  <content contentuid="h615011c9gdec1g4642gb60ag0ab30d053db5" version="3">Even a generation apart, forest blood breeds true. These half-elves retain their parent's gift for speed, but tend to wander rather than staying in hidden enclaves.</content>
+  <content contentuid="h9b5e63ddg6c2dg4236g8b7eg062aa864f175" version="3">COMPANION</content>
+  <content contentuid="hd0149b8dg0c29g48c7gbcf1g571f26915947" version="3">COMPANION tooltip</content>
+  <content contentuid="he73cd906ge84cg01c3gfaedg0d0f4fd225ee" version="2">COMBATPORTAL</content>
+  <content contentuid="h84f5413bga28ageb4eg0295ga13b97365696" version="2">COMBATPORTAL tooltip</content>
+  <content contentuid="h166cfd47ga5fbg1c9dg2e2dg85efb461e6a4" version="2">STONE</content>
+  <content contentuid="hc2ee053eg9702g5f96ga49fg069e59114ebf" version="2">STONE tooltip</content>
+  <content contentuid="h4e16bce9gf2afg4f11ga3d6g923e3ea07cc2" version="4">Folk Hero</content>
+  <content contentuid="hb24c8d5cga9b7g4dd9gb9cfg38741a9fc720" version="3">You're a champion of the common people, challenging tyrants and monsters to protect the helpless. Saving people in imminent danger will make your legend grow.</content>
+  <content contentuid="h3f7a3486g7ecbg49c1g8aaaga27b791f6b18" version="4">Cleric of Ilmater</content>
+  <content contentuid="hd631ac44geee9g4d77g8deege535236e8dde" version="3">Ilmater is the god of suffering and endurance. His clerics defend the oppressed and take on the burdens of others, leading to a reputation as martyrs among common folk.</content>
+  <content contentuid="ha341638fg437cg44d1gb6adgbb8619cafcec" version="4">Underdark</content>
+  <content contentuid="h8b4a242dg7a6eg475bg9c31g15a753d03647" version="3">Being raised in the Underdark casts a cruel shadow on one's view of the world, even up on the surface.</content>
+  <content contentuid="hb4478aafge8d3g4dc4gae57gcd1d07a216cd" version="3">Mace</content>
+  <content contentuid="hebee59dfg9440g4c04ga787g8125a2c48636" version="4">Cleric of Tempus</content>
+  <content contentuid="h3531936cgf5aeg4e48gb983g70b9e7260a7b" version="3">Tempus is the god of war. His clerics welcome conflict through force of arms, but only abide honourable combat and courageous action.</content>
+  <content contentuid="haee50b4bg4cfbg4c06gae7fgfc221c283513" version="4">Dwarf</content>
+  <content contentuid="h4de97494g66ceg439fgbdb6g95034826054c" version="3">Durable and unyielding as their homes of stone, dwarves are some of the finest warriors, miners, and smiths of Faerûn.</content>
+  <content contentuid="hd24e09f1g50d4g4d55gb7e9gf82d8128cee8" version="4">Outlander</content>
+  <content contentuid="h10880933gef49g4446ga7acge8c6e7b6f4b7" version="3">Raised in one of the distant and hostile regions of Faerûn, an outlander can survive in the outdoors with very little.</content>
+  <content contentuid="h9049b93bgb16cg4372gbee3g8ec4adba1f9e" version="4">Wood Elf</content>
+  <content contentuid="h890bac68gfda6g47fbgae76g2e638d897e42" version="3">Reclusive and wise, wood elves are primarily found in the forests of Faerûn. Rigorous training makes them masters of archery and camouflage, enhanced by an otherworldly swiftness.</content>
+  <content contentuid="h199a0135g5a28g49f4ga4e2gfb1e84564343" version="4">Cat</content>
+  <content contentuid="h6025fb20gdc77g4eb2gb483g90562bd9d715" version="3">CAT tooltip</content>
+  <content contentuid="h4d824ca2g8890g4edfg8053ga00d91c8a057" version="4">Rabbit</content>
+  <content contentuid="h1f766eafgf0e4g476dgb06dge0dabfef64fa" version="3">RABBIT tooltip</content>
+  <content contentuid="h7ce1e539gdffdg426bgbdeeg6b892c531c3d" version="4">Criminal</content>
+  <content contentuid="h6da9cde5g99e6g4214gb6e1g7cd379d89539" version="3">Someone who's survived breaking the law time and again. Intimidation and connections are their best protection.</content>
+  <content contentuid="h8090462dg9bdfg4278gb436ge2a3f956eb82" version="4">Elf</content>
+  <content contentuid="h315ebb7bg0925g4da1g9f3ag2c8296efdd08" version="3">With an ethereal countenance and long lifespans, elves are at home with nature and its power. Flourishing in light and darkness alike, an elf can be beautiful and terrifying in equal measure.</content>
+  <content contentuid="h204da519g01abg4ecbgbeafg603c52d65312" version="6">A tome of necromancy has seared strange, profane glyphs into your mind, but you cannot understand them.</content>
+  <content contentuid="hf6afe3aag33d6g4922ga6e5gb671fd878687" version="4">Paladin of Tempus</content>
+  <content contentuid="h46a57704gaa1dg4cc5ga0a7ge9223d444a93" version="3">Tempus is the god of war, and his paladins are honourable but fearsome foes. They keep the world in balance with force of arms and unwavering courage.</content>
+  <content contentuid="hd1378926g15a6g52d2g4b68gdfb65bc4a29c" version="2">INGREDIENT</content>
+  <content contentuid="h460b0ee8gdf4fg9113g8758g6e8f38b2eb4b" version="2">INGREDIENT tooltip</content>
+  <content contentuid="h3db43a2cg8878g457fg85e5g0569118ba759" version="4">Human</content>
+  <content contentuid="h9c403dbcgb4c7g4744g995dg8378a12d8e26" version="3">The most common face to see in Faerûn, humans often face stiff competition from long-lived races, but hold their own with tenacity, creativity, and an endless capacity for growth.</content>
+  <content contentuid="hf742ccf8gca3bgd9a5g3476gd8038f605ab5" version="2">KID</content>
+  <content contentuid="h38bbc36ag1518g56bag4363g3a3deb3022a3" version="2">KID tooltip</content>
+  <content contentuid="hfad0c132g3b91g409cg95c3g03c350218ea2" version="4">Paladin of Myrkul</content>
+  <content contentuid="h9c6ef790g7066g4e63g9b2dg690ee73197b3" version="3">Myrkul is the god of death and decay. Paladins who worship him are rare, but those who do are harbingers of a horrific demise for all those around them.</content>
+  <content contentuid="h4d28f1b3g3fb8g48d6ga015g7f6ef4a6ba7f" version="4">Female</content>
+  <content contentuid="h0e7be0a4gec72g412ag93bege1fbf61506eb" version="3">You are a female of one of the races; you are perceived as female by those that encounter you.</content>
+  <content contentuid="h76bd1643g7510g40a2g923bgd4150ceadbb2" version="4">Male</content>
+  <content contentuid="hbb2e1761gdf1fg4d98gb0fage7161daecf33" version="3">You are a male of one of the races; you are perceived as male by those that encounter you.</content>
+  <content contentuid="hc1e6b4afge8b5g42cbg82ffg07abeaafb895" version="3">Shield</content>
+  <content contentuid="h97d4be66g5581g41b7g8507g390f3356fafd" version="4">Deep Gnome</content>
+  <content contentuid="h7b2f4f90g109dg4f41g884dg7f7f163df2c1" version="3">While more guarded than surface gnomes, deep gnomes are known for their loyalty and cunning. Their darkvision and training in stealth keep them alive in the hostile Underdark.</content>
+  <content contentuid="haa8523d9g6a78g4144gbb52g18897ac6b47e" version="4">Lolth</content>
+  <content contentuid="h157e76fdgb8c1g41ccg84f3g55cb0267b0dc" version="4">Paladin of Mystra</content>
+  <content contentuid="hf12ecd03g3c4fg406eg8418g511ae635fe88" version="3">Mystra is the goddess of all magic. Her paladins guard magical lore and artefacts with their lives, ensuring their goddess' power is preserved from one generation to the next.</content>
+  <content contentuid="he6e94d22g3829g4b07g8775gfcb9db6a82ff" version="5">Lolth-Sworn</content>
+  <content contentuid="ha10dbd11gad30g4aa0g9396g67434825f10a" version="3">Raised in one of Lolth's massive cults spread throughout the Underdark, these drow extol the virtues of their corrupt and merciless goddess, seeking to bring all other drow under her sway. Lolth marks her followers with vivid red eyes, in hope every race in Faerûn will learn to fear the very sight of them.</content>
+  <content contentuid="h22d3ff62gc1cdg5815gda47g7398323a23bf" version="2">MASKED</content>
+  <content contentuid="h712cb420gb627gd4e6g5828gceeeb61e4b7a" version="2">MASKED tooltip</content>
+  <content contentuid="h0cabb98bgb20cg00e2g0d74g908bf577f676" version="2">RETREAT</content>
+  <content contentuid="hffcfce36g4c8fgf0b0g94fag7fc0728922eb" version="2">RETREAT tooltip</content>
+  <content contentuid="h5f38447fge19eg42d6g98c8g2e8686be6241" version="4">Monstrosity</content>
+  <content contentuid="h7685afbegc152g4044gab41g0d617cebd137" version="3">MONSTROSITY tooltip</content>
+  <content contentuid="hbc2652f4gf148g4505g921bgc7b40362ec3b" version="4">Cleric</content>
+  <content contentuid="h5fa0c086gcd05g44e6gbcc4gff33589db848" version="3">Clerics channel the power of the gods they worship, wielding potent magic and acting as representatives of divine authority.</content>
+  <content contentuid="h54f6d1ccg4a4cg4c40gbfc3g278e2b8060b4" version="4">Bhaal</content>
+  <content contentuid="h94ea125ag37cdg423cg9931gde12c88b1d38" version="3">Weight_Small</content>
+  <content contentuid="h32b514dfg4196g4f2cgb2ecge993eeac914e" version="4">Fighter</content>
+  <content contentuid="h82485018gb23cg462cg8af4gf9b393b85dd5" version="3">Masters of tactics and combat, fighters are the product of rigorous and relentless training. They move in armour like a second skin, and can wield any weapon with unmatched skill.</content>
+  <content contentuid="he7961c5fgc6f1g40a6ga5b8g31df36840863" version="5">Acolyte</content>
+  <content contentuid="h51f614e2ga93fg4121ga3dcg532883f3ccd2" version="3">You have spent your life in service to a temple, learning sacred rites and providing sacrifices to the god or gods you worship. Manifestations of gods, along with their sacred works, guide you to greatness.</content>
+  <content contentuid="hf5cf4e1fgd92fg9013g3843gf1ea8600137e" version="2">IGNORE_ANALYSIS</content>
+  <content contentuid="h04c33464g862agb7f6gd62agdad858b0aa49" version="2">IGNORE_ANALYSIS tooltip</content>
+  <content contentuid="hcf28397agdacdg48c1g9ff3g3f157d6dafc1" version="4">Henchman</content>
+  <content contentuid="h0a95a4d7g545ag4b77gaef8gee58619c97fe" version="3">HENCHMAN tooltip</content>
+  <content contentuid="h950bcf33g170cg417egbb0cg93c474899b10" version="4">Warlock</content>
+  <content contentuid="h8a319072gaa75g4287g8a73g207e57b7db98" version="3">Bound by a deal to a powerful patron, warlocks trade their loyalty for supernatural abilities and unique magic. </content>
+  <content contentuid="he78dba7dg4078g4d99gb8f5ga0ac3c2d2852" version="3">Greataxe</content>
+  <content contentuid="ha6981ae4gf552gba8cge477g2f72c393439f" version="2">IGNOREVANDALISE</content>
+  <content contentuid="h111cb6e0g1f30g91f7g57bdg699b50100daa" version="2">IGNOREVANDALISE tooltip</content>
+  <content contentuid="h9bc39c6ag502fg421fgb516g00be70985bda" version="4">Good Cleric</content>
+  <content contentuid="h7c1a53ecg94bbg426eg9770g8abbcddb510e" version="3">Good clerics seek to better the world, empowered by their deities to heal others and destroy the undead. Selûne, Ilmater, Tyr, and Mystra are common gods they worship.</content>
+  <content contentuid="h5ca151f4g2b1eg4975gaa17gfb02556af5c3" version="4">Tempus</content>
+  <content contentuid="h499c0c05g0a1cg4dc0ga7c4gb97c4903ca98" version="4">Kuo-Toa</content>
+  <content contentuid="hb40a235eg1f1dg4662gae45g79d3921c6fbc" version="4">Wood Elf</content>
+  <content contentuid="h0f9d2895ga60bg40ffg85a3ge7584ae29149" version="3">Reclusive and wise, wood elves are primarily found in the forests of Faerûn. Rigorous training makes them masters of archery and camouflage, enhanced by an otherworldly swiftness.</content>
+  <content contentuid="hf03fa0a6g6d07g4286gae15g5a784c4348d1" version="4">Evil Cleric</content>
+  <content contentuid="h279bafa4g6e0fg48edga7a3gc582fe006050" version="3">Evil clerics are driven to conquer and corrupt Faerûn in service to their gods. Shar, Bhaal, Bane, and Myrkul are common gods they worship.</content>
+  <content contentuid="h7fd943bbge764g47b2gb6c5g2ad3bd9c44d2" version="4">Half-Drow</content>
+  <content contentuid="hcb0e4a17g6ed5g48begb610g4e7d3af1ad82" version="3">To be half-drow is to wrestle with a violent and complicated legacy. Cleverness and tenacity serve them well, for they are caught between two very different worlds.</content>
+  <content contentuid="h50724fd5g5618g4586gb9e2gcb56e69f483c" version="3">Pike</content>
+  <content contentuid="hca330577g0883gd939g0d17ge2018644d559" version="2">WINDUPTOY</content>
+  <content contentuid="hfe98cf3eg9285gba3fgdc41g5e2fe5eb19e6" version="2">WINDUPTOY tooltip</content>
+  <content contentuid="hdb6f38b0g22b9g4e94gb94fg6a37f7c61aaa" version="3">%%% No destub</content>
+  <content contentuid="h2445bfefgbf26g4ef1gb15bg27df682c35d2" version="3">%%% No destub</content>
+  <content contentuid="hc9179db3g5eafg1b83gbc95ge5494e159709" version="2">NO_GHOST</content>
+  <content contentuid="haaa50294ge253gd4ffgab5fg2fcda0550d8c" version="2">NO_GHOST tooltip</content>
+  <content contentuid="hb6362a38g7c83g4b49ga46eg2e60e55f9a5f" version="4">Halfling</content>
+  <content contentuid="hadb5d74eg5027g4f99g9008g4107a2215ff2" version="3">Small yet capable, halflings prefer the comforts of home and hearth - but their natural luck and dexterity makes them fine adventurers.</content>
+  <content contentuid="h0b0bf736g2e81g4d46ga694gd0f7935d32c8" version="4">Mind Flayer</content>
+  <content contentuid="h713be042gecc8g40f7gaf47g38931f82932b" version="3">Mind flayers are aberrations that feed off brains and dominate others with pure psionic will. They create more of their own kind using tadpoles that consume a host from the inside out.</content>
+  <content contentuid="hdeee71a6g4402g4617gae47g60c23165979d" version="4">Wood Half-Elf</content>
+  <content contentuid="hbf8b9841gd858g443bg8b07g0b9fc734d4ef" version="3">Even a generation apart, forest blood breeds true. These half-elves retain their parent's gift for speed, but tend to wander rather than staying in hidden enclaves.</content>
+  <content contentuid="hac09fa96gfa9bg4d62g8bb4g70c002aefe3a" version="4">Undead</content>
+  <content contentuid="h5499dd35g0aa5g41aagaf66gc0d3ca1bb6bc" version="3">Some undead seek to return to life; others long for the sweet embrace of oblivion. They move amongst the other races unseen, apex predators who can't afford detection. Lately, an unfamiliar voice beckons to them from a world unknown.</content>
+  <content contentuid="h010a33f9g597dg8927gacf7gf45ab70e5830" version="2">SFX_Only</content>
+  <content contentuid="he09156bbg7a72g7fe4gfbc4gf873e58a90cb" version="2">SFX_Only tooltip</content>
+  <content contentuid="ha09e3abcg9383g4d29ga805g0772f50273e2" version="3">War Pick</content>
+  <content contentuid="hd02d7904g03a9g473eg9548g947027869246" version="3">Handaxe</content>
+  <content contentuid="hbf00e575ga43dg40e5g825fg791539a41c02" version="4">High Elf</content>
+  <content contentuid="hc535af3eg05cbg4cc6gb9f0gaafd2f28ed60" version="3">Heirs of the mystical Feywild, high elves value magic in all its forms, and even those who do not study spellcraft can manipulate the Weave.</content>
+  <content contentuid="haedd9db5ga025g4a88gbbf1gecf7a70a338b" version="3">Dagger</content>
+  <content contentuid="h233b8097ge9e3g41aag9f3fg6b107d29bce8" version="3">Club</content>
+  <content contentuid="h31aa8dacg6ce8g496cg9ca8g7355cb563f08" version="4">Halfling</content>
+  <content contentuid="hc03af003g1e48g43b9g88dfg9a07fce9ac47" version="3">Small yet capable, halflings prefer the comforts of home and hearth - but their natural luck and dexterity makes them fine adventurers.</content>
+  <content contentuid="h450b84b4g5793g478bgaff9g4895433ed27f" version="4">Hobgoblin</content>
+  <content contentuid="h56ee6a76g4098g4043ga77cgff67763b0b5a" version="3">Raised in an honourable - if brutally aggressive - martial culture, hobgoblins revel in the beauty of warfare. They also try to keep an iron boot on their chaotic goblinoid cousins.</content>
+  <content contentuid="hcb68871fg4a4bgc368g7a2cg92be50f5f8b3" version="2">WOOD</content>
+  <content contentuid="h188acd28gbb59g0a34g3cbfg671d948fee7e" version="2">WOOD tooltip</content>
+  <content contentuid="he813800dgd9f0g4889g11c2gccf649047179" version="2">A tome of necromancy has seared strange, profane glyphs into your mind, but you cannot understand them.</content>
+  <content contentuid="h41d18659g5494g6046ge810g20f4e018eb9f" version="2">A tome of necromancy has seared strange, profane glyphs into your mind, but you cannot understand them.</content>
+  <content contentuid="hd3609ad8g5803g4f9agb367ga913bf9ebb1b" version="3">Sling</content>
+  <content contentuid="h66d1405fgf737g7785g5c60g1d1d1793c786" version="2">RECORD_EXTRA</content>
+  <content contentuid="h6b04e4fdg9c8fg633fgbbacgc94e119f9495" version="2">RECORD_EXTRA tooltip</content>
+  <content contentuid="haed481aag63d6g45a5ga23eg6de9da390fad" version="3">BLOCK_SPEAK_WITH_DEAD</content>
+  <content contentuid="h68290aacg79b5g4dabgbd01gf4c8dbe75c46" version="3">The famed Blade of Frontiers, the pride of Baldur's Gate.</content>
+  <content contentuid="h7639643dg83cag6353g1412g3dba81d47fa8" version="2">BADASSCIVILIAN</content>
+  <content contentuid="h210ca0a8gd5feg357fge21dgc1b62297944b" version="2">BADASSCIVILIAN tooltip</content>
+  <content contentuid="h5e248e83g75f7g4cb6gbff3gfedf8250ec85" version="3">Stave</content>
+  <content contentuid="h1b1dfa24g429ag4b7cga815g67f4e83f52dd" version="3">BLOCK_PICKPOCKET</content>
+  <content contentuid="ha4978661g133ag440eg8d43g6b46d6d5170d" version="3">The famed Blade of Frontiers, the pride of Baldur's Gate.</content>
+  <content contentuid="h3457a3f8gf46cg48aag8d04gce67966ae967" version="4">Paladin of Helm</content>
+  <content contentuid="h7b90a5ceg5f34g458bgaa1cg51741c8aec5e" version="4">Helm, the Vigilant One, is the god of those who guard and defend others. His paladins are steadfast protectors, holding the line against impossible odds no matter the cost.</content>
+  <content contentuid="h39a4576eg8595g432aga01bg760fa07429f9" version="4">Planar</content>
+  <content contentuid="h9eb22b0bg160eg46c9gb638gf76f71cdce60" version="4">Paladin</content>
+  <content contentuid="hec08de4eg0d6bg4250g8531gcee36b16724e" version="3">Fuelled by the Oath they swore to uphold justice and righteousness, most paladins are a beacon of hope in dark times.</content>
+  <content contentuid="h5ec497bagd13fg4e88g9a58gfe1fc66a84cb" version="4">Mystra</content>
+  <content contentuid="h04508495g5a4cg4b6ag9881g85dab759ac0a" version="5">Custom</content>
+  <content contentuid="h9fc1dc79ge9f2g46ebga2d1g145dec0338c2" version="3">An enthusiastic adventurer of remarkable spirit and mettle.</content>
+  <content contentuid="h6ca32879g8d07g5824g0521g3fe6fefeceef" version="2">AiHint_Ranger</content>
+  <content contentuid="h3cf0fbceg2186g9be4g0ac2g204c81afbbc0" version="2">AiHint_Ranger tooltip</content>
+  <content contentuid="hf86f4e8eg44f8g43e9gb427g0afd4469d341" version="3">Glaives</content>
+  <content contentuid="ha6206eadg4ad4g4244g8407g8e11f5b1fc33" version="3">COATING</content>
+  <content contentuid="h72f9626egc6b9g4763g9f6cg15d33e2d05fa" version="4">Comprehend Languages</content>
+  <content contentuid="h411a9b42gf5cfg7298g88f8g41bc8cf3f138" version="2">NIGHTMARE WITCH</content>
+  <content contentuid="h9fd88dcfgd2eagbe12g0060g58d8cc756719" version="2">NIGHTMAREWITCH tooltip</content>
+  <content contentuid="h46518510g269eg496fgb0e2g8afd1065df4b" version="4">Speaking Corpse</content>
+  <content contentuid="hb6a709d2g1e70g4439gb803gf18da2cbc24a" version="3">This corpse has been the target of a Speak with Dead spell.</content>
+  <content contentuid="hcaa48cfdgaf38g424aga2efg01969215aa51" version="3">Spear</content>
+  <content contentuid="h9982a072g4b6bg4eb3g8130ge1c7bd03be26" version="4">Paladin of Oghma</content>
+  <content contentuid="h83160d7fg0a0cg44b5gb6bag9ddc2ef602f3" version="3">Oghma is the god of knowledge. His paladins go on dangerous quests to restore lost lore, and put their lives on the line to protect strongholds of knowledge like Oghma's libraries.</content>
+  <content contentuid="hbc19d2bdg313bg4bcag9fe0g6d73947de7fd" version="3">ARROW</content>
+  <content contentuid="hb8d2e45ag8498g44b1gb14ag766ae3cd2a85" version="4">Aberration</content>
+  <content contentuid="h84cac376gc86ag4944g9a09gdb4b4951e780" version="3">ABERRATION tooltip</content>
+  <content contentuid="hb8dddaefg90a1g4471gb346gffdffb46cd2c" version="3">%%% EMPTY</content>
+  <content contentuid="hd3d471e4g80eag4be7ga23eg8cc07e2e27a3" version="4">Oathbreaker of the Ancients</content>
+  <content contentuid="hc230d5e2g8d38g4541ga8fbgf0f061d7c093" version="3">Your previous oath was one of Ancients.</content>
+  <content contentuid="h9b4e56e3gc755g46caga70ag26fb8180e043" version="4">Moradin</content>
+  <content contentuid="h008cc908g6c03g422dga145g8949edc5a706" version="3">Greatclub</content>
+  <content contentuid="h395f3d95g8cdcg46d5g89e7ge8a102650ace" version="4">Troll</content>
+  <content contentuid="h3d85a062g6bddg49b5g999egeaf26fac20bd" version="3">TROLL tooltip</content>
+  <content contentuid="hac2b07f2g800eg4955gac75g30ea0469b498" version="4">High Elf</content>
+  <content contentuid="hf1c98b96gafc0g4843ga095g154bf462c030" version="3">Heirs of the mystical Feywild, high elves value magic in all its forms, and even those who do not study spellcraft can manipulate the Weave.</content>
+  <content contentuid="h7dbe18b3g0cf1g47f2gb17fg331204a2fa68" version="4">Chicken</content>
+  <content contentuid="h51d24524gb7a1g439agafe5g4e372d841ddd" version="3">CHICKEN tooltip</content>
+  <content contentuid="he02e07d7g3dc0g42f9gbb7eg63a73e1ff24c" version="4">Noble</content>
+  <content contentuid="h8d178f5eg604ag422dg8997gb0c0cdd09ca2" version="3">Wealth and power define the nobility, but some families fare more successfully than others. A good name goes far, though.</content>
+  <content contentuid="ha94242a7g7cedga3cbg64bcgda7abc72c650" version="2">RISING_PLATFORM</content>
+  <content contentuid="h9f1932d2gab11gf908ge53cge2d3824a0f27" version="2">RISING_PLATFORM tooltip</content>
+  <content contentuid="h33395855g47eag4b1dg8cd8ga4513d4c4d91" version="3">POTION</content>
+  <content contentuid="h08efd20agf261g42e0gab31gf6f4d2031f5e" version="3">Longbow</content>
+  <content contentuid="h91a6c6dbg78efg4de8g8eadg280537abe585" version="3">NEUTRAL</content>
+  <content contentuid="h4209265fg261ag8c77g2f06g265e7f8890fb" version="2">AI_PREFERRED_TARGET</content>
+  <content contentuid="hb143e71cg3aa2g38f1g6550g17a9eaf3bcff" version="2">AI_PREFERRED_TARGET tooltip</content>
+  <content contentuid="he03a45b4gb016g49eeg8318g7c7d53e32e15" version="3">Shortbow</content>
+  <content contentuid="h49a1cf3bg32eeg40d6g8d95g82dfb950ea5b" version="4">Hermit</content>
+  <content contentuid="hd8084ad7gda28g4aa6gb724gf0b067863713" version="3">A life spent in seclusion grants a clear mind, but makes the chaos of society distasteful.</content>
+  <content contentuid="h57b35716g9e08g4cd2g963dgf5852a7a25fb" version="3">Identifies traps as organic, so they can go "squish" and otherwise not behave like mechanical ones.</content>
+  <content contentuid="hb455b695g66abg46a3g81c3g5c4e4e1e7b16" version="5">Cleric of Yondalla</content>
+  <content contentuid="ha3e97f92g3edeg4aafgaac3gd530673b87dd" version="3">Yondalla is the mother-goddess of the halflings. Her clerics view her as a strong and protective parent who bestows them with luck, and whose example should be followed. </content>
+  <content contentuid="h334195e7g1b0cg43b5ga8f2gb7f78946cb63" version="4">Tiefling</content>
+  <content contentuid="haa4a14e4gd4cfg4e7bg9ac4g2a3aa2aa5c6c" version="3">Descended from devils of the Nine Hells - by blood or curse - tieflings face constant suspicion in Faerûn. Their arcane abilities make them natural survivors, whether as heroes or villains.</content>
+  <content contentuid="he414a712g4944g4232g8e38g629e060249eb" version="3">Wisp</content>
+  <content contentuid="h66854b0eg1695g4efdgb6e7ga72abafade17" version="4">Rare</content>
+  <content contentuid="h0515f29fg0f79g987fg3b38gf1a91de1174d" version="2">RECORD_PROTAGONIST</content>
+  <content contentuid="h0a57c2a2gb60cg0c65g886eg15db0e327b4c" version="2">RECORD_PROTAGONIST tooltip</content>
+  <content contentuid="h59246a1cg1c68g4180gbe7fg6cecc0c2e3e2" version="4">Oathbreaker of Devotion</content>
+  <content contentuid="h49d6335cg5534g4515gbe94gfb5fa6a67f05" version="3">Your previous oath was of the Devotion.</content>
+  <content contentuid="hb0861658ge3a6gaa4cge1c1gf2d1e06fa9a4" version="2">AI_UNPREFERRED_TARGET</content>
+  <content contentuid="hb831d23ege44cgdc74g5982gd2f070aa7405" version="2">AI_UNPREFERRED_TARGET tooltip</content>
+  <content contentuid="h2cc2db1bg700fg4932g9d50g322d46b9408e" version="5">Seldarine</content>
+  <content contentuid="h6d350b5bg93a7g475fg99c5gaa07ec5622b6" version="4">Survivors of Lolth's treachery against Corellon Larethian, Seldarine drow live in a scattered collection of Underdark city-states, warring with each other as often as the Spider Queen's cult. Many of these drow travel to the surface in search of aid, seeking to reunite their shattered people at any cost.</content>
+  <content contentuid="hc19717ecg3190g405cgb162g80412f3a549c" version="4">High Half-Elf</content>
+  <content contentuid="h679c55dfgaeb0g4d61g87eag9de32c5902d7" version="3">A step further from the Feywild than their high elf parent, these half-elves still hold a magical spark. They mature faster than their brethren, but only live a few decades longer than humans.</content>
+  <content contentuid="h0ef98595g94fdg43e3g8ac7gafedf6ad664d" version="4">Gnoll</content>
+  <content contentuid="h101fb3d5gc69fg4512gb037gd2cb6a40b5cd" version="3">GNOLL tooltip</content>
+  <content contentuid="h9c37792ag2840gc0bdg3dd2g8d364a161272" version="2">IGNORESEENCOMBAT</content>
+  <content contentuid="h0885f445g8f6bg8843gd743gbcb64023b869" version="2">IGNORESEENCOMBAT tooltip</content>
+  <content contentuid="hd7a60b08g0a3fgf6e2g2169gf2d5128b07d7" version="2">COMBAT_FORMATIONTACTICS</content>
+  <content contentuid="h9f88cbb5gbd13gf3cdgf4f7gef68a5c7f51f" version="2">COMBAT_FORMATIONTACTICS tooltip</content>
+  <content contentuid="h954491a2ga606g78a1g5569g12010fd9ec93" version="2">SFX</content>
+  <content contentuid="h0ea789a7ge81ag23cag41abg21d472018a2d" version="2">SFX tooltip</content>
+  <content contentuid="hd8533064g0806g4274gb35cge82f653cd5c3" version="4">Paladin of Ilmater</content>
+  <content contentuid="hc8c50540g9ff0g4c33g8e77gaff38bfe0bd5" version="3">Ilmater is the god of suffering and endurance. His paladins are martyrs in the truest sense, taking on the burdens of the oppressed until their last breath.</content>
+  <content contentuid="h08560d96g3117g4620gae48g1d8e187075f7" version="4">Spectator</content>
+  <content contentuid="hf2c5aaf6ga110g48cbgab50gd8e307409786" version="4">Bane</content>
+  <content contentuid="hb18267d4gcf09g66bcg6ef1g3b14258d27c5" version="2">NEUTRAL DEITY</content>
+  <content contentuid="he70356f9gb39bg4149g9f6cg2b94736554d6" version="4">Bard</content>
+  <content contentuid="hb18acf2egafb0g4d87gb6e5g9130845055ab" version="3">Cleaving arcane magic to musical artistry, bards are performers without compare. They draw on songs empowered by spells, inspiring their allies and toppling their enemies.</content>
+  <content contentuid="h5e743d34gefe4g4445ga818g3ba0e9e36525" version="4">Tiger</content>
+  <content contentuid="he53b3210g8058g4595gaa3fg3f08810a3ae3" version="3">TIGER tooltip</content>
+  <content contentuid="h3723f319g29dfg46a3g8745g6a2cc64c9b37" version="4">Cleric of Bane</content>
+  <content contentuid="he8984c45g36dag4545gb2cdgfc51a60b05af" version="3">Bane is the god of hatred, fear, and tyranny. His clerics are spartan, ruthless conquerors, gathering as much power as they can under Bane's banner.</content>
+  <content contentuid="h99efbf70gfdb9g42dfgb26agd543dec11720" version="4">SPEECHLESS</content>
+  <content contentuid="h092f415dgbf47g4b53g9cdeg08c997d0916d" version="3">Unable to speak, by nature or by magic.</content>
+  <content contentuid="h09bd4266g42a3g4badgb653gceea8f345796" version="4">Mephistopheles Tiefling</content>
+  <content contentuid="hd66d0c68gd35fg4303g95f3gc0a0804266e9" version="3">Descended from the archdevil Mephistopheles, these tieflings are gifted with a particular affinity for arcane magic.</content>
+  <content contentuid="ha7fbb66bgfe19g4a30gaceeg14e2a546fe55" version="4">Cleric of Lolth</content>
+  <content contentuid="hf7098869g2d43g43a3gb0c2g37094a2ae931" version="3">Lolth is the evil drow goddess of deceit, shadows, and spiders. Her clerics execute the will of the Spider Queen, weaving a complicated web of schemes and treachery.</content>
+  <content contentuid="h63f81ddeg9018g46efg9367g31ded01cdb14" version="4">Salamander</content>
+  <content contentuid="h65bf736eg09aag4b1cgaf4eg5fb9c31626a7" version="3">SALAMANDER tooltip</content>
+  <content contentuid="h80af4ac2g477fg40b9g3087g153b76890bb7" version="2">TOY</content>
+  <content contentuid="h7774c4abg7298g5c2dg85c4g5578d080786e" version="2">TOY tooltip</content>
+  <content contentuid="h31a1312eg65c0g48e0gac84g719baebd890e" version="5">Paladin of Moradin</content>
+  <content contentuid="hd0aeb422gcabfg4944gbc64g5822e92a8cc4" version="3">Moradin, father of the dwarves, is the god of creation, smithing, stonework and protection. His paladins are champions and guardians, leading the charge against age-old dwarven enemies.</content>
+  <content contentuid="h3c36fbb1gc957g4eabg904fg44aac87a6d13" version="4">Pig</content>
+  <content contentuid="h50b7bc7bgbba1g4025g85a0gbd472d553b4d" version="3">PIG tooltip</content>
+  <content contentuid="hb36f908bga49cg425bga7e5g5393b623a440" version="4">Detect Thoughts</content>
+  <content contentuid="hbb34e3b3gc6d0g44aeg9627gc3d42438267d" version="3">With this spell, one can read the thoughts of certain creatures.</content>
+  <content contentuid="h21ae20ecgda58g4c31g9fe6ge77c102af34e" version="4">Devil</content>
+  <content contentuid="hb99251e2gaeacg40c6g8ebfga1037b872a5c" version="3">A member of the lawful evil fiends that hail from Baator.</content>
+  <content contentuid="h2997e1b4ga2dbg4beag89f0g87004762e367" version="4">Beast</content>
+  <content contentuid="h002dfd75g90c7g4620gbd02g8dd07951e8b6" version="3">BEAST tooltip</content>
+  <content contentuid="h03a3f338gc2bag4b4fg8b40g8483a962e2b4" version="4">Intellect Devourer</content>
+  <content contentuid="hab7ac6dbg5a05g432egb015g0fc337c7f1a9" version="3">A servant of mind flayers that feeds on the intelligence of sentient beings.</content>
+  <content contentuid="h3c0a3852gef54g4bc7gac1bg6c69d40312f8" version="3">Sickle</content>
+  <content contentuid="h3edebd74ga68bg4362gb2acg4c268c90f470" version="4">Monster</content>
+  <content contentuid="habfdb646gfb2ag49afga487gae8d34a680e9" version="3">The famed Blade of Frontiers, the pride of Baldur's Gate.</content>
+  <content contentuid="ha8061a07g03e7g48fagbb9bgf0de8c65e01d" version="3">Warhammer</content>
+  <content contentuid="h99101a4cg488bg492egaed2g8b106c6e5758" version="4">Sheep</content>
+  <content contentuid="hc48b064dgd727g4bdfgb7ebg54678f943ccb" version="3">SHEEP tooltip</content>
+  <content contentuid="hc8b7b6e6ge9acg45c1gae86g46dea0d92a0c" version="4">Beetle</content>
+  <content contentuid="h960cec7dgfce2g4cf2gbbefge9148eebe152" version="3">BEETLE tooltip</content>
+  <content contentuid="hc47f3214g93d9g4d8fg964fgdd6113edc5d7" version="4">Githyanki</content>
+  <content contentuid="hca5025dagb924g442ega5ddg26bc4f0bf8f8" version="3">With a ruthlessness borne from mind flayer enslavement, githyanki ride the Astral Sea atop red dragons, bringing their silver swords and psionic might to bear against any trace of the illithid menace. </content>
+  <content contentuid="hc7362e79gb546g419bg83d0g1b60ee42fe78" version="3">You cannot shove or throw</content>
+  <content contentuid="he58b883ag9b2fg45adgac11g2a67dd1a1181" version="4">Barbarian</content>
+  <content contentuid="h9ead197bg1c99g4118g885cgd3b5ec2e5542" version="3">The strong embrace the wild that hides inside - keen instincts, primal physicality, and most of all, an unbridled, unquenchable rage.</content>
+  <content contentuid="h2fbcbb2fg300fg411ag8bb8ge3c048fb4fb9" version="4">Good Paladin</content>
+  <content contentuid="h3c679effg6ce8g4632g9df1g14f782c4344e" version="3">Good paladins are bastions of heroism, willing to make any sacrifice to honour their Oath and their quest. Their abilities are gifted by gods like Tyr, Selûne, Ilmater, and Mystra.</content>
+  <content contentuid="h148c65b8g67adg49b8g81f7g3c220226cd6e" version="4">Construct</content>
+  <content contentuid="h0b27a505g3aa1g48c1gab33gd525b93f2f24" version="3">CONSTRUCT tooltip</content>
+  <content contentuid="h12accbabg698ag402cgaeebgb5b61bbcb049" version="4">Gnome</content>
+  <content contentuid="h9cbb2e0dgb615g47afg9c37gaf0813dda803" version="3">Small, clever, and energetic, gnomes use their centuries-long lifespans to explore and invent in Faerûn's brightest corners and darkest depths. </content>
+  <content contentuid="hadc531begf348g4d74gbe54g2e7f74c147fe" version="5">Paladin of Garl Glittergold</content>
+  <content contentuid="hb5d0c312g5d99g46b0g93bdg9bcdbcf521c6" version="3">The Watchful Protector is the king of gnomish gods - a deity of humour, gem-cutting, protection, and trickery.</content>
+  <content contentuid="h3fdf92d5gcfa4g4c18g9fd0g0d823cc2d0d5" version="4">Drow</content>
+  <content contentuid="heffe7917gc1f9g4c3eg9c5bg9f5b2db4d3b9" version="3">The elves of the Underdark, drow have been fighting a massive civil war since the goddess Lolth severed herself from the elvish pantheon, a betrayal scarring every generation that followed. Drow city-states struggle with one another for dominance, but the true war is between the cultists who serve Lolth and those who resist the goddess' corruption.</content>
+  <content contentuid="h19573116g3a0fg4777ga775g1ec4dd6e834d" version="4">Rare</content>
+  <content contentuid="h8c2cd69cgaaf9g460fgba23g89fa209ac63d" version="4">Hag</content>
+  <content contentuid="hca7e0f62g516eg4f93g8876ge5a174c607c8" version="3">LAN</content>
+  <content contentuid="h9329ff35g9b83g4a73gb103g9e3ae60c5392" version="4">Goblin</content>
+  <content contentuid="hc2fe59abg3083g4ce2g969eg234029003ba7" version="3">GOBLIN tooltip</content>
+  <content contentuid="hb515e714g589ag4d3dg91efgf49d26751325" version="3">%%% Metamagic - no destub</content>
+  <content contentuid="hf3a5e824g6765g43efgbefcgf6992402d5be" version="3">GRENADE</content>
+  <content contentuid="hf6a0dde0g79d7g47c2g91d0g3fe4f228992d" version="3">The famed Blade of Frontiers, the pride of Baldur's Gate.</content>
+  <content contentuid="h299daf83g9417g4e20gb179ge3fc35b36b93" version="4">Druid</content>
+  <content contentuid="he7bc9b9cg056cg426egac59gd527f9ccb874" version="3">Druids channel the elemental forces of nature and share a deep kinship with animals. Mastery of Wild Shape allows them to transform into beasts from all over the Realms.</content>
+  <content contentuid="he5e519d7g3f12g4bb1gb64agc2654069293b" version="3">Greatsword</content>
+  <content contentuid="h05c5b8aeg1375g4901gaa4bgd281cd28ae0d" version="3">%%% EMPTY</content>
+  <content contentuid="h811c603cgad7ag4fe6gae98g8373bfcf1649" version="4">Oath of Devotion</content>
+  <content contentuid="h87c4c0a8g61cag47bfg83f0ge3513c8c077b" version="3">Following the ideal of the knight in shining armour, you act with honour and virtue in the pursuit of the greater good.</content>
+  <content contentuid="hdcc77af3g4907geaabg0e87g2fc1510d3065" version="2">IGNORE_HEIGHT_DIFFERENCE</content>
+  <content contentuid="h891e8afbgae78g47b7g4701gdc32eb58a441" version="2">IGNORE_HEIGHT_DIFFERENCE tooltip</content>
+  <content contentuid="hc3b6cb7ag8629g4854gb93fg1637206e859a" version="4">Ooze</content>
+  <content contentuid="h805f7e01gd1bfg4ff5g8c58gd1168af23fe8" version="3">OOZE tooltip</content>
+  <content contentuid="h790eaa77ge697g49a8g8d8ag6836896c5f1a" version="5">Cleric of Laduguer</content>
+  <content contentuid="h42c8090ag63bbg41abg8c90g845f0476cb3d" version="3">Laduguer is the patron of the duergar and god of self-reliance, defence, and survival. His clerics honour him by acquiring more power and wealth through any means possible.</content>
+  <content contentuid="h68c81fe3g206ag4471ga9dcg5065a0108e28" version="3">Weight_Huge</content>
+  <content contentuid="h03921356gae44g4ffcgb0b9g51ec5114ede5" version="3">HAS_EXCLAMATION_DIALOG</content>
+  <content contentuid="hcaeee2ddg0cebg407ag8239g15dd2351760d" version="3">NOT_MESSING_AROUND</content>
+  <content contentuid="h0ae5615ega7f3g40fdgab13gc840ed1c1e8a" version="3">NOT_MESSING_AROUND tooltip</content>
+  <content contentuid="h15fd6577gec43g4f20g8228ga669a4b5510c" version="3">Raven</content>
+  <content contentuid="h59fd73e3ga3a7g43ecg8748gb555acd1fb47" version="4">Garl Glittergold</content>
+  <content contentuid="h696805a2g000dg44a5ga5f9g16dbe53c9927" version="4">Custom</content>
+  <content contentuid="hf68bfa38g47b3g4ef4gab13gf7b128762adc" version="3">An enthusiastic adventurer of remarkable spirit and mettle.</content>
+  <content contentuid="h27210529gb873g46c0g9eaag2f353562733f" version="4">Tyr</content>
+  <content contentuid="h86abd152g15dcg4f9cgb5a9g2be3ff6aca69" version="4">Duergar</content>
+  <content contentuid="hf344ad25gd0b1g4a86gb0d2g65ebf61a7439" version="3">The duergar - grey dwarves - were once enslaved by the eldritch mind flayer race, and adapted to freedom with grim cruelty. Their stealth and viciousness makes them feared throughout the Underdark.</content>
+  <content contentuid="h2af4e4c7g6e7aga97eg9449g4c32b952eae8" version="2">CANDLE</content>
+  <content contentuid="he34d51b1gaed2g378dg947bg32487115c464" version="2">A source of illumination and divination.</content>
+  <content contentuid="h8403376cg12adg0999ga61egd23fdc602564" version="2">POISONED</content>
+  <content contentuid="h6ba2f4b1g6840gf671gf791g4725ceefaccf" version="2">POISONED tooltip</content>
+  <content contentuid="h78970a10ga684g4c82g8f2fgc61e1ec08039" version="4">Cleric of Eilistraee</content>
+  <content contentuid="hfa633c42g2cfeg455dg8915g16a8039faee9" version="3">Eilistraee is the drow goddess of song, beauty, swordwork, hunting, and moonlight. As the patron of drow who reject the evils of their society, she instructs her clerics to offer light and hope.</content>
+  <content contentuid="h8205e107ge0c8ged74g68bag4df94177b623" version="2">FISH</content>
+  <content contentuid="he454005cg45f1g7646g5c15g73948c1f3be8" version="2">FISH tooltip</content>
+  <content contentuid="h53180b7dgdc9eg4532gaff0gd8f17178024d" version="4">Helm</content>
+  <content contentuid="hcc95b607g7b75g42c7gad77gec08a3697bc6" version="4">Ogre</content>
+  <content contentuid="h6c12e2afg3aa0g05b8g52b0g07309d7aa9ef" version="2">BOOK</content>
+  <content contentuid="h61a07c23g281bgeb32g8fb8g1b1ce526af6d" version="2">BOOK tooltip</content>
+  <content contentuid="h363b1d8age40ag472dga258gf214f0d977e4" version="3">Rapier</content>
+  <content contentuid="h656478b8g7eabg2902gf695ge60f12880195" version="2">SUMMON</content>
+  <content contentuid="h80f18e46gb0f5g0417gde4dgca14885a4ae6" version="2">SUMMON tooltip</content>
+  <content contentuid="h43bfa748g15a3g4b6fgbfcdgd4477a337158" version="3">Lathander</content>
+  <content contentuid="hc1e029cbg09f7g4edbg90f9g84b4f454452a" version="3">Light Hammer</content>
+  <content contentuid="h70e0611eg4a9eg3a5fg561cg5575cfc11b25" version="2">RECORD_ANTAGONIST</content>
+  <content contentuid="h253017b2g0a43g1880g6a27gfad90bb4ea28" version="2">RECORD_ANTAGONIST tooltip</content>
+  <content contentuid="he9f5252egfabag418cgbb94g80eef2b088b0" version="4">Worg</content>
+  <content contentuid="hc683f5b9g2cc9g4a6egaec9g714f1e1d9271" version="3">WORG tooltip</content>
+  <content contentuid="ha5c0344agbc50gcbffg1287g249cb7e5b5e5" version="2">COMBAT_PACKTACTICS</content>
+  <content contentuid="h1e801585g31d6ge932g20f4gd5e1951aadc4" version="2">COMBAT_PACKTACTICS tooltip</content>
+  <content contentuid="h6dbed1f8g741fg4d6agabf6gfe61540039d3" version="4">Gnome</content>
+  <content contentuid="hd35dfc78g0117g40cdg9d32ge5e816ef52c3" version="3">Small, clever, and energetic, gnomes use their centuries-long lifespans to explore and invent in Faerûn's brightest corners and darkest depths. </content>
+  <content contentuid="hcecb4613gbb8bg45d9ga4a6g55436402414d" version="4">Deep Gnome</content>
+  <content contentuid="h9850ed7fg5717g4b36g9c46g6cbf2badcaeb" version="3">While more guarded than surface gnomes, deep gnomes are known for their loyalty and cunning. Their darkvision and training in stealth keep them alive in the hostile Underdark.</content>
+  <content contentuid="hd5b0a40eg55c1g47efg8aefg68803038ddeb" version="4">Neutral Paladin</content>
+  <content contentuid="h5dffe191gf303g44cbga6a5g065096631ec0" version="3">Neutral paladins stand as archetypes of balance and justice, defending the world against extremes. Their quests are consecrated by deities like Helm, Kelemvor, Oghma, and Tempus.</content>
+  <content contentuid="h2cc46dbfg38dbg4817g8967g5c51ea95f97a" version="3">Flail</content>
+  <content contentuid="h9824d342g0246g4934gab1bg14da3bd4ba9e" version="3">%%% Wild Magic Guaranteed - no destub</content>
+  <content contentuid="h27698e63gb644g4a5bgb777gd9b31c220851" version="3">WoodWoad</content>
+  <content contentuid="hae70879agd7f7g4281ga84cgf942e5f07a64" version="5">Cleric of Vlaakith</content>
+  <content contentuid="h7d49b0a3g28dfg4ca7gacb7g4208ff0229bf" version="3">Vlaakith, the dread lich queen of the githyanki, demands and receives utter obedience from her subjects. For clerics, their faith in their revered queen is so strong that it manifests as clerical magic.</content>
+  <content contentuid="h56c333ecg4809g4158g9aa5g1ffb128b5af1" version="4">Giant</content>
+  <content contentuid="h2d30053dg754cg4d34g8fb4g8357147188e8" version="3">GIANT tooltip</content>
+  <content contentuid="h2dc95fcdg26a4g4c2agacb8gd476173c4fb6" version="3">Summon Without Mouth</content>
+  <content contentuid="h794117b8g3a50g4399gb755gc446b1d0837b" version="4">Wizard</content>
+  <content contentuid="h03d0c474gb68cg43d0g97f4g784be26d9f90" version="3">Wizards master the arcane by specialising in individual schools of magic, combining ancient spells with modern research.</content>
+  <content contentuid="hf3cbadb9g2a10g48d4gaa10gc47927dabc53" version="3">Maul</content>
+  <content contentuid="h0fa905a3g9c7eg4962g8c41g22e2336860ba" version="4">Shield Dwarf</content>
+  <content contentuid="h3b2d0436g41cfg4119g8141g7db1abd7773a" version="3">Mountain dwarves thrive in rugged terrain, standing taller than their hill dwarf cousins. Their kingdoms are a bastion of strength in northern Faerûn.</content>
+  <content contentuid="hed4c9b2fg263dg6817g4b8bg06974eaf93ea" version="2">Enemy</content>
+  <content contentuid="h20ac0566g5550g4b20g3eeeg90b7177ca830" version="2">Enemy tooltip</content>
+  <content contentuid="hc6cc4503g1010g6bbegad4bg6a65878e5b9b" version="2">FOOD</content>
+  <content contentuid="h2705cd55ga14dg9458gf5b0gc32b7ba4ae41" version="2">FOOD tooltip</content>
+  <content contentuid="h4161d225g7881g4fb3gbde5g0c3c6f7b6f23" version="4">Half-Elf</content>
+  <content contentuid="hc09dbcc2g5531g4fdcgafa1g8a8e9ebb3c47" version="3">Half-elves inherit blessings from both their parents, but at the price of never quite fitting in. Curious, ambitious, and versatile, half-elves are welcome everywhere - yet struggle to stay for long.</content>
+  <content contentuid="h21c65f3bg0d70gff28g15f3g79b187c99e25" version="2">AiHint_Teleport</content>
+  <content contentuid="h9c7117cfg0622g0bf5gc290g7ce70f5fe38a" version="2">AiHint_Teleport tooltip</content>
+  <content contentuid="h3c02e7ebg29cfgece6g4645g1991a3d1b94c" version="2">Rat</content>
+  <content contentuid="hc335f4c6g144fg988dgdb6fgf0bd3b200ee8" version="2">RAT tooltip</content>
+  <content contentuid="h22f16f56ge40bg4e8cgbc92g4e6661f04400" version="4">Boar</content>
+  <content contentuid="ha91ab762g9561g4009gb60ag1d975f15d1a8" version="3">BOAR tooltip</content>
+  <content contentuid="he0276573g395fg4806g9db3g3f5b7c97898d" version="4">Plant</content>
+  <content contentuid="h61d950d7g9a70g4f31ga48eg67649887303b" version="3">PLANT tooltip</content>
+  <content contentuid="hac9b42b6g0fafg4053g850bgdd3d4e0b2268" version="3">Cleric of Tymora</content>
+  <content contentuid="hd51f451bg6058g44ffg9965ge36adf44d21a" version="3">Kylin, A servant of Tymora, Goddess of Good Fortune</content>
+  <content contentuid="hcceacf16gbe87g4662gaceegfc78c7538dda" version="3">Zombie</content>
+  <content contentuid="hc4f379e5g0aeag4600gb408g9b7efa183d2a" version="3">Badger</content>
+  <content contentuid="h063f32f9gbc5bg49ddgbbb1gfe5ef38f5532" version="4">Strongheart</content>
+  <content contentuid="h87b9e451g7df8g4be3g9d40g1fa62b140949" version="3">Legends say dwarven blood gave stronghearts their hardiness. Resistant to poison and wellsprings of endurance, these halflings easily hold their own.</content>
+  <content contentuid="h325f1fffg4cc2ga929g23cdge7d7ce96f5b7" version="2">Guard</content>
+  <content contentuid="h9a3ed120g58feg21ddge58cg9068dfcda736" version="2">GUARD tooltip</content>
+  <content contentuid="h072340c0g50b5g484dgb395g285e2be21a64" version="4">Paladin of Bane</content>
+  <content contentuid="ha7efa115ge169g4dd1gb22fg4e0dea118e25" version="3">Bane is the god of hatred, fear, and tyranny. His paladins are often remorseless commanders, leading armies dedicated to crushing the weak.</content>
+  <content contentuid="h15fc75eeg6c56g42e5g8882gbfdd714c5845" version="4">Avatar</content>
+  <content contentuid="h3473edefgdc77g4959ga02bgebcf133c828e" version="3">AVATAR tooltip</content>
+  <content contentuid="h4eb68597g5dc6g4042g9d34g6c5a4dfdd3bb" version="3">METAL</content>
+  <content contentuid="h19791e78g0714g44c2g8d91g832221a69b7a" version="3">METAL tooltip</content>
+  <content contentuid="h05c087bdgd21ag4de6g8300gf02733bd47f9" version="4">Oathbreaker</content>
+  <content contentuid="hdb1f134bg6d21g423egb76aga69bcf8448f7" version="3">You have broken your sacred Oaths in pursuit of power and ambition. Only darkness remains to fuel you now.</content>
+  <content contentuid="hd1477b64ged8cg446cg8fc9g8a94ad9f09ff" version="4">Cow</content>
+  <content contentuid="h35c85d4dg39cfg430bg85aeg6f9bfcca389d" version="3">COW tooltip</content>
+  <content contentuid="h82467d72g00ddg9358g1caegd1b201f3b6c1" version="2">MEAT</content>
+  <content contentuid="hfe4a160fg4404gd541g2d3fge2dc12979cc4" version="2">MEAT tooltip</content>
+  <content contentuid="hcb2af586gb16cg4566gbb69ge1e39bb45666" version="5">Cleric of Corellon Larethian</content>
+  <content contentuid="ha8c32bb4g7030g4435g9dd7gadc07e41f611" version="3">Corellon Larethian, ever-changing creator of all elves, is both chaos and beauty personified. Their clerics are self-reliant and find a connection to their god by truly getting to know themselves.</content>
+  <content contentuid="h45329996gf217g46fcga37eg008b5283af6c" version="4">Mephistopheles Tiefling</content>
+  <content contentuid="h2f5d626fg36a9g4c64gb1a5g7a9566a93780" version="3">Descended from the archdevil Mephistopheles, these tieflings are gifted with a particular affinity for arcane magic.</content>
+  <content contentuid="h9c2b9556gb5f2g4d68g8a86g747bdc7936ce" version="4">Half-Drow</content>
+  <content contentuid="ha7799cf6g1de3g4210gada1gef0696a07ff6" version="3">To be half-drow is to wrestle with a violent and complicated legacy. Cleverness and tenacity serve them well, for they are caught between two very different worlds.</content>
+  <content contentuid="hf69f0578g231eg4150gaee0g24cef8fa370d" version="4">Nightmare</content>
+  <content contentuid="hb143ad7cgf0b8g468eg8d08g55d4a7e29164" version="3">NIGHTMARE tooltip</content>
+  <content contentuid="h2e52ac7dg2619g4f6dgb3c0g4ec3a4e83b09" version="3">Cleric of Mielikki</content>
+  <content contentuid="h2f84b2f1gb74bg4040g8d36g8d3850390b66" version="3">Fela, A servant of Mielikki, Goddess of forests and patron of nature.</content>
+  <content contentuid="hfb49abc8g4fe3g31b8g66a7g7b203ab08da8" version="2">NEUTRAL</content>
+  <content contentuid="h230d42fegbd78gc042gc4f1g02a57b945f7b" version="2">Neutral tooltip</content>
+  <content contentuid="hd9c6010fgdcaeg49bfgafb6gc080e578a79a" version="4">Illithid</content>
+  <content contentuid="h09ce69e7g2621g4110g90c0g3afbeb749754" version="3">Being implanted with a mind flayer tadpole is a fate worse than death. Isn't it?</content>
+  <content contentuid="h7c293751g166fg4b68g82cfgd95a8056785b" version="4">Selûne</content>
+  <content contentuid="h3f8fae86g3049gb50cg28aag52cdf560694b" version="2">ALLY</content>
+  <content contentuid="h8450a80dg6bb8g606cg3f2dgcd22a5685d88" version="2">Ally tooltip</content>
+  <content contentuid="hed04d8f5g898egf853g9f66g5362502c6766" version="2">RECORD_PLAYER</content>
+  <content contentuid="h95312ce4g3216g5fabge5bfg2887eadbcc82" version="2">RECORD_PLAYER tooltip</content>
+  <content contentuid="h2f23cd66g203fg4b10g9e81g97f5588069b5" version="3">Muted</content>
+  <content contentuid="hda96632cg67ecg484cg8eecgd2e762b87647" version="4">Myrkul</content>
+  <content contentuid="hff37a806g3b3ag46fdgad68g10d996789b72" version="4">Paladin of Bhaal</content>
+  <content contentuid="h28c4b863g1d0dg4d26g9068g2ccf2d31ca26" version="3">Bhaal is the god of murder. His paladins kill not only to please him, but as a sacred act that deepens Bhaal's influence on the world.</content>
+  <content contentuid="hde05e43bgcf7cg0133gfb1agc48170e2906a" version="2">GOOD DEITY</content>
+  <content contentuid="h98445638g678eg45cfgb7bdgaffba2fa6aaa" version="3">GOBLIN KID</content>
+  <content contentuid="hf95d4d9egbe0cg4fa2gb9dfg76e3ae25258c" version="3">Weight_Gargantuan</content>
+  <content contentuid="h442bad13g41f4g42d7gaa17gfd065b75e32f" version="3">Wild Magic</content>
+  <content contentuid="hcd5a8c8dg87f8g447fgbbe4g14d5cd6d83c2" version="3">This sorcerer's powers come from ancient forces of chaos. They churn within - waiting to burst free at any time.</content>
+  <content contentuid="h8c35604bg7cb2gbc8ag4e10g92fd117d372d" version="2">Crocodile</content>
+  <content contentuid="hdd8272b3ga2f7g594ag7db3gc3dd2f698ac5" version="2">CROCODILE tooltip</content>
+  <content contentuid="hba15336dg4566g4f35g974bg7d4cdf993c26" version="5">Paladin of Laduguer</content>
+  <content contentuid="hc5617c0dg78deg40d8gacbbg39b4e1bfdf76" version="3">Laduguer is the patron of the duergar. His paladins are grim warriors who act as spearheads in the fight against the many dangerous forces of the Underdark.</content>
+  <content contentuid="hac32e086gc784g9548g27a1g85dc5fc499bf" version="2">NO_PATHFINDING_PORTAL</content>
+  <content contentuid="hd22a5c37g529fgf3b4gffd9g947f4ecf9db1" version="2">NO_PATHFINDING_PORTAL tooltip</content>
+  <content contentuid="hdd663e85g7696g4b87g8a1agee4bb244350a" version="4">Innate Flyer</content>
+  <content contentuid="hc67c3375ge31bg42ebg99b5g64ba92b183ec" version="4">Half-Elf</content>
+  <content contentuid="hd9f4d90cg224bg4522g8b26g5ba0e2e8adbd" version="3">Half-elves inherit blessings from both their parents, but at the price of never quite fitting in. Curious, ambitious, and versatile, half-elves are welcome everywhere - yet struggle to stay for long.</content>
+  <content contentuid="h23966305g1e9bg4203g80b9gc9462086de9d" version="3">Steel Watcher</content>
+  <content contentuid="h252d23cdg58fag435ag9eaagcc731265bdb0" version="4">Dog</content>
+  <content contentuid="h88fd2defg013dg4c15gb8c1g5c1d9cbd629c" version="3">Dog</content>
+  <content contentuid="h7ca45d3dgc165gfe31gef7fg784047272dc6" version="2">HEALING POTION</content>
+  <content contentuid="hd1f8bb2cgae58g4625g29a2gba7fc7485050" version="2">HEALING_POTION tooltip</content>
+  <content contentuid="ha187c6c7gd24ag4d76g9f10g20d60e84ae2a" version="4">Elf</content>
+  <content contentuid="h6889eed9gc971g47f1gb2fdg4e35e5ffeef6" version="3">With an ethereal countenance and long lifespans, elves are at home with nature and its power. Flourishing in light and darkness alike, an elf can be beautiful and terrifying in equal measure.</content>
+  <content contentuid="h4feab1f8gf372g4044g9f3ag6eb3569a0384" version="4">Paladin of Lolth</content>
+  <content contentuid="h6cd5839dg02b6g4bc0gab6fgdb3e8147a185" version="3">Lolth is the evil drow goddess of deceit, shadows, and spiders. While paladins of Lolth are rare, she sometimes bestows a gifted devotee with extra powers, drawing out an untapped potential.</content>
+  <content contentuid="h96aa14f8g7ccfg4f50g872dgba73ade6307f" version="4">Paladin of Selûne</content>
+  <content contentuid="hb288ecf3g7285g4bf5g9a81gefc3951c00bf" version="3">Selûne is the goddess of the moon, and her paladins are soldiers in the constant war against her dark sister Shar. They use her light to dispel darkness and relieve the pain of others.</content>
+  <content contentuid="hbf2291ecga408g40eegbb6fgec80ee403882" version="4">Planar</content>
+  <content contentuid="hd25dd860g52d0g4173ga877g9bef1a3ba539" version="4">Frog</content>
+  <content contentuid="he1f2b97dge4f3g4eb4gbd4eg5b64a9bc8836" version="3">FROG tooltip</content>
+  <content contentuid="h77fe860ag78e0g4987g8df0g5244a4b366ab" version="3">Halberd</content>
+  <content contentuid="hfdb9f703g7550g4816ga6c7g9c56dce590f3" version="4">Vlaakith</content>
+  <content contentuid="heb218c12g9afag4678ga45bg9dc3439551c1" version="4">Humanoid</content>
+  <content contentuid="haf8ca065g8b44g4a02gac02ge481fbb097f0" version="3">One of the more common creatures to see in Faerûn, primarily defined as standing on two feet while being neither undead nor monstrous.</content>
+  <content contentuid="h5109413cg90b1g81e5gca9ag0197c0ff698b" version="2">GNOLL_FLESHGNAWER</content>
+  <content contentuid="h237387fbga6c7g3960g9664g673919b05ffd" version="2">GNOLL_FLESHGNAWER tooltip</content>
+  <content contentuid="hddeecfe7gf119g4f89g8f83g81ee9a31ab94" version="4">Paladin of Shar</content>
+  <content contentuid="h1a553a9dg5471g4121g88b8ga953c45bf974" version="3">Shar is the goddess of darkness, loss, and secrets. Her paladins steal forbidden knowledge, poison the blessings of other gods, and murder those who serve Selûne without a hint of remorse.</content>
+  <content contentuid="h8a6207d0gb07cgf531gb94agbb67a8b62c61" version="2">SHARK</content>
+  <content contentuid="ha90db3a5g3e36g35dagcdbdg23ab77805eda" version="2">SHARK tooltip</content>
+  <content contentuid="h3ef7e51eg83d0g42bagb778g8ba08dc1247c" version="4">Automaton</content>
+  <content contentuid="hc8c4ee6egf90ag4da3gafd8gf2a587f356de" version="3">Talos</content>
+  <content contentuid="h99425dfeg8884g4b9fg8df1g592f9898da80" version="3">Experimental Alchemy</content>
+  <content contentuid="h424dcdc3g3e2bg489bga3e7g9b88a5b658f1" version="4">Cleric of Shar</content>
+  <content contentuid="h88049ab9g3ee3g4404g8945g57f1c0eb8516" version="3">Shar is the goddess of darkness, secrets, and loss. Forever in conflict with her twin sister Selûne, Shar's clerics poison the world with fear and suffering while stealing forbidden knowledge in her name.</content>
+  <content contentuid="h56a39a2dgba1ag4f51g8e44gc4f9b5ef219c" version="4">Forest Gnome</content>
+  <content contentuid="hab412ac9g27f7g4255ga054g7ef6824f4c5f" version="3">Even smaller than their cousins and twice as reclusive, forest gnomes are a rare sight in Faerûn. They master magic and craftsmanship in their distant, idyllic groves.</content>
+  <content contentuid="had88747eg1454g48cdga764g09b650bdf0d9" version="4">Beholder</content>
+  <content contentuid="h52c6eae1g30c0g48efga035g4c78ab6a9fd0" version="5">Paladin of Corellon Larethian</content>
+  <content contentuid="h928faf52g9100g44b5g877agccf3519caa79" version="5">Corellon Larethian, ever-changing creator of all elves. His paladins are protectors of all things beautiful and champions in the never-ending fight against the enemies of the elves.</content>
+  <content contentuid="h8fa179b0g7878g4352gb858g5f34a54b294f" version="3">Hand Crossbow</content>
+  <content contentuid="ha1cddb35gcd4fg4d37gb3bcgc3913d2b2338" version="4">Cleric of Oghma</content>
+  <content contentuid="h19a892f4g3a21g45f2g8bbcgbef82b4eaf1c" version="3">Oghma is the Lord of Knowledge, overseeing inspiration and invention. His clerics spread truth, encourage innovation, and stamp out falsehoods wherever they go.</content>
+  <content contentuid="he03c1732ga33cg4c73gbe94gac047ed153ce" version="3">Heavy Crossbow</content>
+  <content contentuid="h8ad5e0fcgc9b0g4b6ag9e05g713f5d9926e6" version="3">Beast Master Ranger</content>
+  <content contentuid="h1b3300aeg1841g40dbgade0g5e20ab7171d1" version="3">Hunter Ranger</content>
+  <content contentuid="h140151c5gdf61g4f53gb23ag5d837a827a89" version="4">Laduguer</content>
+  <content contentuid="h37f150c1g2df0ge9eeg72d6gc78794ea3e9d" version="2">RECORD_QUEST</content>
+  <content contentuid="hef4b93efg5b6ag23f6g9274g59df6c29b02a" version="2">RECORD_QUEST tooltip</content>
+  <content contentuid="hc81ca35fg2e37gb11ag5974g7a8763925b3c" version="2">AI_IGNORED_TARGET</content>
+  <content contentuid="h219541bfgd750g7061g9da5ga9bfcece7ac9" version="2">AI_IGNORED_TARGET tooltip</content>
+  <content contentuid="h3ea30052ga0fbg413cgb7adg1b45bc32d9c2" version="4">Cleric of Kelemvor</content>
+  <content contentuid="h7d037f64g2ad5g43ebgb299g20ca224a1a02" version="3">Kelemvor is the fair-minded judge of the dead, shepherding lost souls to the afterlife. His clerics perform burial rites and punish those who unnaturally extend their lifespans, such as liches and vampires.</content>
+  <content contentuid="h818c632cgb9c3g402dg8d4fg43d9660cf68c" version="4">Shield Dwarf</content>
+  <content contentuid="hcb0df176g4e9cg41a9ga2aag4b0655b5a6af" version="3">Mountain dwarves thrive in rugged terrain, standing taller than their hill dwarf cousins. Their kingdoms are a bastion of strength in northern Faerûn.</content>
+  <content contentuid="h03dc7ce3g8d46g466cgb979g4d5be07fc137" version="4">Jailor</content>
+  <content contentuid="h973ec23dgd13dg4a86ga141g631f3310fd99" version="3">JAILOR tooltip</content>
+  <content contentuid="hc6a7d38egf50bgcffega050g3789011f2445" version="2">SHOVEL</content>
+  <content contentuid="h50364bf8gce81g10d2gca21ga53c5df2984b" version="2">SHOVEL tooltip</content>
+  <content contentuid="h58d72dd2gcaa9g4938ga350ga74bc69aedb5" version="3">Cheese Polymorph</content>
+  <content contentuid="h9bcc4de8gc9c2g4dfdg9922gb54bd9ebc9bd" version="3">This entity has been polymorphed into a delicious and presumably very perplexed cheese.</content>
+  <content contentuid="h3f2f6942g5e20ge5ccg0ee5g045bf5e3c120" version="2">EVIL DEITY</content>
+  <content contentuid="hf9671c0egeb44g4c08g870dg3a4513e81ebb" version="5">Cleric of Garl Glittergold</content>
+  <content contentuid="h6f2d1d7cgd223g4215gabffg4b08c07d54ab" version="3">Garl Glittergold is the king of gnomish gods, a deity of humour, gem-cutting, protection, and trickery. His clerics are often artisans or storytellers, relaying his tenets to the younger generations.</content>
+  <content contentuid="h1a2151f3g13a0g6074gc2c1gd0432763d532" version="2">GNOLL_FLIND</content>
+  <content contentuid="h806ca704gd5f3gaf2ag0d1ag6ea1a81d9c48" version="2">GNOLL_FLIND tooltip</content>
+  <content contentuid="h495806e7g0f9fg4963g9becg879cc9def6a2" version="4">Oghma</content>
+  <content contentuid="h3bcb573eg6525g4fe4gac0ag7840748b32a9" version="4">KNOCK_TARGET</content>
+  <content contentuid="h1244d3b5g48ccg4880gabb7g97388d239fc7" version="4">Soldier</content>
+  <content contentuid="h5a9f388cg90a1g4ec4g9c3cgbdec77068d31" version="3">Formally trained in a militia or army, soldiers know tactics and combat like the back of their hand.</content>
+  <content contentuid="hb203050agfe7fg2be6gf445g332be432ce1d" version="2">AGGRESSIVE BEAST</content>
+  <content contentuid="h32ed49e8g36ecg0fe8g739dgad57d6456484" version="2">AGGRESSIVEBEAST tooltip</content>
+  <content contentuid="h5ade3e5fg00b9g4129gbe17g39973a5e31d2" version="4">Speak with Animals</content>
+  <content contentuid="h71028f2fgb0c2g4453g981ag623b8e139bdf" version="3">PETPAL tooltip</content>
+  <content contentuid="h1e18a3fega844g42cfg8bcag08407f977e8c" version="3">UNLOAD_WITH_LEVELTEMPLATE</content>
+  <content contentuid="hd255d4e1gae9eg48e5gbe1dg79dfbdd07eeb" version="3">UNLOAD_WITH_LEVELTEMPLATE tooltip</content>
+  <content contentuid="hd5559499geed3g4675g9172g7b0ad360cde4" version="4">Cleric of Selûne</content>
+  <content contentuid="h72f15830gb30bg45b7gb069g84173916b8f8" version="3">Selûne is the goddess of the moon, navigation, and lycanthropes. Her clerics honour Selûne's empathy and mystique, but are fearsome when facing Selûne's wicked sister, the goddess Shar.</content>
+  <content contentuid="h3764c075ga0d0g746bg3c31gc61475ce1d17" version="2">SEVEREDHEAD</content>
+  <content contentuid="hc7cf50fcg2d04ge34cg3409g1ba74ce0b434" version="2">SEVEREDHEAD tooltip</content>
+  <content contentuid="h97661833g491fg4199gb66dg3bd505949098" version="4">Fey</content>
+  <content contentuid="ha3e20467g66abg4096g9dd8g09d7c1fd7070" version="3">FEY tooltip</content>
+  <content contentuid="hd948c2a3gd98bg466bgae65g849b0c8ec5c0" version="4">Drow</content>
+  <content contentuid="h3d2b136cg98bag491bg9813gaccb8336a96a" version="3">The elves of the Underdark, drow have been fighting a massive civil war since the goddess Lolth severed herself from the elvish pantheon, a betrayal scarring every generation that followed. Drow city-states struggle with one another for dominance, but the true war is between the cultists who serve Lolth and those who resist the goddess' corruption.</content>
+  <content contentuid="h1de50abbg790bg49cfgb4aag95b3c2d9438f" version="5">Guild Artisan</content>
+  <content contentuid="h82693693g04f6g44f1g95bbgc9906a862cfd" version="3">Your skill in a particular craft has earned you membership in a mercantile guild, offering privileges and protection while engaging in your art. Discovering rare components for wondrous crafts will provide the perfect muse.</content>
+  <content contentuid="h513bf11bg4fccg42dag8db6gb072513cf9f0" version="3">HOOKHORROR</content>
+  <content contentuid="h01c48546gfac4g18eeg6805g5ac3a0dbafe9" version="2">DISABLE_WEAPON_EFFECTS</content>
+  <content contentuid="h309dee9fg6e98gfed7g67b4g8214ca4f03f4" version="2">DISABLE_WEAPON_EFFECTS tooltip</content>
+  <content contentuid="haddc2cb6g2d91g47cdg83adg43ab5adaa56c" version="4">Shar</content>
+  <content contentuid="hfb436b0cga6d9g4788g8bd1g527d51242724" version="4">Neutral Cleric</content>
+  <content contentuid="h7a90f5a6g3da5g4120gb01eg798861ba8072" version="3">Neutral clerics uphold ideals of balance, fairness, and impartiality to further their faith. Helm, Kelemvor, Oghma, and Tempus are common gods they worship.</content>
+  <content contentuid="h972a1971g12adg4344g93ecgf801013303f6" version="4">Evil Paladin</content>
+  <content contentuid="heee12753gbd84g4079g97edg3e344502e96e" version="4">Evil paladins are merciless tyrants, willing to destroy whatever gets in their way. They swear Oaths to gods like Shar, Bhaal, Bane, and Myrkul.</content>
+  <content contentuid="h7126e984g53f5g4451gac33g65b1c25956a1" version="3">Myconid</content>
+  <content contentuid="ha1a11d3cg4564g4be6g8e83gdae4971554bf" version="4">Deer</content>
+  <content contentuid="h1de898e3ga8a8g4b6dg8f2fg066c968e524d" version="3">DEER tooltip</content>
+  <content contentuid="h3237d6b6gcdf0g4bb6ga207g570ac865cf4e" version="4">Sage</content>
+  <content contentuid="he20912d2g11ceg4eb3gb552g06b32e853d87" version="3">Well-read and vigorous studies, sages always seek knowledge, often trading their own expertise for that of others.</content>
+  <content contentuid="h465f6061g3861g4a65g9c13g8226a4275b12" version="3">SCROLL</content>
+  <content contentuid="h215069ccgfddeg4655g937ag9f51d1650118" version="3">Battleaxe</content>
+  <content contentuid="h5faaf487g41ddg43a6ga1a9g7c4f8fadfbf7" version="5">Short</content>
+  <content contentuid="h54e5c732gbbccg4ac5gb30ag43db974bd03f" version="3">Standing a head below most of Faerûn can be boon or bane, depending on whom one meets.</content>
+  <content contentuid="h2d5f2034g877aga004g328egfcb9cb781076" version="2">CHEESE</content>
+  <content contentuid="hdc551137g38deg446ag01d0g1aa3fee94bdc" version="2">CHEESE tooltip</content>
+  <content contentuid="hb3d41e7agfc46g4ebbg8d69g639e81a74687" version="4">Monk</content>
+  <content contentuid="hfc55e774gd4f7g4252g81b6gbe81520a6b5f" version="3">Monks use discipline and ritual to harness the energy inside their bodies, transforming it into explosive power. They excel at unarmed combat, for their defence is as strong as their spirit.</content>
+  <content contentuid="h0fadc2bfg6075g4d8agaad7g57840420b1dc" version="4">Lightfoot Halfling</content>
+  <content contentuid="h12b66080g4c9dg4c98gbbf1g208210f38372" version="3">Named for their inclination to stealth, lightfoot halflings are nonetheless happy in the spotlight. They enjoy travel, and many have made names for themselves across Faerûn.</content>
+  <content contentuid="h3dd583fag3348g4e4agab02g0df9aaf664be" version="4">Cleric of Myrkul</content>
+  <content contentuid="hfc1b4fd4g601ag471bg8a9dgd95ab0271065" version="3">Myrkul is the god of death and decay. He has few clerics, but those who serve his faith inspire a fear of death in others, bringing doom wherever they tread.</content>
+  <content contentuid="hea02d9a1gd75agcab4ge54cg21e203b456fb" version="2">TARGET_BOUND_CENTER</content>
+  <content contentuid="h5f61174dg18c6gc91ag5d78g040b23b183a2" version="2">TARGET_BOUND_CENTER tooltip</content>
+  <content contentuid="h15ed59bdgfd01g480dgba30g0342052fee14" version="3">Trident</content>
+  <content contentuid="hd40adb5cg75fag404cg9c5ega177807e54b7" version="4">Seldarine</content>
+  <content contentuid="h0dd1a635gd9fbg45b5g8268g89155f784277" version="4">Survivors of Lolth's treachery against Corellon Larethian, Seldarine drow live in a scattered collection of Underdark city-states, warring with each other as often as the Spider Queen's cult. Many of these drow travel to the surface in search of aid, seeking to reunite their shattered people at any cost.</content>
+  <content contentuid="h61841efag4f1cge84bge486gd480a3d9dfb9" version="2">VEGETABLE</content>
+  <content contentuid="h103b7a20g449dg94b1g57f8gf92f9b45e144" version="2">VEGETABLE tooltip</content>
+  <content contentuid="h6a479792g72b8g4e54g8b2cg9e5061b4ac72" version="4">Duergar</content>
+  <content contentuid="h81c930e2geaceg4e7cgb065gcb88e51c9724" version="3">The duergar - grey dwarves - were once enslaved by the eldritch mind flayer race, and adapted to freedom with a remarkably grim cruelty. Their stealth and viciousness makes them feared throughout the Underdark.</content>
+  <content contentuid="h85f65ef3gdd18g4a08gb358g65ee3670c786" version="3">Weight_Tiny</content>
+  <content contentuid="hab6d0c2eg1c5dg4f78g9399g9c8e6eee809f" version="3">Wild Magic Suppressed</content>
+  <content contentuid="h607d2745g9f65g4932gac2fg48b01f6c31d8" version="3">Longsword</content>
+  <content contentuid="h4d7ee952g9882gc5f2g7513g74d90b428c53" version="2">AiHint_Summoner</content>
+  <content contentuid="ha6010cecg0a2dge6ccga1dag2054d7a43fc1" version="2">AiHint_Summoner tooltip</content>
+  <content contentuid="h77495cfag7d5eg46abga16fge9257eadb70f" version="3">CALL FOR HELP</content>
+  <content contentuid="h333a7833gff16g41afgb284ge6bbdb264b15" version="4">Rock Gnome</content>
+  <content contentuid="he36ba479g74feg4d60ga99eg2d9060c38220" version="3">Rock gnomes are the most common to see on Faerûn's surface, named as such for their hardiness and affinity for metal.</content>
+  <content contentuid="hce9fd8dfgd5a3g4824gb4beg1c974a709b03" version="4">Ranger</content>
+  <content contentuid="hc95330cfgad1cg4670ga222g0d0f12f06808" version="3">As unparalleled scouts, rangers are in tune with the world around them, no matter how strange the terrain. They excel at hunting their favoured prey, tracking them without rest or relief.</content>
+  <content contentuid="hfcdae12bg9b8fg4bbaga723g8bcecf54e12f" version="3">Javelin</content>
+  <content contentuid="h5f87bf72g7ee7g491dg9ce5g1c14b0a0a7a5" version="5">Fiend</content>
+  <content contentuid="h708837feg3df2g47b9g879dg3f1332eeec73" version="3">FIEND tooltip</content>
+  <content contentuid="hf21c0fb9g7e54g47e6g9d3ag1e13b2483eb3" version="3">Shortsword</content>
+  <content contentuid="h78bc6804g1267g478egb13agb5615ff9c6d1" version="4">Rock Gnome</content>
+  <content contentuid="h46b68340g5daag4858g99b3g190c424cac94" version="3">Rock gnomes are the most common to see on Faerûn's surface, named as such for their hardiness and affinity for metal.</content>
+  <content contentuid="h4a67e9f7g7446g2cb6g8b7fgc1a95b559e69" version="2">Quest</content>
+  <content contentuid="hd19468fcg8e3egfd72g52c3ga8fb16f38649" version="2">Quest tooltip</content>
+  <content contentuid="h72d8b31fg1b7eg4940ga17dg9bb62dd1a3de" version="4">Asmodeus Tiefling</content>
+  <content contentuid="h64dcf06dg7bceg40f2gb416ga461c0c9fc69" version="3">Bound to Nessus, the deepest layer of the Hells, these tieflings inherit the ability to wield fire and darkness from the archdevil Asmodeus' infernal bloodline.</content>
+  <content contentuid="he44f849dgbf7bg4c0cga490g57dbbc449027" version="3">Scimitar</content>
+  <content contentuid="h6b02c667ga68dg4363g87f0g3c4889411434" version="4">Bird</content>
+  <content contentuid="h91265b82g1ce0g420bgb101g3700178873ae" version="3">BIRD</content>
+  <content contentuid="hb1b33d10g3ce2g4f4cg8845g30a273e664dc" version="4">Zariel Tiefling</content>
+  <content contentuid="h5e4dcd97gf2a5g42b0g8714g68ff992b3163" version="3">Tieflings from Zariel's bloodline are empowered with martial strength, and can channel searing flame to punish their enemies.</content>
+  <content contentuid="hf068c18eg0bd5g2d6bg04cbg0719adf845d9" version="2">DRINK</content>
+  <content contentuid="h877e582cgc1feg4ed4g8ab3g0bbfbabb32a7" version="4">Crab</content>
+  <content contentuid="hb5972e5bgb97fg4523gbe50g81e02c06c97e" version="3">CRAB tooltip</content>
+  <content contentuid="hd0402aeeg8dadg4409g85adgbc64db3be3ea" version="5">Berserker</content>
+  <content contentuid="h921b59fegf2a7g49cdgaa1dg13de73e47ef8" version="4">Violence is both a means and an end. You follow a path of untrammelled fury, slick with blood, as you thrill in the chaos of battle, heedless of your own well-being.</content>
+  <content contentuid="h992e4801g91c2g4ebfg9a17gb405e0e5b1ef" version="3">Narration</content>
+  <content contentuid="hf2dce06ag2b29ga969gc319g263c07022e3c" version="2">ENFORCE_ANALYSIS</content>
+  <content contentuid="h7b0aa77bgf11dgd93eg8857g5ab1f330f870" version="2">ENFORCE_ANALYSIS tooltip</content>
+  <content contentuid="h7c6002e9g298dg40c4g8023g1dd681f8d627" version="4">Rogue</content>
+  <content contentuid="hd3488457gb9bfg4f9eg83dfg318de5d3c0c9" version="3">With stealth, skill, and uncanny reflexes, rogues' versatility lets them get the upper hand in almost any situation.</content>
+  <content contentuid="h4ff71b26g5958g413fg8d36g61c750d0d189" version="3">TELEPATHY</content>
+  <content contentuid="hfe41043ag61c8g474fg8ec4g7a9d65f959ad" version="3">The famed Blade of Frontiers, the pride of Baldur's Gate.</content>
+  <content contentuid="hd982d85cg36f8g43f1g8ad3g384ca644c26e" version="4">Ghost</content>
+  <content contentuid="h7a3c6657gd33bg462cg8a11g87ce5112589c" version="3">GHOST tooltip</content>
+  <content contentuid="hc17058d2gd04bg4469ga9f8g6e9bc4828ad3" version="4">Human</content>
+  <content contentuid="hc7725fd9g566fg4954g87adgbdb1cece504c" version="3">The most common face to see in Faerûn, humans often face stiff competition from long-lived races, but hold their own with tenacity, creativity, and an endless capacity for growth.</content>
+  <content contentuid="hca59b96ag10cdg493bga69fgd5252a912885" version="4">Paladin of Kelemvor</content>
+  <content contentuid="h81f0f027g6da9g4ddfg801cg7705b9805d25" version="3">Kelemvor is the judge of the dead. His paladins take on quests to destroy powerful undead, for their very existence subverts Kelemvor's will.</content>
+  <content contentuid="hbb2f323eg2468g432ag8c81g8bd5ede46456" version="4">Strongheart Halfling</content>
+  <content contentuid="hddc8149bg4ec3g4677ga638gca83cd0f5e8a" version="3">Legends say dwarven blood gave stronghearts their hardiness. Resistant to poison and wellsprings of endurance, these halflings easily hold their own.</content>
+  <content contentuid="h0175a712gbe41g4492ga51fg714d163ffc55" version="5">Lolth-Sworn</content>
+  <content contentuid="h6df4ef24gcaefg4c22g8d96g47835be0e085" version="3">Raised in one of Lolth's massive cults spread throughout the Underdark, these drow extol the virtues of their corrupt and merciless goddess, seeking to bring all other drow under her sway. Lolth marks her followers with vivid red eyes, in hope every race in Faerûn will learn to fear the very sight of them.</content>
+  <content contentuid="h2f4ef7b5g0bdag4a3fga501g67c390c6df8f" version="3">TRADER</content>
+  <content contentuid="h844c29c4g324fg4eb3gb5c9ga3536f2709d0" version="3">TRADER tooltip</content>
+  <content contentuid="h027075efgf8b2g42e1g9468gbb6a17f1c561" version="4">Ilmater</content>
+  <content contentuid="hd8645782g5698g46f7g8131g0098bc828c9a" version="4">Asmodeus Tiefling</content>
+  <content contentuid="h629ddeb4gb8dag4e97g9663gb797d485d70b" version="3">Bound to Nessus, the deepest layer of the Hells, these tieflings inherit the ability to wield fire and darkness from the archdevil Asmodeus' infernal bloodline.</content>
+  <content contentuid="hd02ea740gc9a1g4742g8f65g1c7b3145b31f" version="4">Celestial</content>
+  <content contentuid="h53ad46b3g5fd2g49a3g9f23g19d060cf9f48" version="3">CELESTIAL tooltip</content>
+  <content contentuid="hb45b4f7fga367g47d9g26ecg2b4b826f9b54" version="2">PLAYER</content>
+  <content contentuid="hf45321cag2275gaabfg130cg25453237cf2b" version="2">PLAYER tooltip</content>
+  <content contentuid="h49954e1dgf2f5g94f3g637eg5308e1e5b6b5" version="2">AiHint_TacticalRetreat</content>
+  <content contentuid="hb23a6481gf451gd244g3318g7ab79b395ce2" version="2">AiHint_TacticalRetreat tooltip</content>
+  <content contentuid="h6e881eeeg0b53g4430gb264g1d36fa4342a7" version="4">Forest Gnome</content>
+  <content contentuid="hc76b1f74g0166g495fg8231g10935b10276f" version="3">Even smaller than their cousins and twice as reclusive, forest gnomes are a rare sight in Faerûn. They master magic and craftsmanship in their distant, idyllic groves.</content>
+  <content contentuid="h9f1cc9b2gd346g830bg7ff5gc550e7612510" version="2">BONE</content>
+  <content contentuid="h87bef93bgd3a9g696fgf53eg34d6127fcb34" version="2">BONE tooltip</content>
+  <content contentuid="h6a549898g8a7ag47ecga099ge620fed0dd31" version="4">Lightfoot Halfling</content>
+  <content contentuid="h2e822c91g1d07g4ea0ga1c1g940b7fd918ff" version="3">Named for their inclination to stealth, lightfoot halflings are nonetheless happy in the spotlight. They enjoy travel, and many have made names for themselves across Faerûn.</content>
+  <content contentuid="hc7a96d5cg6346gea1fg05b3g1aca904cc0e5" version="2">AiHint_Unique</content>
+  <content contentuid="hc2a839bfgb02agcb4fg5390g668204973b15" version="2">AiHint_Unique tooltip</content>
+  <content contentuid="hed9f87f6g3e82gef6dg3c89gce8317d37e6c" version="2">NO_RECORD</content>
+  <content contentuid="h29baa5d7g406bg13afgc399g6e17d0d1bbc7" version="2">NO_RECORD tooltip</content>
+  <content contentuid="h2b12ad21g3131g4f08g8669gec773dc54394" version="4">Corellon Larethian</content>
+  <content contentuid="hdc0635e7g738cg4dc2g8163g7205a15e0a03" version="3">Weight_Medium</content>
+  <content contentuid="ha4288982g21c4g44e0g9b33g39e58d578c69" version="4">Paladin of Tyr</content>
+  <content contentuid="h6eb63059gbc33g4eb3ga7e4g4bf94fa7df30" version="3">Tyr is the god of justice, and his paladins are the sword that enforces this justice. They constantly hunt monsters and other wicked beings, for none may escape the Maimed God's sight.</content>
+  <content contentuid="h126af7b3g3dbcg4fadgb015g50b3a548b58d" version="4">Charlatan</content>
+  <content contentuid="h5dece7d8gc771g41d2g953cgc05c93c76a5f" version="3">A connoisseur of deals that are too good to be true. Prone to exaggeration, and more than happy to profit from it.</content>
+  <content contentuid="hd7c9e050gc312g47e2gaccag5e0f11bebd4b" version="4">Githyanki</content>
+  <content contentuid="he80cb422g017dg420fg958fg275334601c62" version="3">With a ruthlessness borne from mind flayer enslavement, githyanki ride the Astral Sea atop red dragons, bringing their silver swords and psionic might to bear against any trace of the illithid menace. </content>
+  <content contentuid="h7f9c7644gf986g4bdega52fg9ab986de0db3" version="4">Civilian</content>
+  <content contentuid="h36dbce62g87dfg438agbe4dg87f3ad78d047" version="3">CIVILIAN tooltip</content>
+  <content contentuid="hccbf07b4g60b6g491egbf33gbe764a13c630" version="3">Ettercap</content>
+  <content contentuid="h481ac8e0g5a44g4ff6g86bag8ae11a2f0400" version="4">Elemental</content>
+  <content contentuid="h4a7102b5gf519g4430ga17eg9ccd68b9c410" version="3">ELEMENTAL tooltip</content>
+  <content contentuid="h9fc2029egb49bg4fbdgb351gba98ff514503" version="4">High Half-Elf</content>
+  <content contentuid="h36f0a564g5676g4d3fgb1eagcfc1b6e8ad48" version="3">A step further from the Feywild than their high elf parent, these half-elves still hold a magical spark. They mature faster than their brethren, but only live a few decades longer than humans.</content>
+  <content contentuid="he99ef958gc036g488dg8767g8d82f69f1d13" version="2">SQUIRREL</content>
+  <content contentuid="h394ac4e9gfb8bg245fg39a1gd1b28ccc2fab" version="2">SQUIRREL tooltip</content>
+  <content contentuid="hd13663f9g57d0g4560g9cd6gfef75e782dc4" version="4">Tiefling</content>
+  <content contentuid="h65b6efe9geef2g4746gb7a4g7d854caa9ff3" version="3">Descended from devils of the Nine Hells - by blood or curse - tieflings face constant suspicion in Faerûn. Their arcane abilities make them natural survivors, whether as heroes or villains.</content>
+  <content contentuid="hcbb97644g5a9dg4b21gb4c5g9f37d981e198" version="3">SCRYING_EYE</content>
+  <content contentuid="hd35aabeege397g4555gb544g4e6da6151b80" version="3">SCRYING_EYE tooltip</content>
+  <content contentuid="h7d8751aeg794bgb67fgc6f3g4deead6ce2ea" version="2">NO_LEVELTEMPLATE_TRANSFER</content>
+  <content contentuid="hfc46f505gbcccgf3adg117dgce89db482b23" version="2">NO_LEVELTEMPLATE_TRANSFER tooltip</content>
+  <content contentuid="h6830c2acg119dg4aecg846dg685829f9e98f" version="4">Cleric of Mystra</content>
+  <content contentuid="h0780d690ga1eag4b46ga234g5ec9e2bf351e" version="3">Mystra is the goddess of all magic, guarding the Weave that allows mortal spellcasters to access its power. Her clerics preserve ancient lore and protect bastions of magic.</content>
+  <content contentuid="h6b439b63g157dg0199g9a99gd7ee34cd1e6e" version="2">Undead Beast</content>
+  <content contentuid="he427b0b1gcee0gff00gf416gb482f0438a5d" version="2">UNDEAD_BEAST tooltip</content>
+  <content contentuid="hfac4a6efg2d2agbcc9g9e90gd6d3e86433db" version="2">DO_NOT_TRANSLATE</content>
+  <content contentuid="hf208c672g19bdg19f3g37afg12ca9322218b" version="2">DO_NOT_TRANSLATE tooltip</content>
+  <content contentuid="hda93e5c5g495ag42c0gb78agb885a574f463" version="3">ALLOW_SPEAK_WITH_DEAD</content>
+  <content contentuid="h704de4aeg457ag4135g9032g1cede1de01e8" version="4">Paladin of Eilistraee</content>
+  <content contentuid="h8137d0eaga8cfg4255g8f64ge51cd11c0d89" version="3">Eilistraee is a drow god of moonlight, song, swordwork and dance. Her paladins are tasked with coaxing other drow away from evil, and hunting the demonic agents of Lolth.</content>
+  <content contentuid="ha91b987agb884g4800gae54g0312df00e080" version="4">Kelemvor</content>
+  <content contentuid="h036d072dg8426g4c5fg97a3gdb98c5d7cf07" version="4">Dwarf</content>
+  <content contentuid="hb67e024cg091eg47ccg8341g985cbbf99a03" version="3">Durable and unyielding as their homes of stone, dwarves are some of the finest warriors, miners, and smiths of Faerûn.</content>
+  <content contentuid="h42154d31ge961g409dg9e5fg03cd70905d8e" version="4">Underdark</content>
+  <content contentuid="hf13b54e9ga846g40cega2c7g466c45d2f822" version="3">Being raised in the Underdark casts a cruel shadow on one's view of the world, even up on the surface.</content>
+  <content contentuid="hf6050ef3g4121g4975g8ce5gf645ef79a7b6" version="4">Cleric of Bhaal</content>
+  <content contentuid="h6ccca1c4gf852g463fg8616g68577490662a" version="3">Bhaal is the notorious god of murder. He once spread his heritage and sadistic impulses through all of Faerûn, then resurrected himself in a horrific ritual. His clerics are assassins, deliberately killing to honour their god.</content>
+  <content contentuid="h26039350ge15bg4129gab5cgd22a82d66cc0" version="3">Draconic Bloodline</content>
+  <content contentuid="hb16a5c06g0b57g40f9gadf1g3108bbd422f5" version="3">This sorcerer's veins carry draconic magic, the result of a powerful dragon ancestor.</content>
+  <content contentuid="h710d8fd3g4e1dg4df1g9238g3209e1864961" version="5">Paladin of Vlaakith</content>
+  <content contentuid="h84f71b88g58feg490ag87bdg5da753202d70" version="3">Vlaakith is the dread lich queen of the githyanki. Anointed in a dark ritual, her paladins are chosen warriors who obey her every command.</content>
+  <content contentuid="h8e5b9c6bg0ca8gf27ag23e8g42d630e5dd36" version="2">TOOL</content>
+  <content contentuid="h50343e64g6aa1g67f8g041fg58ebf1255ae5" version="2">Tool tooltip</content>
+  <content contentuid="hffae24eag1c20g4dcag8ca4gfe8b058b5cc9" version="3">Mielikki. Goddess of forests</content>
+  <content contentuid="h7f32ad21gc045g4903gbc8bgb0569194308b" version="4">Great Old One</content>
+  <content contentuid="hff4a6f17g2194g489agbb2dgd6c7c3e32a5f" version="3">Your patron is a mysterious entity whose nature is utterly foreign to the fabric of reality.</content>
+  <content contentuid="hea121275g889fg5e6eg0d34g2f798e2f8a22" version="2">REWARD</content>
+  <content contentuid="h7f9843b9ge6d9ga7a9g138eg32398c0bb90c" version="2">Reward tooltip</content>
+  <content contentuid="h07aad51cg3a5ag4725gbf07g18308981d4b8" version="4">Gold Dwarf</content>
+  <content contentuid="hd7097a2fg976cg4437g99d9g48efca106227" version="3">Hill dwarves are defined by their keen intuition and heightened senses. Their resilience has kept a massive kingdom in the south intact for centuries.</content>
+  <content contentuid="h9f33541eg1e27g4de0g91d2g04e371a65ad5" version="4">Urchin</content>
+  <content contentuid="h540f47dbgeb03g4620g9526g3161fea8d948" version="3">After surviving a childhood on the streets, you know how to make the most out of very little. Helping youth in need bolsters your spirit for the journey ahead.</content>
+  <content contentuid="h6678f380g6ea9g46adga90bgac5dbe00bf7d" version="4">Spider</content>
+  <content contentuid="hde560604gdd6cg4ca3gab31gdd24932d4e9c" version="3">SPIDER tooltip</content>
+  <content contentuid="h27008081g482fg49e3ga4f6gbfb9f2d77a05" version="3">Dart</content>
+  <content contentuid="h0160ada8gc451g4c15ga08bg4d6a65202a90" version="4">Cleric of Tyr</content>
+  <content contentuid="hc983a9f5gebd1g4af1g86f2ga69fbb013f31" version="3">Tyr is the god of law and justice, and encourages his clerics to uphold them no matter the sacrifices that must be made. He grants spells that enhance accuracy and martial prowess.</content>
+  <content contentuid="hbe4de057g8105g420fg9d83gf02a15a12d3b" version="5">Cleric of Moradin</content>
+  <content contentuid="h119a7f70g9202g4dcag816bgac20c5122713" version="3">Moradin, the All-Father, is the god of the dwarf people, as well as the god of creation, smithing, stonework, and protection. His clerics guide the morals of dwarven communities and lead the charge against those who would assault them.</content>
+  <content contentuid="hdae3105cg1ab2g4e46gb23dg75931f2a2ff0" version="4">Turtle</content>
+  <content contentuid="h9d913c1dga3ebg4a29gb402gf05fbced805e" version="3">TURTLE tooltip</content>
+  <content contentuid="h26fe3b00g79b5g4150g9647gbfea0f24acc9" version="4">Oath of the Ancients</content>
+  <content contentuid="h7f1a984fgbf47g443fg904dgc1629c44d642" version="3">Committed to preserving life, you fight on the side of the light in the cosmic struggle against darkness.</content>
+  <content contentuid="hdcb47300g74acg4affgb574gf82ab6fca14e" version="4">Entertainer</content>
+  <content contentuid="h669db198g6339g4f9dg9330g853b24287b98" version="3">To live is to perform, and entertainers know that best. Hard-earned skill with acrobatics and instruments is key when appealing to the masses.</content>
+  <content contentuid="hdd1386fag3caeg43acg8516g835647d8742f" version="4">Sorcerer</content>
+  <content contentuid="h7f85c89egc746g418dg9561g59b0098aa505" version="3">Magic brews in a sorcerer's blood. By channelling natural talent into powerful spells, a sorcerer is born to arcane greatness.</content>
+  <content contentuid="h1d477aa7ga915g4178gbaa7g7ad86a065239" version="4">Bear</content>
+  <content contentuid="h051d0ab8g50dcg41ecg9235gb5459d95479e" version="3">BEAR tooltip</content>
+  <content contentuid="h8c653727g6462g42e0ga87fgb5e2d538556b" version="3">Inanimate</content>
+  <content contentuid="h16031b41g359ag42c6g8912ge834b52f3138" version="3">Weight_Large</content>
+  <content contentuid="h3ceb9272g466cg4162g9597gb145809316c0" version="4">Demon</content>
+  <content contentuid="haab8200fg75bcg4d86g9249g0998fe4ba487" version="3">A member of the chaotic evil fiends native to the Abyss.</content>
+  <content contentuid="hbe414538g2b64gf318g8324ge9473262df81" version="2">AiHint_Mage</content>
+  <content contentuid="h61bee870g7b30g57d8g0fb7g4186ae9336e3" version="2">AiHint_Mage tooltip</content>
+  <content contentuid="h77f3984eg33acg4b2ag89ebg84eb366744ae" version="3">BLINDSIGHT</content>
+  <content contentuid="h3f29544cgb03dg44cegb816g8eab098a6f4f" version="4">Dragon</content>
+  <content contentuid="h7bd32c93ge9a1g4cb6ga045g709e244f8b13" version="3">DRAGON tooltip</content>
+  <content contentuid="hdb32a0b0ga517gbaafg545ag07d0a8551750" version="2">Puzzle</content>
+  <content contentuid="h9f84dc54gcf2egf7b0g8333g30ad5345f4ed" version="2">Puzzle tooltip</content>
+  <content contentuid="hbb607e49g8bc9g4323g8514g2853825f351b" version="3">Light Crossbow</content>
+  <content contentuid="h452aaefagda0eg4269gb4bbg773479ca789f" version="3">The Fiend</content>
+  <content contentuid="h0777d1f2g0903g4fadg9870g5c3133dafac6" version="3">You have made a pact with a fiend from the Lower Planes of existence, a being whose aims are evil, even if you strive against those aims.</content>
+  <content contentuid="h46da3cacgc695g4973g87d5g385f073b6294" version="5">Paladin of Yondalla</content>
+  <content contentuid="hcdcd1329gd70bg4b16gabb2g6a6c22c9fd9a" version="3">Yondalla is the mother-goddess of the halflings. Following her example, her paladins devote their lives to protecting their communities.</content>
+  <content contentuid="h6f2ed899g25deg45e0gbfa1gdbd0b30d50cc" version="3">Cleric of Lathander</content>
+  <content contentuid="hfcaf1069gf4e0g4307gb986g482513c2e5d6" version="4">A servant of the god of morning dawn, whose deific name is Lathander.</content>
+  <content contentuid="hf697bae9g4ba6g47a6ga7c9g57173b0279c5" version="4">Hyena</content>
+  <content contentuid="h95209ce4g2d0dg400egb8d1g9249d4985092" version="3">HYENA tooltip</content>
+  <content contentuid="hc9cbfccdg24e3g4416g80feg9e2831319847" version="3">Cleric of Talos</content>
+  <content contentuid="h27cb1120g8566g4d8fg9543g2f5b2b30316c" version="3">Eryn, A servant of Talos, God of Storms</content>
+  <content contentuid="heafc99e3g7584g4b36g871cge22980121bb7" version="5">Sailor</content>
+  <content contentuid="h38128637gdba8g44a3g9b9bg5d362d93d8ff" version="3">You are pushed by greed and wanderlust, ever curious, seeking hoards and wonders unknown. Finding secret treasures opens the path to new discoveries.</content>
+  <content contentuid="h661e3b22gf74cg4952g950ag555a443dec3d" version="5">Cleric of Helm</content>
+  <content contentuid="hd603ec06gc728g40b0g9096g284e0f87a214" version="3">Helm, the Vigilant One, is the god of those guard and defend others. His clerics serve as implacable sentries, often wearing heavy plate armour to emulate their deity.</content>
+  <content contentuid="h15d5248fg12b4g488fg9b8bg84750bbb77d4" version="5">Eilistraee</content>
+  <content contentuid="he6d098d6g1336g4ea2gac74g8d7858c314e1" version="4">Eilistraee is the goddess of good-aligned drow, beauty, song, and freedom. The Dark Maiden seeks to reconcile the ancient conflict between her people and those who live on Faerûn's surface.</content>
+  <content contentuid="hffaeb7c6g9d4dg4af7g88dagaf0cf6c15c32" version="4">Gold Dwarf</content>
+  <content contentuid="h9e9cd847g9fefg441dga80cg12a4d3de7fba" version="3">Hill dwarves are defined by their keen intuition and heightened senses. Their resilience has kept a massive kingdom in the south intact for centuries.</content>
+  <content contentuid="hfd49d536gf4dag9947gd64bgddb3068ad86a" version="2">CONSUMABLE</content>
+  <content contentuid="h8a7a6787g0e65g5be3g5699g6c2710f8a1ef" version="2">Consumable tooltip</content>
+  <content contentuid="h3552581cgda1cg4652ga4bcg27cb45ae3926" version="4">Oathbreaker of Vengeance</content>
+  <content contentuid="h4961d421g8c10g4415g915fg01d1edd1a0c1" version="3">Your previous oath was one of Vengeance.</content>
+  <content contentuid="h6ca99812g208fg4b44gb1b6g66d8365c4647" version="4">Triton</content>
+  <content contentuid="h28fb3483g6e5bg4c27g832cg73fec4890f1c" version="3">Bahamut</content>
+  <content contentuid="h517064e5gf5acg417ega6d1gaa6e0a400437" version="3">Paladin of Tiamat</content>
+  <content contentuid="h7db17277g3819g4383ga4ccg5a0bf5c30437" version="3">A servant of the five-headed queen of dragons, Tiamat.</content>
+  <content contentuid="h5565d87cg9567g4d4ag94bfgd164bc55b234" version="3">Find Familiar</content>
+  <content contentuid="h96e90d6cg9fd6g4e2dgaa1bg9b81702fc4b9" version="4">Lizardfolk</content>
+  <content contentuid="hc668adb1ga64ag4ff8g9884gd0073d1df9ab" version="4">Genasi</content>
+  <content contentuid="hea0221dag0476g43eag9fe8g3fbcbd782f80" version="3">Blood Skeleton's Exploding Death</content>
+  <content contentuid="hee6ec832gf4a0g4858gbef0g0d11b6faadde" version="3">Corpse Pile</content>
+  <content contentuid="h0389350cg5c33g43c2g94a7g1731203990ee" version="3">Generic Voice 3 Male</content>
+  <content contentuid="h45f568cdg5efcg43c3ga2a4gc8398dc600ff" version="3">Elemental Fire</content>
+  <content contentuid="hf248ff8fgd945g462egb17cg1a3c8036c8a4" version="5">Dragonborn</content>
+  <content contentuid="ha7df86c8g99dag4c28g8112g96aa32d31a56" version="3">While not true dragons themselves, draconic lineage defines the dragonborn. They inherit powerful breath weapons from their ancestors and possess a preternatural toughness.</content>
+  <content contentuid="h2d2815e7g0dfdg4820g96cfgbb26f1315a30" version="4">Bestial</content>
+  <content contentuid="hcbab8daagef44g48ffgb0b5g3414826fc723" version="3">%%% Empty</content>
+  <content contentuid="h244ef280g3cb0g4f7ega0dbgbf5d5133dccc" version="3">Archfey</content>
+  <content contentuid="ha60deb09gfc1bg4c3fg90dfg6b7a50b0c297" version="4">Tortle</content>
+  <content contentuid="h86eb8879ge44cg4508g80cagb005725aa9d3" version="3">Discovered by Scratch</content>
+  <content contentuid="h048bf055g5e02g4da8g8271g8a875affe1c6" version="4">Warforged</content>
+  <content contentuid="h82a67eebg2273g4f18ga51ega3b37e0d7184" version="4">Kenku</content>
+  <content contentuid="hcc7b4e61gf950g4928g84a6g56245324167d" version="3">Paladin of Mielikki</content>
+  <content contentuid="h59fb1cddgd0e6g46e7gb773g5a1d3a6a1ca6" version="3">Venji, A servant of Mielikki, Goddess of forests and patron of nature.</content>
+  <content contentuid="h2adb71cdg91adg4656g9174g15e6f374a27b" version="3">Elemental Earth</content>
+  <content contentuid="h13fe8b55g03b1g44a6gad90gc77aca117ade" version="3">Djinni</content>
+  <content contentuid="h954ff990g748fg487fgbaf7gfbb8b1793316" version="3">Ranger Companion</content>
+  <content contentuid="hc4e0eb48g4c14g4a1agb014g824aab1d58f3" version="3">Gruumsh</content>
+  <content contentuid="hd41acb30g8883g41aag8248g2881a0b40302" version="3">Boo</content>
+  <content contentuid="hc0eff808g1a9bg45b5gaeb9gd62dfcfab613" version="4">Tabaxi</content>
+  <content contentuid="h69b871cfg8f7eg4104g96d6g32a8a150f515" version="4">Aasimar</content>
+  <content contentuid="h802cb652g36f1g43cbg9d41g2f2810c6937d" version="4">Kenku</content>
+  <content contentuid="ha2359607g4c6eg45fdga482g0748adffff41" version="3">Generic Voice 5 Male</content>
+  <content contentuid="hfc5914afg58e1g42cbg9779g730e8b95d908" version="3">Volo's Quest Resolution</content>
+  <content contentuid="h4821a4fcg80d7g4a02ga3cfg24e654b09e5a" version="3">Generic Voice 4 Female</content>
+  <content contentuid="h36c9456dg8253g42c7gad79g7b51ac68ece7" version="3">Generic Voice 6 Female</content>
+  <content contentuid="h914e8866gba62g41e8gbcbbg82d6fd09b390" version="4">Yuan-ti Pureblood</content>
+  <content contentuid="h6ae5390cgdc22g4a19g974bge7b9549dc6d6" version="3">Paladin of Tymora</content>
+  <content contentuid="hed339ca5g1c5ag42ebgacc1g2fdf1285e49d" version="3">Kulishov, A servant of Tymora, Goddess of Good Fortune</content>
+  <content contentuid="hfce63473g95f7g45a5g8a28g67a1f459f10a" version="4">Aarakocra</content>
+  <content contentuid="h08194c5dga4bdg4ee2gace8gb7d96dd86719" version="3">A Pile of Worthless Ashes</content>
+  <content contentuid="h97e32becga888g45c1g816fg8548b555bc14" version="3">Gloom Stalker Ranger</content>
+  <content contentuid="h33c1e5cag79b7g47b6g89a1g1aef3d3334cd" version="3">Discoverable</content>
+  <content contentuid="ha5469969g1be0g4053gb2ffge0fbbc32381b" version="3">A Pile of Worthless Ashes</content>
+  <content contentuid="h9572d4a9g76ebg47e2g844agecefa645109a" version="3">Generic Voice 8 Female</content>
+  <content contentuid="h16ec33b2gc17bg469dga9e6g425203455ffb" version="3">Kobold</content>
+  <content contentuid="hf5a297f5g2772g4ff0gad1dgec9ccf001974" version="3">KOBOLD tooltip</content>
+  <content contentuid="h559df317g2a34g489cg90d3gbcef58ea32dd" version="4">Half-Orc</content>
+  <content contentuid="h1564dab4g87d5g4cfdg8a71g521c9ce73e3b" version="3">Although they descend from cultures of strength and martial prowess, most half-orcs are born in times of peace. Whenever orcish wars end, alliances and marriages lead to a new generation of shared blood.</content>
+  <content contentuid="ha3aef2acg11e2g46bag8a5fg81aad866134d" version="3">Muscular Body</content>
+  <content contentuid="h146a8bd0g0d23g42abg8abfg21f88f1a349d" version="4">School of Necromancy</content>
+  <content contentuid="hd3c97a4eg4162g4b2dg9889g0d710f89a387" version="3">Elemental Water</content>
+  <content contentuid="h356d30f2g2ed7g43feg806eg960309952b8e" version="4">Firbolg</content>
+  <content contentuid="h8248908agb790g4cd2g96e8g9612fbcd81d9" version="4">Lizardfolk</content>
+  <content contentuid="h73909bd4g021ag46a9gbafbg4e3b488f0e15" version="3">Generic Voice 1 Male</content>
+  <content contentuid="h42b8eabcg8132g4dfcgb4f6g825593c1021e" version="4">Dragonborn</content>
+  <content contentuid="h023612a9g0de6g44f7gb82eg7d66c58e1a92" version="3">While not true dragons themselves, draconic lineage defines the dragonborn. They inherit powerful breath weapons from their ancestors and possess a preternatural toughness.</content>
+  <content contentuid="ha4de6750ge998g43d1g9c29g2e527f01137a" version="3">Elemental Air</content>
+  <content contentuid="hf699f2d9gf418g46e2g8ca7g03b638ff9a30" version="4">Genasi</content>
+  <content contentuid="hb3a37d8ag4dc7g4ff4g8ac2gcceea84b810e" version="4">Oath of Vengeance</content>
+  <content contentuid="h1aed9648g80f5g41eeg8edbgf7c3e622ece9" version="3">Casting aside even your own purity, you deliver justice to those who have committed the most grievous sins.</content>
+  <content contentuid="h3e854bb4gdaa7g4f66g9ac0gd52966e4bfbb" version="4">Warforged</content>
+  <content contentuid="hff5fc651g3f31g48f3g951dga738fc57784a" version="3">Generic Voice 7 Male</content>
+  <content contentuid="h0cddc662ge8f7g46a6g8593g49c485f0a2ba" version="3">Generic Voice 2 Female</content>
+  <content contentuid="hb850f78bg338fg4bb4gb68bgc862df47f1f9" version="3">Gremishka</content>
+  <content contentuid="hcb53f835g348bg4738g8fc5g450c3885e58a" version="3">When a feckless amateur spellcaster attempts to create life, and bungles it, the result is a Gremishka. Spiteful, malformed, and hideously feline, Gremishka's hold a particular loathing for practitioners of the arcane arts, a dark reflection of typical parental love.</content>
+  <content contentuid="hb89ddff2ga0a9g4a9fgadc2gf7e6db76dc81" version="3">Paladin of Bahamut</content>
+  <content contentuid="hea7c770eg9133g452bg96c2g014bed2472f3" version="3">A servant of Bahamut, God of metallic dragons.</content>
+  <content contentuid="hb608980ege716g4d4cg8682g5a3108627aa7" version="4">Triton</content>
+  <content contentuid="he2163839gec02g49dfg867dge95799dac6fe" version="3">Cleric of Tiamat</content>
+  <content contentuid="hde2e93c1g7ecdg4993gbc3fgc22c373606db" version="3">A servant of the five-headed queen of dragons, Tiamat.</content>
+  <content contentuid="hf5b8f131ga97bg42b3gad17g40df78411acd" version="4">Tortle</content>
+  <content contentuid="h2da694b6gdb23g4bcdgb649g6c0c3aee79a9" version="3">Paladin of Lathander</content>
+  <content contentuid="h30c70495gd2acg4031gb384g42e9ec23e93e" version="3">Enro, A servant of Lathander, God of the dawn.</content>
+  <content contentuid="h8c307790g6355g4ecfgb456gaacb3fbad3d5" version="3">Paladin of Talos</content>
+  <content contentuid="hdb8cc75cgc965g46begaf9fg65097e5cca44" version="3">Kosen, A servant of Talos, God of Storms</content>
+  <content contentuid="h4ed83e26g37e5g436cgba80g00e009183e2a" version="3">Deva</content>
+  <content contentuid="hfe7ac1c9g90e5g4bdaga948g361df7462e95" version="3">Deva, an Angel in Service to a God</content>
+  <content contentuid="hcc5ad6c6gd603g42f4g8271g6bd73f0c044a" version="3">FLESH_GOLEM</content>
+  <content contentuid="ha0e18966g8282g4ac5ga3a8g66a412926489" version="3">SCRATCH</content>
+  <content contentuid="h8a4c7dc3gd668g48c6g989bga4734ccaa08f" version="4">Tabaxi</content>
+  <content contentuid="hc348f5e9gc637g4a11gb0bfg4e4f0ea1b88a" version="4">Bestial</content>
+  <content contentuid="hc6724dadg84a2g452fgb2fbg8f0411722912" version="4">Yuan-ti Pureblood</content>
+  <content contentuid="h3740ddb4gbbf6g4c93gbfc2g6767326d1e3b" version="3">Tiamat</content>
+  <content contentuid="h8d7cf36eg3db9g4885gbabeg75d12b6951dd" version="3">Cleric of Bahamut</content>
+  <content contentuid="hdefaa9bbg99a6g4665gaa04ge0a2d8722735" version="3">A servant of Bahamut, god of metallic dragons.</content>
+  <content contentuid="hf4967135g7d69g4d57gaf66gcec9c8b16fb6" version="4">Firbolg</content>
+  <content contentuid="h831a99dcg5137g4a4cgb8b9gaa3ef736a35c" version="3">Cleric of Gruumsh</content>
+  <content contentuid="h67deb80cg18bfg46fagb59ag52760ebcfc68" version="3">Olov, Cleric of Gruumsh, God of Conquest</content>
+  <content contentuid="hae826047g245dg4af9g9f9dg91ac04211c19" version="3">Paladin of Gruumsh</content>
+  <content contentuid="h1a11b111g8825g46fdgb8a1ga25d69a8f01f" version="3">Sim, A servant of Gruumsh One-Eye, God of Conquest and patron of orcs.</content>
+  <content contentuid="h18822cb0gea17g437dgbfedg0be88122dd3e" version="4">Aasimar</content>
+  <content contentuid="hd295d0e6gc79cg4ea2g9cf1gf2b7d131fe18" version="4">Half-Orc</content>
+  <content contentuid="he73b4110g1664g4c95ga88bg6c29cf0e5b8b" version="3">Although they descend from cultures of strength and martial prowess, most half-orcs are born in times of peace. Whenever orcish wars end, alliances and marriages lead to a new generation of shared blood.</content>
+  <content contentuid="h075ac6afg84b9g4ae1gbdf5g825844c86995" version="4">Aarakocra</content>
+  <content contentuid="h1a74683bg31b2g4a91g8fb0gbf2df7345d24" version="3">Shadow</content>
+  <content contentuid="he5ee279egfe28g4c28g9e8cg4f37161f8b82" version="3">DAISY FEMALE VOICE</content>
+  <content contentuid="hc78b3b00gf89eg486bgb260gec3d62bab743" version="4">ACT1_GOB_SPIDERNEST_GUARDS</content>
+  <content contentuid="hded51b78g08b5g448cg8819g6190661d9ae4" version="3">The famed Blade of Frontiers, the pride of Baldur's Gate.</content>
+  <content contentuid="hb87dd233g344fg4a9cgaba5gd322aa79afc6" version="4">Zhentarim</content>
+  <content contentuid="h0c7477fag816ag4e34g856eg71554a51fcef" version="3">The famed Blade of Frontiers, the pride of Baldur's Gate.</content>
+  <content contentuid="h1cd36de9gec28g40d8gbf23g7658da9fed2a" version="3">SPORE SERVANT</content>
+  <content contentuid="h0db12988ge4f1g4619g9c85ga8bd356db395" version="4">Astarion</content>
+  <content contentuid="hef165f1agd6bbg4b6fg859eg7b454c5a3702" version="4">A charmer and a rake with the most dangerous smile in Baldur's Gate.</content>
+  <content contentuid="hf1650a70g77e5g415fgae97ga23e4842c3f2" version="4">Karlach</content>
+  <content contentuid="hfad14a96gbba2g491bga489g30ffd797bf05" version="4">Karlach, Horned Champion of Hell</content>
+  <content contentuid="h6c89cff1g1489g4036gae74g691754f3aaa8" version="3">Faithwarden</content>
+  <content contentuid="hc4503150g8e14g4f6agb2b7gbfd67c45c5d8" version="3">For exposing Kagha's corruption, you have been honoured by the druids as a defender of nature and balance.</content>
+  <content contentuid="h99aae5d6ge5a6g4d44ga2ecg09bd7b5b65be" version="3">ACT1_GOB_PENITENT</content>
+  <content contentuid="h67097819g8d20g45c9g8252g1e42e096176d" version="3">Daisy Male Voice</content>
+  <content contentuid="hb2c4e2dbgf760g434dgb4a5g8f6d52d8b0cb" version="4">Wyll</content>
+  <content contentuid="hd7b77e53g3968g4a4dg8018g10591859dc9b" version="4">Shadowheart</content>
+  <content contentuid="hbdbe210egdcc7g470agb9b7g66b9a108d8e1" version="4">Shar's loyal pupil, desperate to fulfil her holy mission.</content>
+  <content contentuid="h5cbf2a31ge73eg4dd0ga90fge7c7e20dea23" version="4">Wyll</content>
+  <content contentuid="h59321730g8083g4ab5g81c4gc101aa7db7dc" version="3">The famed Blade of Frontiers, the pride of Baldur's Gate.</content>
+  <content contentuid="h02f1b180ga138g42a3gb456g02f59209a7f5" version="3">Willem Cardamom</content>
+  <content contentuid="h8552c497g53d0g4aeagb0c7g6542917fc97a" version="3">MINDMELD</content>
+  <content contentuid="h94652f64gf4a2g9e37gbf07g7873fc693548" version="2">LAN</content>
+  <content contentuid="h9f393c69ge6eag47abg9aadgc2eb37e34557" version="4">Character who scrying eye has no interest in</content>
+  <content contentuid="hefe94d66gf942g40e3gaefbg80c306de8244" version="3">Digging Tool</content>
+  <content contentuid="ha0e656fcgf385g4ae4g845agb38b3ab736ce" version="4">Forbidden Knowledge</content>
+  <content contentuid="h0c8d8bb1gded0g4d66gbb7bgbeb0152c14f4" version="3">ACT1_HAG_ILLUSIONCRATE</content>
+  <content contentuid="h2e1bde37g5bb6g403cgaaf5ga0eb004be355" version="3">ACT1_HAG_ILLUSIONCRATE tooltip</content>
+  <content contentuid="h34ef5a1eg19f3g405fgb9ddg76e998609d47" version="3">DEAD_SPEAKER</content>
+  <content contentuid="h99f52818gf61cg4747ga16age70b9d87fe29" version="4">Branded</content>
+  <content contentuid="h352f5f74g0c11g4a7fgb02cgdecc84f7a1fa" version="3">A brand of the Absolute marks this person's arm, displaying loyalty to the rest of the cult.</content>
+  <content contentuid="h05e15fb5g4c07g4573gad06ga31c7b1ea361" version="4">Baldurian</content>
+  <content contentuid="h2ff28c97gea33g421agb75fg7552949af38c" version="3">Those raised in Baldur's Gate know the city well, for better or worse.</content>
+  <content contentuid="h91f3a1f6g71a6g438dg9927g478f70b00aec" version="4">Shadowheart</content>
+  <content contentuid="hba2fd4baga44cg4a5eg9530gaab73daf616b" version="4">Shar's loyal pupil, desperate to fulfil her holy mission.</content>
+  <content contentuid="he2bac9e7gef7dg7bf9ga075g0d4d22349e9d" version="2">ACT1_DEN_GREETING</content>
+  <content contentuid="h6df73ce1g6772g5221ga8eag7bc2ba4cbfa7" version="2">ACT1_DEN_GREETING</content>
+  <content contentuid="h3de62923gbda0g42a1g8e55g7f98ceb3b95f" version="3">Camp Supplies</content>
+  <content contentuid="h31606a02gee6cg4170g9803g3488f6f8c3ba" version="6">Mind Shield</content>
+  <content contentuid="ha1bbacbag017eg50efg2485gb6a6112955ae" version="2">LAN</content>
+  <content contentuid="h87d83afagee03g4a21gadfeg10205411e5c5" version="4">FOR_GOBLINTRIBE</content>
+  <content contentuid="h3cf46063g40afg430dgbb5bga9e76e6db40c" version="3">LAN</content>
+  <content contentuid="hbe60cd1dg3ae4g4a9agb8fcg8243b4d58612" version="4">Hag-Eyed</content>
+  <content contentuid="he4a13c4bg1735g4cf5g8cd3g0ed31f5a1d2f" version="3">Dealing with hags always comes with a cost. In this case, an eye.</content>
+  <content contentuid="ha26ebb4eg4bfdg2815gc735gd5ae469cdd46" version="2">PSIONICS</content>
+  <content contentuid="he0e83a56ge0e2g99afge999g7744dd25d5a4" version="2">PSIONICS</content>
+  <content contentuid="h59d20b67g2f2ag401cg92e7g8d38385f57c5" version="4">Lae'zel</content>
+  <content contentuid="h0d178affga12eg488cga158g8582c1e427df" version="4">No warrior is more ferocious, no githyanki more loyal to Vlaakith.</content>
+  <content contentuid="ha40bd8a1g4a55g4520g82bag9e216fdbca22" version="3">Karlach Can Interact With This</content>
+  <content contentuid="h5527867eg3519g4719g96d9gf3a6de1cbfc8" version="3">Karlach Can Interact With This</content>
+  <content contentuid="h5c4df9e4g3026g4ce6g9702ge916b89e37ea" version="3">Follower</content>
+  <content contentuid="ha273540eg82a7g4357g82a7gf85333bbcf44" version="3">ACT1_DEN_IDOLTHEFT</content>
+  <content contentuid="h9803d8a6gab20g47e3g868cga763e58373e7" version="3">ACT1_MOO_DROW_GUARD</content>
+  <content contentuid="h63fdc7b1g8220g48c4g8b23g5d4bc67dea08" version="3">The famed Blade of Frontiers, the pride of Baldur's Gate.</content>
+  <content contentuid="h44e9410fg5c59g47a0g9444g33bf300df9db" version="4">True Soul</content>
+  <content contentuid="h5f72f522g4892g4b1ag9794ga62263e8fd9f" version="3">A high-ranked servant of the Absolute, empowered by the god's will. </content>
+  <content contentuid="hacbc3c9agfb0bg4a4fgad75g6a0e56941969" version="3">Chosen of Bhaal</content>
+  <content contentuid="he9b529a2g165ag4fbcg8e5fga2458f1b2f26" version="4">Lae'zel</content>
+  <content contentuid="h56890214g7463g4757g8b5egb4bdb286196b" version="4">No warrior is more ferocious, no githyanki more loyal to Vlaakith.</content>
+  <content contentuid="h560a5437g0055g4f7agb07egbb6e7489fca4" version="3">ACT1_GOB_Festivities</content>
+  <content contentuid="h50ed9c6agd191g4a13gb9a8g97acfa92d9ba" version="4">Astarion</content>
+  <content contentuid="h4ad320acg3a1fg4085g8d3bg45f5222523f4" version="4">A charmer and a rake with the most dangerous smile in Baldur's Gate.</content>
+  <content contentuid="hc7a8fa93g116eg47ebgb3fegd3d066b96b1a" version="3">LAN</content>
+  <content contentuid="h4895d078g57bfg471fg95dagccf4571a46e1" version="3">LAN</content>
+  <content contentuid="h4394cd59g1ef2g43edg802age77ed462021d" version="3">Use the Cage Lever</content>
+  <content contentuid="h655422f9g73d1g474bg9748g43367585db96" version="3">ACT1_GOB_WARPAINT</content>
+  <content contentuid="h84b4dd7dg9bb4g45a7g840fgffbabff0579f" version="3">WARPAINTED</content>
+  <content contentuid="h54feb256g4b9fg4bc7g8204gfa83d8f5d264" version="3">ARCHDRUID_KAGHA</content>
+  <content contentuid="h716111d1g028bg43dcg82abg0a6cc8c78f54" version="6">Us</content>
+  <content contentuid="h7981f4begf758g40d9ga102ged13cce0b002" version="4">Us</content>
+  <content contentuid="h39e1ffe6g511dgbc95gdcfcg9e72616c0c08" version="2">ACT1_FOR_GLADEGUARD</content>
+  <content contentuid="hcc9b7072gd5bbg3086g5f0bg1f74854a359d" version="2">ACT1_FOR_GLADEGUARD tooltip</content>
+  <content contentuid="h607020b5g4886g40f0g9c8ag2e695fb74e54" version="3">Creature has assumed the shape of a beast.</content>
+  <content contentuid="h378dc9f9g104bg4037g86a4gea2598ae68d0" version="4">One-Eyed</content>
+  <content contentuid="h9dbd7ddag5ff7g43c4ga987g23dc283323df" version="3">Missing an eye.</content>
+  <content contentuid="h818d8e87gf7b3g4ba6g94e3gf0550eaa67a7" version="3">Karlach</content>
+  <content contentuid="ha5c9ac63g96e2g413eg959cg1a0bf2667c15" version="3">The famed Blade of Frontiers, the pride of Baldur's Gate.</content>
+  <content contentuid="hc1f59bc9ge1abg475egac24gd48a24067828" version="3">Gale</content>
+  <content contentuid="h38fbd4f5g43aeg48e7g87b1ga0978a46007a" version="4">The enigmatic wizard of Waterdeep and devotee of Mystra.</content>
+  <content contentuid="hf21ab23cgf9f5g4aaeg9599ga5c700b03f3f" version="4">Gale</content>
+  <content contentuid="h122f7be8gaa11g454agaa92g4f5aa11aaed1" version="4">The enigmatic wizard of Waterdeep and devotee of Mystra.</content>
+  <content contentuid="h3184dbcbg23b3g47aega9cbg6c64cc90e3d2" version="3">Us</content>
+  <content contentuid="hab34e0fegc6a2gb517ged72g98d37398258d" version="2">COMBAT_GOBLINKING</content>
+  <content contentuid="h7610922dg33ffg487dgb648ge1784e7e840c" version="3">%%% No destub</content>
+  <content contentuid="h28f942fag5ccag4d40g9e84g1dab2db4f7a2" version="3">Minotaurs</content>
+  <content contentuid="h2ee913f1g3d1eg4a1cgb289gc5aaba6d92e5" version="4">LOW_IronThrone_PrisonersSwarmEscapeTarget_Hatch</content>
+  <content contentuid="h8729506fge9aag480ag8325g0bf308e7516f" version="3">Tag to define things in the Ghost Dog's mausoleum that they will protect</content>
+  <content contentuid="h5af31927g2550g4ff3gba02g93f3cdaf4639" version="3">Tag is given on Ravengard if Mizora's summons are attacking him in the Iron Throne</content>
+  <content contentuid="h1e57f1c4gc1aag4115gb0c7g07e0e59798ce" version="3">Scratch can fetch</content>
+  <content contentuid="h89d2babegf22eg4abeg8f96ga34fdf698d08" version="3">%%% Viconia: Target's Fear = Betrayal</content>
+  <content contentuid="h8472ffb6g4339g40a4g8de0g949977ce0127" version="3">Target for Mizora's spiders if they can't reach Ravengard because he climbed the ladder</content>
+  <content contentuid="h19dcf3eagced3g46e8gb2ceg43b7fc07e429" version="3">Targets that should be ignored by the Kuo-Toa net</content>
+  <content contentuid="h6157ccfbg3335g4238ga91agc34b66b986dc" version="3">Dark Urge</content>
+  <content contentuid="h3fd369d5g3ecag4438g8880g1a01b9436f90" version="3">Iron Throne Prisoner</content>
+  <content contentuid="h3f8e393bg257cg48b2ga65fg90bd2110255e" version="3">Meazel</content>
+  <content contentuid="hca4d0a43g7035g46f0g8519g6219e4bc6dc4" version="3">Minthara</content>
+  <content contentuid="h8c830190g0caag4aefgb001g7474960a2b56" version="3">Dark Justiciar</content>
+  <content contentuid="hcd9f25bbg5297g477dga91bg0f264a44bbf4" version="3">You are a Dark Justiciar of Shar</content>
+  <content contentuid="ha38caa6egb87dg476eg8356gc550ad38532e" version="4">Chosen of Shar</content>
+  <content contentuid="hb949090dgada2g4784g970cg6b357ed88c53" version="3">Viconia: Craven Heart</content>
+  <content contentuid="ha198635dgc586g4b8dgbec4g40386a2a79b2" version="3">Raphaelian Cambion</content>
+  <content contentuid="hc48dfb95g0b74g4037g8b64g761eb4343ade" version="3">%%% Viconia: Target's Fear = Turning into a Mindflayer</content>
+  <content contentuid="h26477884g9315g452bg8692g499a4edada52" version="3">Viconia: Polymorph-able Ally</content>
+  <content contentuid="h964b3cd6g69beg4130ga14bg119b157cb8fe" version="3">The famed Blade of Frontiers, the pride of Baldur's Gate.</content>
+  <content contentuid="h3eb40510g6eefg4f5dg8dbagd84b026a9b6d" version="3">Ghost</content>
+  <content contentuid="h849c53f1g431cg4c00gb845g2a3da2fe6996" version="3">Jannath's Butler</content>
+  <content contentuid="h44697e65g55afg487cgb261g59b8cd7d30ea" version="3">Soul Amulet</content>
+  <content contentuid="h077acfc2g3410g40a7g89adg05cd34a275cf" version="3">Wyll's Fiendish Form</content>
+  <content contentuid="h69cfc726gb978g4fcdg9061g7ca3d65cf527" version="3">Character who took Viconia's test</content>
+  <content contentuid="h9adea515g636cg411bgb2d2gcad8bc501bf7" version="3">Immune to the Shadow Curse</content>
+  <content contentuid="h182f0b59g7706g492ega09age6be2f5aa982" version="3">Halsin</content>
+  <content contentuid="had332581gb11fg4419g9e59gdfcd2962cd6b" version="3">Companion has some tadpoles slotted in.</content>
+  <content contentuid="h68e27faag7eeag4b8agac56ge9d9fedc0b36" version="3">Set on players who are considered dead at the end of the Iron Throne</content>
+  <content contentuid="he81d108bg77edg4d8bg9793g22ab661269a5" version="3">Viconia: Violent Heart</content>
+  <content contentuid="h8a27abcbg5e8ag4e6fgb4ddgab86bfbff649" version="3">Soul Pillar</content>
+  <content contentuid="h0128ccfdg3bc9g495fgb028gc54fa473b2bf" version="3">Priority Target for Kuo-Toa</content>
+  <content contentuid="he2fc7590g9a2bg4e82gb73egb489207f4803" version="3">Acid Pit Enemies</content>
+  <content contentuid="h51b8b816g05b7g4999gbc14g54b09e286a33" version="3">Alfira</content>
+  <content contentuid="ha3d20593gfaffg49e3g8a52gf8b2bc138d9f" version="3">Viconia: Melancholy Heart</content>
+  <content contentuid="hbaeffdccg1624g450fgbe6bgbcf66b552dd2" version="3">LOW_IronThrone_PrisonersSwarmEscapeTarget_OuterDoor</content>
+  <content contentuid="hafa5344ag4f47g4581gb808g5fe1e42ec521" version="4">Act3_Voss</content>
+  <content contentuid="he2c5f040g690eg4b9cgb91eg4eaf7c873cd4" version="3">Drider</content>
+  <content contentuid="ha81ceeb3g1171g4a9fg98a1g2c8fc6ab85a6" version="3">Minsc</content>
+  <content contentuid="h660ebd09g9494g4a8fg9444gd0146f38a45b" version="3">Jaheira</content>
+  <content contentuid="h68408481g7a16g42e1ga400gbd6f18de3d03" version="3">Jaheira's storied history of adventure would simply take too long to relate. Let this suffice: she takes no nonsense, but she does take heads.</content>
+  <content contentuid="h29eedfe3geeeeg473agae82g59c5bd55f588" version="3">Alfira</content>
+  <content contentuid="h92f155d7gb6c2g4fd3g87bdg072b16cb2e8b" version="3">Prevents the same AD from being selected in two VBs.</content>
+  <content contentuid="h4e34b981gb1bfg4dacga9c2gf5251384ea70" version="3">ALLOW_PICKPOCKET_FOR_SUBRACE</content>
+  <content contentuid="h74d63236g883ag4ae4gbde5g030df3d998cf" version="3">Lae'zel is on the Orpheus path.</content>
+  <content contentuid="h2bbadc8cgefd8g41cfg9417ga1fadf59bf15" version="3">Gortash</content>
+  <content contentuid="h0db1a9e7g4918g42c8gb327gf0e9faefb10b" version="3">%%% Viconia: Target's Fear = Darkness</content>
+  <content contentuid="h77694bddg76afg436bg9ec4g479e225e0390" version="3">%%% Viconia: Target's Fear = Spiders</content>
+  <content contentuid="he843393fgb5f0g4ccag84c7gc422216df7d3" version="3">Viconia: False Heart</content>
+  <content contentuid="h9a2fa994g2c3eg4111g97dcg9a8cea4ab6bd" version="3">%%% Viconia: Target's Fear = Becoming Powerless</content>
+  <content contentuid="h13729bf1gbaa7g41d3g9957ga4d3d2775c86" version="3">Viconia: Shadowheart is present</content>
+  <content contentuid="h954bd30cg5a72g448ega4e5g490e357a47a9" version="3">Viconia: Jealous Heart</content>
+  <content contentuid="h2fe1a8e4geec5g49afg8d93g05fb2b0d166d" version="3">Minthara</content>
+  <content contentuid="h7cfeb0a2gdc8eg4808g96b5gcac161e8919f" version="3">Minsc</content>
+  <content contentuid="h96324b76g1cc5g4bfcg894agc747ffcea431" version="3">Viconia: Prying Heart</content>
+  <content contentuid="h44297b3fg1569g406ag83f6g092521602fe0" version="3">Jaheira</content>
+  <content contentuid="hdb312633ga02bg4076g82e7g30949cef92bb" version="3">Jaheira's storied history of adventure would simply take too long to relate. Let this suffice: she takes no nonsense, but she does take heads.</content>
+  <content contentuid="h3660be4ag5385g4bf3g9d0bg1d304d634389" version="3">Full-Illithid</content>
+  <content contentuid="h1bfc1d45g2ac0g4d91ga753ga63b07f64383" version="3">Companion Does not want to use Tadpole Powers</content>
+  <content contentuid="he1923f58g7436g4389gaccagd0451014a925" version="3">Partial-Illithid</content>
+  <content contentuid="h1384106bg7684g419cgbca8g609f5abbf43d" version="3">Raphael Identifier</content>
+  <content contentuid="hdcca0371g5448g48e4g82f5g1c3feb709b71" version="3">LOW_IronThrone_PrisonersSwarmEscapeTarget_InnerDoor</content>
+  <content contentuid="h49300025g5333g4e2egad5fg667f1cbbd139" version="3">%%% Viconia: Target's Fear = Disease</content>
+  <content contentuid="h59103353g5735g4396g8a2ag3fee6469f7cd" version="3">Rolan Target</content>
+  <content contentuid="hfa30a84bg6a49g42e9ga5a4g85cd7ddf9a46" version="3">Halsin</content>
+  <content contentuid="h79a94facg6c5dg4ef5g866bg4201ef11b2b5" version="4">Enemy of Shar</content>
+  <content contentuid="h319ada5cgb586g451egaa5dgd5577f42e31f" version="3">Dark Urge</content>
+  <content contentuid="hbb6503bega54dg4af4ga229gc6335bef73db" version="3">The Hexblade</content>
+  <content contentuid="h2507cb22g1c7eg4717ga9acg46d85a702e33" version="3">You have made your pact with a mysterious entity from the Shadowfell - a force that manifests in sentient magic weapons carved from the stuff of shadow.</content>
+  <content contentuid="hfa2cfe3agcb32g4592gb578gdc52ac51f877" version="3">Oath of the Crown</content>
+  <content contentuid="hc0034776g6590g41b0ga645g4df377cd858a" version="3">You have sworn to serve the laws that hold society together and preserve the order they command.</content>
+  <content contentuid="h64754a88g9ad8g4521g921egcd3182095e79" version="3">Oathbreaker of the Crown</content>
+  <content contentuid="h9614c617gb5feg4f67g82e1g3e3c64f06c02" version="3">Your previous oath was of the Crown.</content>
+  <content contentuid="h07db177dgbcadg4c77g89ddg6fc0115e569a" version="3">|School of Bladesinging|</content>
+  <content contentuid="h396ebfd0gbe98gff15g3fffg45d02ca30b53" version="1">Murderous Intent</content>
 </contentList>

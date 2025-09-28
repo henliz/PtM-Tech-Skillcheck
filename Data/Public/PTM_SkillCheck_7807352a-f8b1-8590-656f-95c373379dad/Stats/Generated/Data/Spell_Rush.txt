@@ -1,0 +1,6 @@
+new entry "Rush_SC_FreniziedCharge"
+type "SpellData"
+data "SpellType" "Rush"
+using "Rush_Rush_DeepRothe_NPC"
+data "SpellSuccess" "IF(not HasPassive('PrimalStrike',context.Source)):DealDamage(1d4+LevelMapValue(WildShapeDamageMedium)+UnarmedMeleeAbilityModifier,Piercing);IF(HasPassive('PrimalStrike',context.Source)):DealDamage(1d4+LevelMapValue(WildShapeDamageMedium)+UnarmedMeleeAbilityModifier,Piercing,Magical);TARGET:IF(not SavingThrow(Ability.Strength,SourceSpellDC())):ApplyStatus(PRONE,100,2);"
+

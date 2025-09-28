@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="bbe0e72e-fa2a-41d2-be9a-c604af561421">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="2efbfde2-be22-4bfb-98e4-bf9e33cec841" />
+        <field name="Name" type="NameTableFieldDefinition" value="SC_FreniziedCharge" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="376601a7-1dc1-4a1b-8073-56df86ec3480" />
+        <field name="SpellSuccess" type="StringTableFieldDefinition" value="IF(not HasPassive('PrimalStrike',context.Source)):DealDamage(1d4+LevelMapValue(WildShapeDamageMedium)+UnarmedMeleeAbilityModifier,Piercing);IF(HasPassive('PrimalStrike',context.Source)):DealDamage(1d4+LevelMapValue(WildShapeDamageMedium)+UnarmedMeleeAbilityModifier,Piercing,Magical);TARGET:IF(not SavingThrow(Ability.Strength,SourceSpellDC())):ApplyStatus(PRONE,100,2);" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

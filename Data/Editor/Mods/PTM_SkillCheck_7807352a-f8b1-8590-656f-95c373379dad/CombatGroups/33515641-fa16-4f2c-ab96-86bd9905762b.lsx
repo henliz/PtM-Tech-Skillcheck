@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="500"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="CombatStart" type="LSString" value=""/>
+            <attribute id="CustomScripting" type="LSString" value=""/>
+            <attribute id="Description" type="LSString" value=""/>
+            <attribute id="Events" type="LSString" value=""/>
+            <attribute id="ExpectedToFight" type="bool" value="true"/>
+            <attribute id="LevelName" type="LSString" value=""/>
+            <attribute id="Name" type="LSString" value="Stable_Combat"/>
+            <attribute id="Notes" type="LSString" value=""/>
+            <attribute id="Scripter" type="LSString" value=""/>
+            <attribute id="Situation" type="LSString" value=""/>
+            <attribute id="UUID" type="LSString" value="33515641-fa16-4f2c-ab96-86bd9905762b"/>
+        </node>
+    </region>
+</save>
