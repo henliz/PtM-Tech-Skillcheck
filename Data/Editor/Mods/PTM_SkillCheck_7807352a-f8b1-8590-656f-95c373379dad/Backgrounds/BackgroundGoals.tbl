@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="edc5612f-db90-4480-9d97-72f7d08bc87f">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_0" />
+        <field name="UUID" type="IdTableFieldDefinition" value="c98e09c9-b2f7-483f-b1c0-066f46c1a77d" />
+        <field name="Title" type="TranslatedStringTableFieldDefinition" handle="hb0050590g1a42g10ddg30adgf983cfad8f60" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hfb8f8920g6c40gd33egd231g335413f30b11" version="1" />
+        <field name="BackgroundUUID" type="GuidTableFieldDefinition" value="20d865ea-03bd-47bf-97d3-777e1b36b073" />
+        <field name="InspirationPoints" type="IntegerTableFieldDefinition" value="1" />
+        <field name="RewardLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="ExperienceReward" type="GuidObjectTableFieldDefinition" value="90f636c0-2d85-46d8-9760-30b57c664f4b" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_1" />
+        <field name="UUID" type="IdTableFieldDefinition" value="a11df124-60f5-4e74-bf18-0338f5ed942c" />
+        <field name="Title" type="TranslatedStringTableFieldDefinition" handle="hc109e6e8gef26gafd2gd7a2gcb9180cc56b0" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h9109f221gad48gaeccg1690gfe2b9f9a7b8c" version="1" />
+        <field name="BackgroundUUID" type="GuidTableFieldDefinition" value="e8c84134-5e91-4ecc-881a-efc47680129b" />
+        <field name="InspirationPoints" type="IntegerTableFieldDefinition" value="1" />
+        <field name="RewardLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="ExperienceReward" type="GuidObjectTableFieldDefinition" value="90f636c0-2d85-46d8-9760-30b57c664f4b" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

@@ -1,0 +1,45 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+// Add all inspiration events to DB_PTM_InspirationEvent_Goal.
+// DB_PTM_InspirationEvent_Goal((STRING)[unique name of inspiration event], [GUID of background goal]);
+
+//REGION Dev Test
+DB_PTM_InspirationEvent_Goal("SC_ThreatenThief", a11df124-60f5-4e74-bf18-0338f5ed942c);
+DB_PTM_InspirationEvent_Goal("SC_MurderStable", c98e09c9-b2f7-483f-b1c0-066f46c1a77e);
+//END_REGION
+KBSECTION
+// Use PROC_GLO_Backgrounds_CompleteGoal(_Character, _EventName) to trigger inspiration event!
+
+//REGION Event Completion
+PROC
+PROC_GLO_Backgrounds_RewardPlayer((CHARACTER)_Player, _GoalId)
+AND
+NOT DB_PTM_InspirationEvent_Completed(_Player, _GoalId)
+AND
+DB_PTM_InspirationEvent_Goal(_GoalId, _UuidID)
+THEN
+AddBackgroundGoal(_Player, _UuidID, "PTM");
+
+PROC
+PROC_GLO_Backgrounds_ShareGoalRewarding((CHARACTER)_TargetPlayer, (STRING)_GoalId)
+AND
+DB_Players(_OtherPlayer)
+AND
+_TargetPlayer != _OtherPlayer
+AND
+DB_PTM_InspirationEvent_Goal(_GoalId, _)
+THEN
+PROC_GLO_Backgrounds_RewardPlayer(_OtherPlayer, _GoalId);
+
+IF
+BackgroundGoalRewarded(_Player, _GoalId)
+AND
+DB_PTM_InspirationEvent_Goal(_GoalName, _GoalId)
+THEN
+DB_PTM_InspirationEvent_Completed(_Player, _GoalName);
+//END_REGION
+EXITSECTION
+
+ENDEXITSECTION
+ParentTargetEdge "SC"
