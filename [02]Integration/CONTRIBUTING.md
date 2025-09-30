@@ -28,15 +28,11 @@ ___
 
 - [Naming Conventions](#naming-conventions)
 	- [Files Names](#files-names)
-- [Tasks \& Ticketing](#tasks--ticketing)
 - [Branching](#branching)
 - [General Guidelines](#general-guidelines)
 	- [Game Files \& Assets](#game-files--assets)
 	- [Dialog Files](#dialog-files)
 	- [Script Files](#script-files)
-- [Creating Pull Requests](#creating-pull-requests)
-	- [*GitHub Desktop*](#github-desktop)
-- [FAQ/Help](#faqhelp)
 
 ## Naming Conventions
 

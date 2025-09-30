@@ -16,6 +16,6 @@ You are given multiple documents to help you with the review.
 
 You need to make sure that everything that could have gone wrong during implementation did not do so, be that a naming mistake, quest continuity error, a bug, a missing feature, ...
 
-This might feel overwhelming but don't worry, we are aware that you most of our new contributors might have no prior experience with the toolkit. You do not need to find everything, but we ask of you to do your best. After you complete this task, you will have a far better overview over all the things that could go wrong during a feature implementation.  
+This might feel overwhelming but don't worry, we are aware that most of our new contributors might have no prior experience with the toolkit. You do not need to find everything, but we ask of you to do your best. After you complete this task, you will have a far better overview over all the things that could go wrong during a feature implementation.  
 
 **Important**: During this part of your task, you are allowed to ask any question you can think of to your fellow contributors, as long as it isn't "What issues are there in the branch?". We still encourage trying to come up with solutions yourself and to search the moonglasses discord first but not understanding a Toolkit feature shall not be a reason for you to fail this task.
