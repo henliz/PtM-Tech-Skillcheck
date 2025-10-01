@@ -64,26 +64,13 @@ Any [Git version control software](https://git-scm.com/downloads/guis) such as:
 
 
 ### Cloning and Setting up the repository
-Clone this repo anywhere onto your PC (we recommend placing it in your Documents folder, or any other location that you store Git repos). It will be saved as 'PtM-Tech-Skillcheck'.
+Clone this repo anywhere onto your PC (we recommend placing it in your Documents folder, or any other location that you store Git repos) using your version control software. It will be saved as 'PtM-Tech-Skillcheck'.
 
-#### Option 1 (Basic)
 > This is a manual setup and requires you to manually copy the files from the git folder into the game data folder. Once you've done your changes and need to push the code back into git, you'll need to manually copy the files back from the game data folder into the git folder for it to see the changes.
 1. Ensure that hidden files and folders are displayed in your machine, follow this [**guide here**](https://support.microsoft.com/en-us/windows/view-hidden-files-and-folders-in-windows-97fbc472-c603-9d90-91d0-1166d1d9f4b5).
 2. Now we must open up aforementioned folder called **'Ptm-Tech-Skillcheck'** and move all of its contents to the root directory of your Baldur's Gate 3. You can follow [**this guide**](https://steamcommunity.com/sharedfiles/filedetails/?id=760447682).
-3. Now that we've got the repository downloaded to our local machine, and moved all of the required files to appropriate Baldur's Gate 3 installation location - once we launch up the [**Baldur's Gate 3 Toolkit**](https://mod.io/g/baldursgate3/r/installing-the-toolkit), we'll be able to [**select project**](https://mod.io/g/baldursgate3/r/editor-navigation) in the main editor page.
-
-#### Option 2 (Advanced)
-> The next step is to create [symbolic links](https://learn.microsoft.com/en-us/windows/win32/fileio/symbolic-links) (Symlinks) from the local cloned repo to the Baldur's Gate 3 '/Data' directory in the game installation folder. Creating symlinks allows you to store the PTM files in a separate location on your PC but still allow the BG3 toolkit to load it as if it were in the game's `/Data` folder. This is useful for keeping the PTM mod files separate from the game's default files, so you can easily use Git without needing to copy files and folders around.
-
-> **There is a known issue that the script does not work for everyone.**
-
-1. Navigate to the `Path_To_Menzoberranzan/tools` folder on your PC.
-2. Open the `PTM_Setup.bat` file.
-   - A Windows Defender SmartScreen popup may prevent it from running, click on "More Info" and select "Run Anyway".
-   - If you have any concerns, the source code for this script can be viewed on our repository.
-3. Follow the prompts in the script to complete project setup.
-4. Launch the BG3 Toolkit and verify that the **"PTM-SkillCheck"** project is found and double click to open it.
-   - This will take some time to load, do not be concerned if it hangs at 100%.
+3. Once this is done, go to your version control software and add an existing repo - the path should be BG3's directory.
+4. Now that we've got the repository downloaded to our local machine, and moved all of the required files to appropriate Baldur's Gate 3 installation location - once we launch up the [**Baldur's Gate 3 Toolkit**](https://mod.io/g/baldursgate3/r/installing-the-toolkit), we'll be able to [**select project**](https://mod.io/g/baldursgate3/r/editor-navigation) in the main editor page. 
 
 </div>
 
