@@ -87,6 +87,11 @@ Clone this repo anywhere onto your PC (we recommend placing it in your Documents
 
 </div>
 
+>[!NOTE]
+> If after your initial cloning of the repo, you see 100s or 1000s of changes, run this command: `git config --global core.autocrlf false`.
+> If you see an error like "git command not found" in the command prompt, then you need to [install git](https://git-scm.com/downloads/win).
+> After installing git, restart Github desktop and return to the command prompt.
+
 ___
 
 ## Gameplay Task
