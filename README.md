@@ -13,6 +13,8 @@ October 1, 2025 -->
   <p>Welcome to the Path to Menzoberranzan's technical skill check! Thank you for your interest in our project. Before getting into it, you'll have to set up your working environement. First, you'll have to complete the Gameplay task (no matter which track you applied to!), and then if you applied to it, the Integration or the Systems task. Good luck!</p>
 </div>
 
+<p><strong>Director's note:</strong> Hi all, I’m Hen, Technical Director for Path to Menzoberranzan. While this repository is public on my github acc for ease of access, please don’t jump in and complete the tasks unless you’ve officially joined the process. You should only attempt this skill check if you’ve already <a href="discord.gg/ptm" target="_blank">joined our Discord server</a>, filled out the application form, and been invited to begin. This ensures fairness to applicants and helps us keep track of everyone progressing through the pipeline. Thank you ❤︎</p>
+
 ___
 
 <h2>Table of Contents</h2>
