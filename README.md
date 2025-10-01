@@ -66,7 +66,7 @@ Any [Git version control software](https://git-scm.com/downloads/guis) such as:
 ### Cloning and Setting up the repository
 Clone this repo anywhere onto your PC (we recommend placing it in your Documents folder, or any other location that you store Git repos) using your version control software. It will be saved as 'PtM-Tech-Skillcheck'.
 
-> This is a manual setup and requires you to manually copy the files from the git folder into the game data folder. Once you've done your changes and need to push the code back into git, you'll need to manually copy the files back from the game data folder into the git folder for it to see the changes.
+> This is a manual setup and requires you to manually copy the files from the git folder into the game data folder.
 1. Ensure that hidden files and folders are displayed in your machine, follow this [**guide here**](https://support.microsoft.com/en-us/windows/view-hidden-files-and-folders-in-windows-97fbc472-c603-9d90-91d0-1166d1d9f4b5).
 2. Now we must open up aforementioned folder called **'Ptm-Tech-Skillcheck'** and move all of its contents to the root directory of your Baldur's Gate 3. You can follow [**this guide**](https://steamcommunity.com/sharedfiles/filedetails/?id=760447682).
 3. Once this is done, go to your version control software and add an existing repo - the path should be BG3's directory.
