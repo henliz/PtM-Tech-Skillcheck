@@ -104,7 +104,7 @@ To pass the skill check, you'll need:
 >
 > Don't forget to disable the "Add impossible flag to dialogue" in the preferences, to prevent any dialogue errors.
 
-Once you're done, reach out to henliz or Kaylinh. If you applied to Integration or Systems, you may proceed and complete the tasks in the corresponding folders.
+You will have 2 weeks to complete this task upon your application being accepted. Once you're done, reach out to henliz or Kaylinh. If you applied to Integration or Systems, you may proceed upon approval of the Gameplay task, and have 2 weeks to complete your next task in the corresponding folder.
 
 ## BG3 Toolkit Resources
 Some useful YouTube tutorials to get started:
