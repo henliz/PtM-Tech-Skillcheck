@@ -58,9 +58,7 @@ The toolkit must be unlocked to use all the features - this is what Moonglasses 
 Once set up, if you open the toolkit, you should see (MoonGlasses v1.x.x.x) in the title bar. If it's there, that means the toolkit was successfully unlocked.
 
 ### Getting a Git version control software
-Any [Git version control software](https://git-scm.com/downloads/guis) such as:
-- [GitHub Desktop](https://desktop.github.com/download/)
-- [Sourcetree](https://www.sourcetreeapp.com/)
+Any [Git version control software](https://git-scm.com/downloads/guis) such as [GitHub Desktop](https://desktop.github.com/download/).
 
 
 ### Cloning and Setting up the repository
