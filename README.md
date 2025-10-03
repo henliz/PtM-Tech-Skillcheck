@@ -10,7 +10,7 @@ October 1, 2025 -->
 
 <!-- placeholder intro speech -->
 <div align="justify">
-  <p>Welcome to the Path to Menzoberranzan's technical skill check! Thank you for your interest in our project. Before getting into it, you'll have to set up your working environement. First, you'll have to complete the Gameplay task (no matter which track you applied to!), and then if you applied to it, the Integration or the Systems task. Good luck!</p>
+  <p>Welcome to the Path to Menzoberranzan's technical skillcheck! Thank you for your interest in our project. Before getting into it, you'll have to set up your working environment. First, you'll have to complete the Gameplay task (no matter which track you applied to!), and then if you applied to it, the Integration or the Systems task. Good luck!</p>
 
 
 <p><strong>Director's note:</strong> Hi all, I’m Hen, Technical Director for Path to Menzoberranzan. While this repository is public on my github acc for ease of access, please don’t jump in and complete the tasks unless you’ve officially joined the process. You should only attempt this skill check if you’ve already <a href="https://discord.gg/ptm" target="_blank" rel="noopener noreferrer">joined our Discord server</a>, filled out the application form, and been invited to begin. This ensures fairness to applicants and helps us keep track of everyone progressing through the pipeline. Thank you ❤︎</p>
@@ -33,7 +33,7 @@ ___
 <div align="justify">
   
 ## Getting Started
-Before getting to the skill check, you will need to have Baldur's Gate 3, the BG3 Toolkit with Moonglasses enabled, and any Git version control software of your choosing installed, then clone this repo onto your PC.
+Before getting to the skillcheck, you will need to have Baldur's Gate 3, the BG3 Toolkit with Moonglasses enabled, and any Git version control software of your choosing installed, then clone this repo onto your PC.
 
 ### Installing the Toolkit
 Install the Toolkit, which is in the Steam store under "Baldur’s Gate 3 Toolkit", in the Tools section. If you don’t see it in your library, you might need to update your sidebar filter settings. Make sure you have Tools selected.
@@ -102,9 +102,13 @@ To pass the skill check, you'll need:
 >[!TIP]
 > For naming conventions, you can check out the CONTRIBUTING.md in [02]Integration. Also please check out the Toolkit Resources just below, it'll help you complete the skill check.
 >
-> Don't forget to disable the "Add impossible flag to dialogue" in the preferences, to prevent any dialogue errors.
+> Don't forget to disable the "Add impossible flag to dialogue" in the preferences, to prevent any dialog errors.
 
+<div align="justify">
+	
 You will have 2 weeks to complete this task upon your application being accepted. Once you're done, reach out to henliz or Kaylinh. If you applied to Integration or Systems, you may proceed upon approval of the Gameplay task, and have 2 weeks to complete your next task in the corresponding folder.
+
+</div>
 
 ## BG3 Toolkit Resources
 Some useful YouTube tutorials to get started:
