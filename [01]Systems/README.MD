@@ -17,21 +17,35 @@ NPCs will be provided for candidates to use in their script implementation. All 
 > [!TIP]
 > Pseudocode of the Scripts
 
-//Recruitment
+`//Recruitment`
+
 `IF`
+
 `TextEvent()`
+
 `CheckForPlayerCharacter()`
+
 `CheckForNPCIsNotPlayer()`
+
  `THEN`
+
 `PlaceNPCOnMap();`
+
 `MoveNPCToPlayer();`
+
 `AddNPCToParty();`
 
+
 `//Dismissal`
+
 `IF`
+
 `TextEvent()`
+
 `CheckForPlayerCharacter()`
+
 `THEN`
+
 `DismissFromParty();`
 
 Once completed, submit a video recording of the scripts working through the Toolkit Console Window, adding and removing the NPCs from the Player’s Party. Also make a Pull Request describing the feature, key file changes, present issues, etc.
