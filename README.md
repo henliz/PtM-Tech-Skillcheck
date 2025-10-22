@@ -88,7 +88,7 @@ Congratulations, you're done setting up! You can now get started on the skill ch
 > [!WARNING]
 > Patch 8 has made scripting a bit unstable. When rebuilding story scripts, the toolkit may crash when entering game mode. This can be avoided by using the File -> "Reload Level" option before entering into game mode.  You can build and reload story scripts via the Story Editor's file menu. "Build and Reload" is generally safe but will crash sometimes. "Generating Definitions, Build and Reload" seems to require a "Reload Level" after. The toolkit's File -> "Reload Level and Story" results in a crash entering game mode consistently. Sometimes this option is helpful to make sure everything level and story is reset, but follow it up with another "Reload Level".
 
-Once you load the "PTM-SkillCheck" Level, you should find a tavern. Create the following setup:
+Once you load the "GAMEPLAY_Tavern" Level, you should find a tavern. Create the following setup:
 
 > You want to get in the tavern. A guard is standing in front of you. The door is locked, you'll have to convince the guard to let you in... one way or another. There might also be a more discreet way to go in.
 
