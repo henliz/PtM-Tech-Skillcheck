@@ -1,0 +1,10 @@
+game.configs.ConfigTest251019 = Config{
+    root=StateRef{game.roots.DefaultCharacter,
+        genericBehaviours = StateRef{game.states.WYR_South_Guard_000},
+        statusOverrides = StateRef{game.states.WYR_South_Guard_000},
+        combat = StateRef{game.states.WYR_South_Guard_000},
+        combatCowerState = StateRef{game.states.WYR_South_Guard_000},
+        partyMember = StateRef{game.states.WYR_South_Guard_000},
+        idle = StateRef{game.states.WYR_South_Guard_000},
+    }
+}

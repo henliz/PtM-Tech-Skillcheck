@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="a8098c1a-f86e-11da-bd1a-00112444be1e">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="9329462a-2d8c-481a-8081-7bba78cc488d" />
+        <field name="Name" type="NameTableFieldDefinition" value="Tavern_Guard" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="3de4a580-cf85-44b2-a9b7-235206506469" />
+        <field name="Level" type="IntegerTableFieldDefinition" value="12" />
+        <field name="Armor" type="IntegerTableFieldDefinition" value="22" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="225" />
+        <field name="Strength" type="IntegerTableFieldDefinition" value="20" />
+        <field name="Dexterity" type="IntegerTableFieldDefinition" value="18" />
+        <field name="Intelligence" type="IntegerTableFieldDefinition" value="8" />
+        <field name="Wisdom" type="IntegerTableFieldDefinition" value="14" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>
