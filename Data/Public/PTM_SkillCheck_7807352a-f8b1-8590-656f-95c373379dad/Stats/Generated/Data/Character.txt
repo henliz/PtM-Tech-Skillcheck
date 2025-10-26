@@ -1,0 +1,11 @@
+new entry "Tavern_Guard"
+type "Character"
+using "GLO_Oathbreaker_Paladin"
+data "Level" "12"
+data "Strength" "20"
+data "Dexterity" "18"
+data "Intelligence" "8"
+data "Wisdom" "14"
+data "Armor" "22"
+data "Vitality" "225"
+
