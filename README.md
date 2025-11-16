@@ -50,12 +50,12 @@ The toolkit must be unlocked to use all the features - this is what Moonglasses 
 <div align="justify">
 	
 1. [Download the files](https://cdn.discordapp.com/attachments/1372207073592606720/1420092594192515164/Moonglasses-Build-Release-586.zip?ex=6917604a&is=69160eca&hm=a96947d4571a4d5d1171aec11694ee7845548647673ed8e1c536cd668bc0e951&).
-2. Run unlock.bat, this unblocks all the .dll files that Windows complains about.
-3. Extract dxgi.dll file and MoonGlasses Folder into the 'Baldurs Gate 3 Toolkit' folder (steamapps\common\Baldurs Gate 3 Toolkit).
-4. Run the editor. If it crashes, the .dlls may be blocked, still. Right click them and go to Properties. On the bottom make sure it doesn't say they're blocked.
+2. Run `unlock.bat`, this unblocks all the .dll files that Windows complains about.
+3. Extract `dxgi.dll` file and MoonGlasses Folder into the 'Baldurs Gate 3 Toolkit' folder (`steamapps\common\Baldurs Gate 3 Toolkit`).
+4. Run the editor. If it crashes, the `.dlls` may be blocked, still. Right click them and go to Properties. On the bottom make sure it doesn't say they're blocked.
 5. If you're still crashing, please uninstall the editor, make sure the folder is empty, reinstall it, then try again.
 
-Once set up, if you open the toolkit, you should see (MoonGlasses v1.x.x.x) in the title bar. If it's there, that means the toolkit was successfully unlocked.
+Once set up, if you open the toolkit, you should see (`MoonGlasses v1.x.x.x`) in the title bar. If it's there, that means the toolkit was successfully unlocked.
 
 ### Getting a Git version control software
 Any [Git version control software](https://git-scm.com/downloads/guis) such as [GitHub Desktop](https://desktop.github.com/download/).
@@ -107,6 +107,8 @@ To pass the skill check, you'll need:
 <div align="justify">
 	
 You will have 2 weeks to complete this task upon your application being accepted. Once you're done, reach out to henliz or Kaylinh. If you applied to Integration or Systems, you may proceed upon approval of the Gameplay task, and have 2 weeks to complete your next task in the corresponding folder.
+
+Once you're **100% done with the skillcheck**, you can use the `delete_skillcheck.bat` to get rid of the repo and be ready to install PtM's after you're done onboarding! If you're worried about the file, you can right-click on it and edit to check out the script.
 
 </div>
 
