@@ -1,0 +1,19 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+DB_CheckLevelStart("GAMEPLAY_Tavern");
+KBSECTION
+IF
+LevelLoaded("GAMEPLAY_Tavern")
+THEN
+GoalCompleted;
+
+IF
+DB_CheckLevelStart("GAMEPLAY_Tavern")
+AND
+DB_CurrentLevel("GAMEPLAY_Tavern")
+THEN
+GoalCompleted;
+EXITSECTION
+
+ENDEXITSECTION

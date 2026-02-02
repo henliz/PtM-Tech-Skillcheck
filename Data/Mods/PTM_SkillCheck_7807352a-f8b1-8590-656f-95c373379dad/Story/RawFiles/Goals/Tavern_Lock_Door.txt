@@ -1,0 +1,68 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+DB_CheckLevelStart("GAMEPLAY_Tavern");
+DB_Door(DOOR_Single_Dungeon_Abbey_B_000_3ebf62f0-df6c-4489-aab0-b5662c3b6610);
+DB_Flag((FLAG)PTM_Tavern_UnlockDoor_74cd460d-9ffa-1328-c73a-c96df3263850);
+KBSECTION
+//REGION LockUnlockDoor
+IF
+FlagSet(_Flag, _, _)
+AND
+DB_Flag(_Flag)
+AND
+GetFlag(_Flag, NULL_00000000-0000-0000-0000-000000000000, 1)
+AND
+DB_Door(_Door)
+THEN
+Unlock((ITEM)_Door);
+Open((ITEM)_Door);
+
+IF
+DB_CheckLevelStart("GAMEPLAY_Tavern")
+AND
+DB_Door(_Door)
+AND
+IsLocked((ITEM)_Door, 0)
+THEN
+Close((ITEM)_Door);
+Lock((ITEM)_Door, "PTM_Tavern_SimpleDoor");
+NOT DB_CheckLevelStart("GAMEPLAY_Tavern");
+
+//END_REGION
+
+//REGION HiddenButton
+IF
+EnteredTrigger(_Player,(TRIGGER)PTM_Tavern_HiddenButton_21062ba5-0152-42f5-b9bb-d902a34726a2)
+AND
+DB_Players(_Player)
+AND
+GetCanInteract(PUZ_GEN_Button_A_001_7d1f99ec-793c-49a3-aa04-a5360a5cff31, 0)
+THEN
+RequestPassiveRoll(_Player, PUZ_GEN_Button_A_001_7d1f99ec-793c-49a3-aa04-a5360a5cff31,"Passive", "Perception",
+(DIFFICULTYCLASS)fa621d38-6f83-4e42-a55c-6aa651a75d46, 1, "PTM_Tavern_DiscoverHiddenButton");
+
+PROC
+PROC_RollResult("PTM_Tavern_DiscoverHiddenButton", _Player, PUZ_GEN_Button_A_001_7d1f99ec-793c-49a3-aa04-a5360a5cff31, 1)
+THEN
+SetCanInteract(PUZ_GEN_Button_A_001_7d1f99ec-793c-49a3-aa04-a5360a5cff31, 1);
+PROC_PlayPerceptionRevealEffect(PUZ_GEN_Button_A_001_7d1f99ec-793c-49a3-aa04-a5360a5cff31, "PTM_Tavern_DiscoverHiddenButton");
+//END_REGION
+
+//REGION OpenDoorWithButton
+IF
+UseFinished(_Player, PUZ_GEN_Button_A_001_7d1f99ec-793c-49a3-aa04-a5360a5cff31, 1)
+AND
+DB_Door(_Door)
+AND
+IsOpened((ITEM)_Door, 0)
+THEN
+Unlock((ITEM)_Door);
+Open((ITEM)_Door);
+//END_REGION
+EXITSECTION
+NOT DB_CheckLevelStart("GAMEPLAY_Tavern");
+NOT DB_Door(DOOR_Single_Dungeon_Abbey_B_000_3ebf62f0-df6c-4489-aab0-b5662c3b6610);
+NOT DB_Flag((FLAG)PTM_Tavern_UnlockDoor_74cd460d-9ffa-1328-c73a-c96df3263850);
+ENDEXITSECTION
+ParentTargetEdge "PTM_SkillCheck_Start"

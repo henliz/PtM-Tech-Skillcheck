@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="500"/>
+    <region id="TLScene">
+        <node id="root">
+            <attribute id="Identifier" type="guid" value="c9d22333-5113-96e7-d474-9be1a8bfb558"/>
+            <attribute id="SceneBounds" type="fvec3">
+                <float3 x="1" y="0" z="2"/>
+            </attribute>
+            <children>
+                <node id="LightingSetups">
+                    <children>
+                        <node id="LightingSetup">
+                            <attribute id="Id" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                            <attribute id="Name" type="LSString" value="Default"/>
+                            <children>
+                                <node id="Lights">
+                                    <children>
+                                        <node id="Light">
+                                            <attribute id="CastShadow" type="bool" value="true"/>
+                                            <attribute id="Color" type="fvec3">
+                                                <float3 x="1" y="0.97647059" z="0.89803922"/>
+                                            </attribute>
+                                            <attribute id="Id" type="guid" value="d3ff4672-e030-463f-b021-3b33b2b046a8"/>
+                                            <attribute id="Intensity" type="float" value="10"/>
+                                            <attribute id="LightChannelFlags" type="uint8" value="2"/>
+                                            <attribute id="LightCookieTexture" type="FixedString" value="00000000-0000-0000-0000-000000000000"/>
+                                            <attribute id="Name" type="LSString" value="Key"/>
+                                            <attribute id="Position" type="fvec3">
+                                                <float3 x="-0.80000001" y="0.30000001" z="-0.5"/>
+                                            </attribute>
+                                            <attribute id="PreExpose" type="bool" value="false"/>
+                                            <attribute id="Radius" type="float" value="3"/>
+                                            <attribute id="SpotLightAngles" type="fvec2">
+                                                <float2 x="75" y="90"/>
+                                            </attribute>
+                                            <attribute id="Type" type="uint8" value="1"/>
+                                        </node>
+                                        <node id="Light">
+                                            <attribute id="Color" type="fvec3">
+                                                <float3 x="0.52941179" y="0.86274511" z="1"/>
+                                            </attribute>
+                                            <attribute id="FillLight" type="bool" value="true"/>
+                                            <attribute id="Id" type="guid" value="3c3f7348-ed3d-4832-a648-72b566832495"/>
+                                            <attribute id="Intensity" type="float" value="2.5"/>
+                                            <attribute id="LightChannelFlags" type="uint8" value="2"/>
+                                            <attribute id="LightCookieTexture" type="FixedString" value="00000000-0000-0000-0000-000000000000"/>
+                                            <attribute id="Name" type="LSString" value="Fill"/>
+                                            <attribute id="Position" type="fvec3">
+                                                <float3 x="0.60000002" y="-0.55000001" z="-0.75"/>
+                                            </attribute>
+                                            <attribute id="PreExpose" type="bool" value="false"/>
+                                            <attribute id="Radius" type="float" value="3"/>
+                                            <attribute id="SpotLightAngles" type="fvec2">
+                                                <float2 x="75" y="90"/>
+                                            </attribute>
+                                            <attribute id="Type" type="uint8" value="1"/>
+                                        </node>
+                                        <node id="Light">
+                                            <attribute id="CastShadow" type="bool" value="true"/>
+                                            <attribute id="Color" type="fvec3">
+                                                <float3 x="0.79607844" y="1" z="0.78039217"/>
+                                            </attribute>
+                                            <attribute id="Id" type="guid" value="da58d5f1-361b-44a3-aea8-01fb1555b773"/>
+                                            <attribute id="Intensity" type="float" value="15"/>
+                                            <attribute id="LightChannelFlags" type="uint8" value="2"/>
+                                            <attribute id="LightCookieTexture" type="FixedString" value="00000000-0000-0000-0000-000000000000"/>
+                                            <attribute id="Name" type="LSString" value="Rim"/>
+                                            <attribute id="Position" type="fvec3">
+                                                <float3 x="0.69999999" y="0.80000001" z="1"/>
+                                            </attribute>
+                                            <attribute id="PreExpose" type="bool" value="false"/>
+                                            <attribute id="Radius" type="float" value="4"/>
+                                            <attribute id="SpotLightAngles" type="fvec2">
+                                                <float2 x="75" y="90"/>
+                                            </attribute>
+                                            <attribute id="Type" type="uint8" value="1"/>
+                                        </node>
+                                    </children>
+                                </node>
+                            </children>
+                        </node>
+                    </children>
+                </node>
+                <node id="TLActors">
+                    <children>
+                        <node id="TLActor">
+                            <attribute id="ActorType" type="uint8" value="1"/>
+                            <children>
+                                <node id="Transforms">
+                                    <children>
+                                        <node id="Object">
+                                            <attribute id="MapKey" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                                            <children>
+                                                <node id="MapValue">
+                                                    <attribute id="Position" type="fvec3">
+                                                        <float3 x="0" y="0" z="0"/>
+                                                    </attribute>
+                                                    <attribute id="RotationQuat" type="fvec4">
+                                                        <float4 x="0" y="0" z="0" w="1"/>
+                                                    </attribute>
+                                                    <attribute id="Scale" type="float" value="1"/>
+                                                </node>
+                                            </children>
+                                        </node>
+                                    </children>
+                                </node>
+                            </children>
+                        </node>
+                        <node id="TLActor">
+                            <attribute id="ActorType" type="uint8" value="2"/>
+                            <attribute id="ImportantForStaging" type="bool" value="true"/>
+                            <attribute id="TemplateId" type="guid" value="81c48711-d7cc-4a3d-9e49-665eb915c15c"/>
+                            <children>
+                                <node id="Transforms">
+                                    <children>
+                                        <node id="Object">
+                                            <attribute id="MapKey" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                                            <children>
+                                                <node id="MapValue">
+                                                    <attribute id="Position" type="fvec3">
+                                                        <float3 x="0" y="0" z="1"/>
+                                                    </attribute>
+                                                    <attribute id="RotationQuat" type="fvec4">
+                                                        <float4 x="0" y="0" z="0" w="1"/>
+                                                    </attribute>
+                                                    <attribute id="Scale" type="float" value="1"/>
+                                                </node>
+                                            </children>
+                                        </node>
+                                    </children>
+                                </node>
+                            </children>
+                        </node>
+                        <node id="TLActor">
+                            <attribute id="ActorType" type="uint8" value="4"/>
+                            <attribute id="ImportantForStaging" type="bool" value="true"/>
+                            <attribute id="TemplateId" type="guid" value="3278f064-5353-4c08-ab96-c2f432d0fda0"/>
+                            <children>
+                                <node id="Transforms">
+                                    <children>
+                                        <node id="Object">
+                                            <attribute id="MapKey" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                                            <children>
+                                                <node id="MapValue">
+                                                    <attribute id="Position" type="fvec3">
+                                                        <float3 x="-1" y="0" z="2"/>
+                                                    </attribute>
+                                                    <attribute id="RotationQuat" type="fvec4">
+                                                        <float4 x="0" y="0" z="0" w="1"/>
+                                                    </attribute>
+                                                    <attribute id="Scale" type="float" value="1"/>
+                                                </node>
+                                            </children>
+                                        </node>
+                                    </children>
+                                </node>
+                            </children>
+                        </node>
+                        <node id="TLActor">
+                            <attribute id="ActorType" type="uint8" value="4"/>
+                            <attribute id="ImportantForStaging" type="bool" value="true"/>
+                            <attribute id="TemplateId" type="guid" value="19dc6cab-aa38-4f09-b9cf-546e1c0ecb8a"/>
+                            <children>
+                                <node id="Transforms">
+                                    <children>
+                                        <node id="Object">
+                                            <attribute id="MapKey" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                                            <children>
+                                                <node id="MapValue">
+                                                    <attribute id="Position" type="fvec3">
+                                                        <float3 x="1" y="0" z="2"/>
+                                                    </attribute>
+                                                    <attribute id="RotationQuat" type="fvec4">
+                                                        <float4 x="0" y="0" z="0" w="1"/>
+                                                    </attribute>
+                                                    <attribute id="Scale" type="float" value="1"/>
+                                                </node>
+                                            </children>
+                                        </node>
+                                    </children>
+                                </node>
+                            </children>
+                        </node>
+                        <node id="TLActor">
+                            <attribute id="ActorType" type="uint8" value="4"/>
+                            <attribute id="ImportantForStaging" type="bool" value="true"/>
+                            <attribute id="TemplateId" type="guid" value="3278f064-5353-4c08-ab96-c2f432d0fda0"/>
+                            <children>
+                                <node id="Transforms">
+                                    <children>
+                                        <node id="Object">
+                                            <attribute id="MapKey" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                                            <children>
+                                                <node id="MapValue">
+                                                    <attribute id="Position" type="fvec3">
+                                                        <float3 x="0" y="0" z="3"/>
+                                                    </attribute>
+                                                    <attribute id="RotationQuat" type="fvec4">
+                                                        <float4 x="0" y="0" z="0" w="1"/>
+                                                    </attribute>
+                                                    <attribute id="Scale" type="float" value="1"/>
+                                                </node>
+                                            </children>
+                                        </node>
+                                    </children>
+                                </node>
+                            </children>
+                        </node>
+                        <node id="TLActor">
+                            <attribute id="ActorType" type="uint8" value="8"/>
+                            <attribute id="ImportantForStaging" type="bool" value="true"/>
+                            <attribute id="TemplateId" type="guid" value="00965b70-923f-449c-9188-685cb6014f84"/>
+                            <children>
+                                <node id="Transforms">
+                                    <children>
+                                        <node id="Object">
+                                            <attribute id="MapKey" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                                            <children>
+                                                <node id="MapValue">
+                                                    <attribute id="Position" type="fvec3">
+                                                        <float3 x="-8.7422777e-08" y="0" z="-1"/>
+                                                    </attribute>
+                                                    <attribute id="RotationQuat" type="fvec4">
+                                                        <float4 x="0" y="1" z="0" w="-4.3711388e-08"/>
+                                                    </attribute>
+                                                    <attribute id="Scale" type="float" value="1"/>
+                                                </node>
+                                            </children>
+                                        </node>
+                                    </children>
+                                </node>
+                            </children>
+                        </node>
+                    </children>
+                </node>
+                <node id="TLCameras">
+                    <children>
+                        <node id="Object">
+                            <attribute id="MapKey" type="guid" value="5e916247-50d4-4892-b53f-5db0868a25f7"/>
+                            <children>
+                                <node id="TLCameras">
+                                    <attribute id="Identifier" type="guid" value="5e916247-50d4-4892-b53f-5db0868a25f7"/>
+                                    <attribute id="Name" type="LSString" value="PASS"/>
+                                    <children>
+                                        <node id="Transform">
+                                            <children>
+                                                <node id="Object">
+                                                    <attribute id="MapKey" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                                                    <children>
+                                                        <node id="MapValue">
+                                                            <attribute id="Position" type="fvec3">
+                                                                <float3 x="-1.5454309e-07" y="3.5355339" z="-3.5355339"/>
+                                                            </attribute>
+                                                            <attribute id="RotationQuat" type="fvec4">
+                                                                <float4 x="0.052495103" y="2.3009921e-09" z="-1.2095759e-10" w="0.99862123"/>
+                                                            </attribute>
+                                                            <attribute id="Scale" type="float" value="1"/>
+                                                        </node>
+                                                    </children>
+                                                </node>
+                                            </children>
+                                        </node>
+                                    </children>
+                                </node>
+                            </children>
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="guid" value="ae73cfc4-0921-44f3-a67f-f3bf6c3530bd"/>
+                            <children>
+                                <node id="TLCameras">
+                                    <attribute id="Identifier" type="guid" value="ae73cfc4-0921-44f3-a67f-f3bf6c3530bd"/>
+                                    <attribute id="Name" type="LSString" value="YOU"/>
+                                    <children>
+                                        <node id="Transform">
+                                            <children>
+                                                <node id="Object">
+                                                    <attribute id="MapKey" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                                                    <children>
+                                                        <node id="MapValue">
+                                                            <attribute id="Position" type="fvec3">
+                                                                <float3 x="-1.5454309e-07" y="3.5355339" z="-3.5355339"/>
+                                                            </attribute>
+                                                            <attribute id="RotationQuat" type="fvec4">
+                                                                <float4 x="0.052495103" y="2.3009921e-09" z="-1.2095759e-10" w="0.99862123"/>
+                                                            </attribute>
+                                                            <attribute id="Scale" type="float" value="1"/>
+                                                        </node>
+                                                    </children>
+                                                </node>
+                                            </children>
+                                        </node>
+                                    </children>
+                                </node>
+                            </children>
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="guid" value="303c0f04-26c5-408f-ad0e-2b6e6988b1b2"/>
+                            <children>
+                                <node id="TLCameras">
+                                    <attribute id="Identifier" type="guid" value="303c0f04-26c5-408f-ad0e-2b6e6988b1b2"/>
+                                    <attribute id="Name" type="LSString" value="NOT"/>
+                                    <children>
+                                        <node id="Transform">
+                                            <children>
+                                                <node id="Object">
+                                                    <attribute id="MapKey" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                                                    <children>
+                                                        <node id="MapValue">
+                                                            <attribute id="Position" type="fvec3">
+                                                                <float3 x="-1.5454309e-07" y="3.5355339" z="-3.5355339"/>
+                                                            </attribute>
+                                                            <attribute id="RotationQuat" type="fvec4">
+                                                                <float4 x="0.052495103" y="2.3009921e-09" z="-1.2095759e-10" w="0.99862123"/>
+                                                            </attribute>
+                                                            <attribute id="Scale" type="float" value="1"/>
+                                                        </node>
+                                                    </children>
+                                                </node>
+                                            </children>
+                                        </node>
+                                    </children>
+                                </node>
+                            </children>
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="guid" value="45945bce-6e67-476b-8713-ca35b2a3c000"/>
+                            <children>
+                                <node id="TLCameras">
+                                    <attribute id="Identifier" type="guid" value="45945bce-6e67-476b-8713-ca35b2a3c000"/>
+                                    <attribute id="Name" type="LSString" value="SHALL"/>
+                                    <children>
+                                        <node id="Transform">
+                                            <children>
+                                                <node id="Object">
+                                                    <attribute id="MapKey" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                                                    <children>
+                                                        <node id="MapValue">
+                                                            <attribute id="Position" type="fvec3">
+                                                                <float3 x="-1.5454309e-07" y="3.5355339" z="-3.5355339"/>
+                                                            </attribute>
+                                                            <attribute id="RotationQuat" type="fvec4">
+                                                                <float4 x="0.052495103" y="2.3009921e-09" z="-1.2095759e-10" w="0.99862123"/>
+                                                            </attribute>
+                                                            <attribute id="Scale" type="float" value="1"/>
+                                                        </node>
+                                                    </children>
+                                                </node>
+                                            </children>
+                                        </node>
+                                    </children>
+                                </node>
+                            </children>
+                        </node>
+                    </children>
+                </node>
+                <node id="TLInheritedScenes">
+                    <children>
+                        <node id="TLScene">
+                            <attribute id="Object" type="string" value="Public/PTM_SkillCheck_7807352a-f8b1-8590-656f-95c373379dad/Timeline/Generated/DialogFileTest_Scene.lsx"/>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
