@@ -1,0 +1,13 @@
+new entry "SC_TavernGuard"
+type "Character"
+using "_Elf_Wood"
+data "Level" "5"
+data "Strength" "15"
+data "Constitution" "15"
+data "Intelligence" "8"
+data "Wisdom" "8"
+data "Charisma" "8"
+data "Armor" "1"
+data "Vitality" "1"
+data "Weight" "95"
+

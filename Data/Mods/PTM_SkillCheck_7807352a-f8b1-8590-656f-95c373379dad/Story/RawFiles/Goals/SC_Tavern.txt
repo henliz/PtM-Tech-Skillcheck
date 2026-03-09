@@ -1,0 +1,32 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+
+KBSECTION
+//REGION Door Button
+IF
+UseFinished(_Player, PUZ_GEN_Button_B_000_dee4284e-131d-41bc-bdff-bdb09cee0417, 1)
+AND
+NOT IsOpened(DOOR_Double_Slim_City_House_J_Frameless_Top_A_000_91e2f5fa-0be3-4f95-b23b-61c68a4965cb, 1)
+THEN
+PROC_ItemUnlockAndOpen(DOOR_Double_Slim_City_House_J_Frameless_Top_A_000_91e2f5fa-0be3-4f95-b23b-61c68a4965cb);
+
+IF
+UseFinished(_Player, PUZ_GEN_Button_B_000_dee4284e-131d-41bc-bdff-bdb09cee0417, 1)
+AND
+IsOpened(DOOR_Double_Slim_City_House_J_Frameless_Top_A_000_91e2f5fa-0be3-4f95-b23b-61c68a4965cb, 1)
+THEN
+PROC_ItemCloseAndLock(DOOR_Double_Slim_City_House_J_Frameless_Top_A_000_91e2f5fa-0be3-4f95-b23b-61c68a4965cb, "ce903789-5ed5-434a-8143-1f85bac1a110");
+//END_REGION
+
+
+//REGION Door From Dialogue
+IF
+DB_GlobalFlag(SC_AllowToEnter_8fb881d8-ea91-d4a4-0f5f-f0c36d0eccbd)
+THEN
+PROC_ItemUnlockAndOpen(DOOR_Double_Slim_City_House_J_Frameless_Top_A_000_91e2f5fa-0be3-4f95-b23b-61c68a4965cb);
+//END_REGION
+
+EXITSECTION
+
+ENDEXITSECTION
