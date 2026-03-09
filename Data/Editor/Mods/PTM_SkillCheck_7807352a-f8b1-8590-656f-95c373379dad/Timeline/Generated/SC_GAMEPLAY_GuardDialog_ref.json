@@ -1,0 +1,18 @@
+{
+  "Flags": {
+    "2f3fbde0-83a5-f457-3493-ac4f27812189": [
+      "SC_Tavern_SpokeToGuard"
+    ],
+    "9179cb07-3e2b-77a2-423d-a7c308209d8c": [
+      "SC_Tavern_SpokeToGuard"
+    ],
+    "11049388-2419-d1b3-e819-6c8a67fe89db": [ ],
+    "8452b633-398d-75ee-e74c-cb741e592fed": [ ]
+  },
+  "Lines": {
+    "2f3fbde0-83a5-f457-3493-ac4f27812189": "Halt. The tavern is closed to outsiders.",
+    "9179cb07-3e2b-77a2-423d-a7c308209d8c": "Move along.",
+    "11049388-2419-d1b3-e819-6c8a67fe89db": "Fine. Don't cause trouble inside.",
+    "8452b633-398d-75ee-e74c-cb741e592fed": "No. The tavern stays closed."
+  }
+}

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="a8098c1a-f86e-11da-bd1a-00112444be1e">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="57e8f2bc-d902-4e57-8b29-f931014ef18b" />
+        <field name="Name" type="NameTableFieldDefinition" value="SC_TavernGuard" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="e68cb68f-48bf-4c9c-9b8a-f4cac498fa33" />
+        <field name="Level" type="IntegerTableFieldDefinition" value="5" />
+        <field name="Strength" type="IntegerTableFieldDefinition" value="15" />
+        <field name="Constitution" type="IntegerTableFieldDefinition" value="15" />
+        <field name="Intelligence" type="IntegerTableFieldDefinition" value="8" />
+        <field name="Wisdom" type="IntegerTableFieldDefinition" value="8" />
+        <field name="Charisma" type="IntegerTableFieldDefinition" value="8" />
+        <field name="Armor" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="95" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>
