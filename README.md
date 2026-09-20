@@ -10,10 +10,10 @@ October 1, 2025 -->
 
 <!-- placeholder intro speech -->
 <div align="justify">
-  <p>Welcome to the Path to Menzoberranzan's technical skillcheck! Thank you for your interest in our project. Before getting into it, you'll have to set up your working environment. First, you'll have to complete the Gameplay task (no matter which track you applied to!), and then if you applied to it, the Integration or the Systems task. Good luck!</p>
+  <p>Welcome to the Path to Menzoberranzan's technical skillcheck! Thank you for your interest in our project. Before getting into it, you'll have to set up your work environment. The current skill check consists of only the Gameplay Task. If you're curious, you can take a look at the other tasks, but they're <b>not</b> a requirement (unless otherwise stated by a team member) and in parts do not accurately reflect their respective departments anymore. Good luck!</p>
 
 
-<p><strong>Director's note:</strong> Hi all, I’m Hen, Technical Director for Path to Menzoberranzan. While this repository is public on my github acc for ease of access, please don’t jump in and complete the tasks unless you’ve officially joined the process. You should only attempt this skill check if you’ve already <a href="https://discord.gg/ptm" target="_blank" rel="noopener noreferrer">joined our Discord server</a>, filled out the application form, and been invited to begin. This ensures fairness to applicants and helps us keep track of everyone progressing through the pipeline. Thank you ❤︎</p>
+<p><strong>Note:</strong> Hi all, I’m Hen. While this repository is public on my github acc for ease of access, please don’t jump in and complete the tasks unless you’ve officially joined the process. You should only attempt this skill check if you’ve already <a href="https://discord.gg/ptm" target="_blank" rel="noopener noreferrer">joined our Discord server</a>, filled out the application form, and been invited to begin. This ensures fairness to applicants and helps us keep track of everyone progressing through the pipeline. Thank you ❤︎</p>
 </div>
 
 ___
@@ -106,7 +106,7 @@ To pass the skill check, you'll need:
 
 <div align="justify">
 	
-You will have 2 weeks to complete this task upon your application being accepted. Once you're done, reach out to henliz or Kaylinh. If you applied to Integration or Systems, you may proceed upon approval of the Gameplay task, and have 2 weeks to complete your next task in the corresponding folder.
+You will have 2 weeks to complete this task upon your application being accepted. Once you're done, reach out in your task thread on Discord.
 
 Once you're **100% done with the skillcheck**, you can use the `delete_skillcheck.bat` to get rid of the repo and be ready to install PtM's after you're done onboarding! If you're worried about the file, you can right-click on it and edit to check out the script.
 
@@ -127,8 +127,3 @@ Other resources:
   - [Queries](https://docs.baldursgate3.game/index.php?title=Category:Osiris_Queries)
   - [Calls](https://docs.baldursgate3.game/index.php?title=Category:Osiris_Calls)
 - [BG3 Modding Discord](https://discord.gg/4rCzfyNEBP) (we strongly recommend you to join this discord server)
-
-
-
-
-
